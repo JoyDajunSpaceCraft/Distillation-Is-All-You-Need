@@ -1,6 +1,7 @@
 git+https://github.com/huggingface/transformers@v4.24.0 datasets sentencepiece protobuf==3.20.* tensorboardX
 wandb
 peft
+trl
 accelerate
 pyserini
 faiss-gpu
