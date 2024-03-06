@@ -1,0 +1,137 @@
+{"Diagnosis with the Chondrosarcoma": [
+    {
+        "question": {
+            "en": "Which treatment guidelines should be followed for atypical cartilaginous tumors?"
+        },
+        "answer": {
+            "en": "For atypical cartilaginous tumors, the CHON-2 treatment guidelines should be followed."
+        },
+        "CHON-2": {
+            "PRIMARY_TREATMENT": {
+                
+                "en": {
+                    "Atypical cartilaginous tumors": "For atypical cartilaginous tumors, recommended treatments include intralesional excision and potential surgical adjuvant therapy, or observation."
+                }
+            },
+            "SURVEILLANCE": {
+                
+                "en": {
+                    "Surveillance": "Physical exam, X-rays of the primary site and/or cross-sectional imaging every 6–12 months for 2 years, then yearly early, CT with contrast or MRI with and without contrast as clinically indicated."
+                }
+            },
+            "RECURRENCE": {
+                
+                "en": {
+                    "Recurrence": "In case of local recurrence, imaging of the primary site as clinically indicated (e.g., X-ray, MRI with and without contrast, and CT with contrast), chest imaging, optional bone scan, biopsy to confirm diagnosis. If there is malignant transformation, treat as described on CHON-3."
+                }
+            },
+            "WORKUP": {
+                
+                "en": {
+                    "Workup": "Upon recurrence, imaging of the primary site as clinically indicated, including X-ray, MRI with and without contrast, and CT with contrast, chest imaging, optional bone scan, biopsy to confirm diagnosis. If there is malignant transformation, treat as described on CHON-3."
+                }
+            }
+        }
+    },
+    {
+        "question": {
+            "en": "How should low-grade extracompartmental appendicular tumors, grade I axial tumors, high-grade tumors, clear cell tumors, or extracompartmental tumors be treated?"
+        },
+        "answer": {
+            "en": "These types of tumors should be treated according to the CHON-3 treatment guidelines."
+        },
+        "CHON-3": {
+            "PRIMARY_TREATMENT": {
+                
+                "en": {
+                    "Low-grade extracompartmental appendicular tumors or Grade I axial tumors or High-grade (grade II, grade III) or Clear cell or Extracompartmental": "Wide excision, if resectable or consider RT (radiation therapy), if borderline resectable or unresectable (category 2B)."
+                }
+            },
+            "SURVEILLANCE": {
+                
+                "en": {
+                    "Surveillance": "Physical exam, X-rays of primary site and/or cross-sectional imaging as clinically indicated, may include CT with contrast or MRI with and without contrast, Chest imaging every 3–6 mo for minimum of 5 y, then yearly for a minimum of 10 y, as clinically indicated, reassess function at every follow-up visit."
+                }
+            },
+            "RECURRENCE": {
+                "Local_recurrence": {
+                    "question": {
+                        "en": "What measures should be taken if there is a local recurrence?"
+                    },
+                    "answer": {
+                        "en": "Wide excision is preferred if there is a local recurrence and the tumor is resectable. Consider radiation therapy (category 2B recommendation) if the tumor is borderline resectable or unresectable."
+                    },
+                    "Positive_margins": {
+                        "question": {
+                            "en": "What should be done if the margins are positive at local recurrence?"
+                        },
+                        "answer": {
+                            "en": "If the margins are positive at recurrence, consider radiation therapy (category 2B recommendation) or consider re-resection to achieve negative surgical margins."
+                        }
+                    },
+                    "Negative_margins": {
+                        "question": {
+                            "en": "What should be done if the margins are negative at local recurrence?"
+                        },
+                        "answer": {
+                            "en": "If the margins are negative at recurrence, observation should be carried out."
+                        }
+                    }
+                },
+                "Systemic_recurrence": {
+                    "question": {
+                        "en": "How should systemic recurrence be managed?"
+                    },
+                    "answer": {
+                        "en": "Systemic recurrence should be considered as metastatic chondrosarcoma and managed according to the CHON-4 guidelines."
+                    }
+                }
+            }
+        }
+    },
+    {
+        "question": {
+            "en": "How should metastatic disease at presentation or dedifferentiated tumors be treated?"
+        },
+        "answer": {
+            "en": "Metastatic disease at presentation or dedifferentiated tumors should be treated according to the CHON-4 treatment guidelines."
+        },
+        "CHON-4": {
+            "Metastatic_Chondrosarcoma": {
+                "Dedifferentiated_and_Mesenchymal": {
+                    "question": {
+                        "en": "What treatment measures should be taken for dedifferentiated and mesenchymal metastatic chondrosarcoma?"
+                    },
+                    "answer": {
+                        "en": "The treatment for dedifferentiated metastatic chondrosarcoma should be considered according to the EW-1 guidelines."
+                    }
+                },
+                "Oligometastatic_Disease": {
+                    "question": {
+                        "en": "How should oligometastatic chondrosarcoma be managed?"
+                    },
+                    "answer": {
+                        "en": "Surgical excision of all metastatic sites should be performed if possible. Consider radiation therapy for unresectable sites and consider participation in clinical trials."
+                    }
+                },
+                "Widespread_Disease": {
+                    "question": {
+                        "en": "What are the treatment options for widespread metastatic chondrosarcoma?"
+                    },
+                    "answer": {
+                        "en": "Radiation therapy, surgery, and/or ablative therapies should be considered for symptomatic sites. Systemic therapy and participation in clinical trials should also be considered."
+                    }
+                }
+            }
+        }
+    },
+    {
+        "question": {
+            "en": "How should mesenchymal tumors be treated?"
+        },
+        "answer": {
+            "en": "Mesenchymal tumors should be treated in accordance with the NCCN category 2B guidelines for Ewing's sarcoma, designated as EW-1."
+        },
+        "EW-1": "Ewing_Sarcoma_Treatment_Guidelines"
+    }
+]}

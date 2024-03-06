@@ -1,0 +1,23 @@
+{
+    "dataset": "csnlp",  
+    "subsample": 1.0,
+    "alpha": 0.5,
+    "max_steps": 100,
+    "eval_steps": 10,
+    "batch_size": 1,
+    "optimizer_name": "AdamW",
+    "lr": 5e-5,
+    "run": 0,
+    "from_pretrained": "google/t5-v1_1-base",
+    "label_type": "gt",
+    "llm": "palm",
+    "max_input_length": 1024,
+    "grad_steps": 1,
+    "local_rank": -1,
+    "gen_max_len": 64,
+    "parallelize": false,  
+    "model_type": "task_prefix",
+    "bf16": false,
+    "no_log": false,
+    "output_rationale": false
+}

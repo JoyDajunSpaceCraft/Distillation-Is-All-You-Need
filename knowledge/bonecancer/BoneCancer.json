@@ -1,0 +1,1099 @@
+{
+    "diagnostic_flow": [
+        {
+            "question": {
+                "zh": "当出现症状性骨病变并且X光检查异常时，应采取哪些措施？",
+                "en": "What steps should be taken when a symptomatic bone lesion is present and the X-ray is abnormal?"
+            },
+            "answer": {
+                "zh": "根据患者的年龄，决定下一步的诊疗路径。",
+                "en": "The next step in the diagnostic pathway depends on the patient's age."
+            },
+            "follow_up_question": {
+                "zh": "患者的年龄是多少？",
+                "en": "What is the age of the patient?"
+            },
+            "age_based_decision": [
+                {
+                    "age_under_40": {
+                        "question": {
+                            "zh": "如果患者年龄小于40岁，应如何处理？",
+                            "en": "What should be done if the patient is under 40 years of age?"
+                        },
+                        "answer": {
+                            "zh": "患者应该被转诊到骨科肿瘤专家，并在治疗机构进行活检（如果有指征的话）。",
+                            "en": "The patient should be referred to an orthopedic oncologist, and a biopsy should be performed at the treating institution if indicated."
+                        }
+                    },
+                    "age_40_or_older": {
+                        "question": {
+                            "zh": "如果患者年龄大于或等于40岁，应如何处理？",
+                            "en": "What should be done if the patient is 40 years of age or older?"
+                        },
+                        "answer": {
+                            "zh": "应该进行进一步的检查以确定是否为骨转移病变。",
+                            "en": "Further tests should be conducted to determine if bone metastasis is present."
+                        },
+                        "follow_up_tests": {
+                            "question": {
+                                "zh": "应进行哪些检查来确定是否为骨转移病变？",
+                                "en": "What tests should be performed to determine if bone metastasis is present?"
+                            },
+                            "answer": {
+                                "zh": "这些检查包括病史和体检、骨扫描或FDG-PET/CT、胸部X光、血清蛋白电泳（SPEP）和其他实验室检查。",
+                                "en": "These tests include history and physical examination, bone scan or FDG-PET/CT, chest X-ray, serum protein electrophoresis (SPEP),Mammogram, Chest/abdominal/pelvic (C/A/P) CT with contrast, Prostate-specific antigen (PSA), and other lab tests."
+                            },
+                            "if_no_other_lesions": {
+                                "question": {
+                                    "zh": "如果没有发现其他病变，应如何处理？",
+                                    "en": "What should be done if no other lesions are found?"
+                                },
+                                "answer": {
+                                    "zh": "患者应该被转诊到骨科肿瘤专家进行活检。",
+                                    "en": "The patient should be referred to an orthopedic oncologist for a biopsy."
+                                }
+                            },
+                            "if_other_lesions": {
+                                "question": {
+                                    "zh": "如果检查中发现其他非骨原发病变的迹象，应如何处理？",
+                                    "en": "What should be done if signs of other non-bone primary lesions are found during the examination?"
+                                },
+                                "answer": {
+                                    "zh": "应根据NCCN指南进行特定癌症类型的治疗。",
+                                    "en": "Treatment should follow the NCCN guidelines for the specific type of cancer."
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "Diagnosis with the Chondrosarcoma": [
+        {
+            "question": {
+                "zh": "对于非典型软骨肿瘤应该采取哪种治疗指导方针？",
+                "en": "Which treatment guidelines should be followed for atypical cartilaginous tumors?"
+            },
+            "answer": {
+                "zh": "对于非典型软骨肿瘤，应遵循CHON-2的治疗指导方针。",
+                "en": "For atypical cartilaginous tumors, the CHON-2 treatment guidelines should be followed."
+            },
+            "CHON-2": {
+                "PRIMARY_TREATMENT": {
+                    "zh": {
+                        "非典型软骨肿瘤": "对于非典型软骨肿瘤，推荐的治疗方法包括局部切除和可能的手术辅助治疗，或者进行观察等待。"
+                    },
+                    "en": {
+                        "Atypical cartilaginous tumors": "For atypical cartilaginous tumors, recommended treatments include intralesional excision and potential surgical adjuvant therapy, or observation."
+                    }
+                },
+                "SURVEILLANCE": {
+                    "zh": {
+                        "随访监测": "物理检查、原发部位的X光检查和/或横断面成像，每6-12个月一次，持续两年，然后每年早期检查，如临床上有指征，则进行带对比剂的CT或MRI检查。"
+                    },
+                    "en": {
+                        "Surveillance": "Physical exam, X-rays of the primary site and/or cross-sectional imaging every 6–12 months for 2 years, then yearly early, CT with contrast or MRI with and without contrast as clinically indicated."
+                    }
+                },
+                "RECURRENCE": {
+                    "zh": {
+                        "复发": "如果发生局部复发，进行原发部位的影像学检查（如X光、带对比剂和不带对比剂的MRI、带对比剂的CT检查），胸部影像学检查，可选择进行骨扫描，进行活检以确认诊断。如果出现恶性转化，按照CHON-3的指导方针治疗。"
+                    },
+                    "en": {
+                        "Recurrence": "In case of local recurrence, imaging of the primary site as clinically indicated (e.g., X-ray, MRI with and without contrast, and CT with contrast), chest imaging, optional bone scan, biopsy to confirm diagnosis. If there is malignant transformation, treat as described on CHON-3."
+                    }
+                },
+                "WORKUP": {
+                    "zh": {
+                        "工作流程": "复发时，进行原发部位的影像学检查，如有临床指征，包括X光、带对比剂和不带对比剂的MRI、带对比剂的CT检查，胸部影像学检查，可选择进行骨扫描，进行活检以确认诊断。如果出现恶性转化，按照CHON-3的指导方针治疗。"
+                    },
+                    "en": {
+                        "Workup": "Upon recurrence, imaging of the primary site as clinically indicated, including X-ray, MRI with and without contrast, and CT with contrast, chest imaging, optional bone scan, biopsy to confirm diagnosis. If there is malignant transformation, treat as described on CHON-3."
+                    }
+                }
+            }
+        },
+        {
+            "question": {
+                "zh": "低级别的肢体外围部位肿瘤、一级别轴向肿瘤、高级别肿瘤、透明细胞肿瘤或肢体外围部位肿瘤应该如何处理？",
+                "en": "How should low-grade extracompartmental appendicular tumors, grade I axial tumors, high-grade tumors, clear cell tumors, or extracompartmental tumors be treated?"
+            },
+            "answer": {
+                "zh": "这些类型的肿瘤应该按照CHON-3的治疗指导方针进行处理。",
+                "en": "These types of tumors should be treated according to the CHON-3 treatment guidelines."
+            },
+            "CHON-3": {
+                "PRIMARY_TREATMENT": {
+                    "zh": {
+                        "低级别肢体外围部位肿瘤或一级别轴向肿瘤或高级别肿瘤（II级，III级）或透明细胞肿瘤或肢体外围部位肿瘤": "广泛切除，如果可切除或考虑放疗，如果是边界可切除或不可切除（2B类别）。"
+                    },
+                    "en": {
+                        "Low-grade extracompartmental appendicular tumors or Grade I axial tumors or High-grade (grade II, grade III) or Clear cell or Extracompartmental": "Wide excision, if resectable or consider RT (radiation therapy), if borderline resectable or unresectable (category 2B)."
+                    }
+                },
+                "SURVEILLANCE": {
+                    "zh": {
+                        "随访监测": "物理检查，原发部位X射线或根据临床指示的横断面成像，可考虑CT带对比或MRI带对比和不带对比，胸部成像每3-6个月一次，至少每6个月进行一次CT，持续5年，然后每年至少一次，每次随访都要重新评估功能状态。"
+                    },
+                    "en": {
+                        "Surveillance": "Physical exam, X-rays of primary site and/or cross-sectional imaging as clinically indicated, may include CT with contrast or MRI with and without contrast, Chest imaging every 3–6 mo for minimum of 5 y, then yearly for a minimum of 10 y, as clinically indicated, reassess function at every follow-up visit."
+                    }
+                },
+                "RECURRENCE": {
+                    "Local_recurrence": {
+                        "question": {
+                            "zh": "如果发生局部复发，应采取哪些措施？",
+                            "en": "What measures should be taken if there is a local recurrence?"
+                        },
+                        "answer": {
+                            "zh": "如果局部复发，首选广泛切除，如果肿瘤可切除。如果肿瘤边界可切除或不可切除，考虑放疗（2B类别推荐）。",
+                            "en": "Wide excision is preferred if there is a local recurrence and the tumor is resectable. Consider radiation therapy (category 2B recommendation) if the tumor is borderline resectable or unresectable."
+                        },
+                        "Positive_margins": {
+                            "question": {
+                                "zh": "如果局部复发时切缘呈阳性，应该怎么办？",
+                                "en": "What should be done if the margins are positive at local recurrence?"
+                            },
+                            "answer": {
+                                "zh": "如果复发的边缘呈阳性，考虑放疗（2B类别推荐）或者考虑再次切除以获得阴性的手术边缘。",
+                                "en": "If the margins are positive at recurrence, consider radiation therapy (category 2B recommendation) or consider re-resection to achieve negative surgical margins."
+                            }
+                        },
+                        "Negative_margins": {
+                            "question": {
+                                "zh": "如果局部复发时切缘呈阴性，应该怎么办？",
+                                "en": "What should be done if the margins are negative at local recurrence?"
+                            },
+                            "answer": {
+                                "zh": "如果复发的边缘呈阴性，应进行观察。",
+                                "en": "If the margins are negative at recurrence, observation should be carried out."
+                            }
+                        }
+                    },
+                    "Systemic_recurrence": {
+                        "question": {
+                            "zh": "如果发生系统性复发，应如何处理？",
+                            "en": "How should systemic recurrence be managed?"
+                        },
+                        "answer": {
+                            "zh": "系统性复发应视为转移性软骨肉瘤，并根据CHON-4指南进行处理。",
+                            "en": "Systemic recurrence should be considered as metastatic chondrosarcoma and managed according to the CHON-4 guidelines."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "question": {
+                "zh": "在初次呈现时就已经是转移性疾病或分化不良的肿瘤应如何处理？",
+                "en": "How should metastatic disease at presentation or dedifferentiated tumors be treated?"
+            },
+            "answer": {
+                "zh": "在初次呈现时就已经是转移性疾病或分化不良的肿瘤应按照CHON-4的治疗指导方针进行处理。",
+                "en": "Metastatic disease at presentation or dedifferentiated tumors should be treated according to the CHON-4 treatment guidelines."
+            },
+            "CHON-4": {
+                "Metastatic_Chondrosarcoma": {
+                    "Dedifferentiated_and_Mesenchymal": {
+                        "question": {
+                            "zh": "对于分化不良型和间充质型的转移性软骨肉瘤，应采取哪些治疗措施？",
+                            "en": "What treatment measures should be taken for dedifferentiated and mesenchymal metastatic chondrosarcoma?"
+                        },
+                        "answer": {
+                            "zh": "应根据EW-1的治疗指南来考虑治疗分化不良型的转移性软骨肉瘤。",
+                            "en": "The treatment for dedifferentiated metastatic chondrosarcoma should be considered according to the EW-1 guidelines."
+                        }
+                    },
+                    "Oligometastatic_Disease": {
+                        "question": {
+                            "zh": "对于寡转移性软骨肉瘤，应如何处理？",
+                            "en": "How should oligometastatic chondrosarcoma be managed?"
+                        },
+                        "answer": {
+                            "zh": "应尽可能手术切除所有转移灶。对于不可切除部位，考虑放疗。还应考虑参加临床试验。",
+                            "en": "Surgical excision of all metastatic sites should be performed if possible. Consider radiation therapy for unresectable sites and consider participation in clinical trials."
+                        }
+                    },
+                    "Widespread_Disease": {
+                        "question": {
+                            "zh": "对于广泛性转移性软骨肉瘤，有哪些治疗选项？",
+                            "en": "What are the treatment options for widespread metastatic chondrosarcoma?"
+                        },
+                        "answer": {
+                            "zh": "对于有症状的病灶，应考虑放疗、手术和/或消融疗法。此外，应考虑系统性治疗和参加临床试验。",
+                            "en": "Radiation therapy, surgery, and/or ablative therapies should be considered for symptomatic sites. Systemic therapy and participation in clinical trials should also be considered."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "question": {
+                "zh": "间充质肿瘤应该如何处理？",
+                "en": "How should mesenchymal tumors be treated?"
+            },
+            "answer": {
+                "zh": "间充质肿瘤应当按照NCCN针对尤文肉瘤的2B类别指导方针EW-1进行处理。",
+                "en": "Mesenchymal tumors should be treated in accordance with the NCCN category 2B guidelines for Ewing's sarcoma, designated as EW-1."
+            },
+            "EW-1": "Ewing_Sarcoma_Treatment_Guidelines"
+        }
+    ],
+    "Diagnosis_with_the_Chordoma": {
+        "WORKUP": {
+            "question": {
+                "zh": "对于脊索瘤的诊断工作流程包括哪些步骤？",
+                "en": "What are the steps included in the diagnostic workup for chordoma?"
+            },
+            "answer": {
+                "zh": "诊断工作流程包括由多学科团队评估和治疗、病史和体格检查、原发部位的充分横断面成像、带对比剂的C/A/P CT、考虑FDG-PET/CT扫描以及如果FDG-PET/CT扫描阴性则进行骨扫描。",
+                "en": "The diagnostic workup includes evaluation and treatment by a multidisciplinary team, history and physical examination, adequate cross-sectional imaging of the primary site, C/A/P CT with contrast, consideration of FDG-PET/CT scan, and bone scan if FDG-PET/CT is negative."
+            }
+        },
+        "HISTOLOGIC_SUBTYPE": {
+            "Conventional_or_Chondroid": {
+                "question": {
+                    "zh": "对于常见型或软骨型脊索瘤，应参考哪个指南进行呈现和初步治疗？",
+                    "en": "Which guideline should be referred to for the presentation and initial treatment of conventional or chondroid chordoma?"
+                },
+                "answer": {
+                    "zh": "应参考脊索瘤的呈现和初步治疗指南（CHOR-2）。",
+                    "en": "The guidelines for the presentation and primary treatment (CHOR-2) should be referred to."
+                }
+            },
+            "Poorly_differentiated_or_Dedifferentiated": {
+                "question": {
+                    "zh": "对于分化不良型或去分化型脊索瘤，应参考哪个指南？",
+                    "en": "Which guidelines should be referred to for poorly differentiated or dedifferentiated chordoma?"
+                },
+                "answer": {
+                    "zh": "应参考软组织肉瘤的NCCN指南。",
+                    "en": "The NCCN guidelines for soft tissue sarcoma should be referred to."
+                }
+            }
+        },
+        "Chordoma_Treatment_Guidelines": {
+            "Presentation": {
+                "Sacrococcygeal_and_Mobile_Spine": {
+                    "question": {
+                        "en": "Is the sacrococcygeal or mobile spine chordoma resectable?",
+                        "zh": "骶尾部或可移动脊椎的脊索瘤是否可以切除？"
+                    },
+                    "answers": {
+                        "yes": {
+                            "treatment": {
+                                "en": "Perform wide resection and consider radiation therapy if needed.",
+                                "zh": "进行广泛切除，并在必要时考虑放疗。"
+                            },
+                            "Adjuvant_Treatment": {
+                                "statement": {
+                                    "en": "Are the surgical margins positive or is the tumor a large extracompartmental tumor then Surveillance (CHOR-3)",
+                                    "zh": "手术切缘是否呈阳性，或者肿瘤是否为大型肢体外围肿瘤？去监视 (CHOR-3)找答案"
+                                }
+                            },
+                            "no": {
+                                "treatment": {
+                                    "en": "Consider radiation therapy as the tumor is unresectable.",
+                                    "zh": "由于肿瘤不可切除，考虑放疗。对于颅底/颅咽部脊索瘤，采取相同的治疗方法。"
+                                },
+                                "follow_statement": {
+                                    "en": "Surveillance (CHOR-3)",
+                                    "zh": "监视 (CHOR-3)"
+                                }
+                            }
+                        }
+                    },
+                    "Skull_Base_Clival": {
+                        "question": {
+                            "en": "Is the skull base or clival chordoma resectable?",
+                            "zh": "颅底或枕骨的脊索瘤是否可以切除？"
+                        },
+                        "answers": {
+                            "yes": {
+                                "treatment": {
+                                    "en": "Perform intralesional excision and consider radiation therapy if needed.",
+                                    "zh": "进行局部切除，并在必要时考虑放疗。"
+                                },
+                                "Adjuvant_Treatment": {
+                                    "statement": {
+                                        "en": "Consider radiation therapy for positive surgical margins or for large extracompartmental tumors.",
+                                        "zh": "对于阳性手术切缘或大型肢体外围肿瘤，考虑放疗。"
+                                    },
+                                    "reexcision": {
+                                        "en": "Consider re-resection if necessary.",
+                                        "zh": "如果必要，考虑再次切除。"
+                                    }
+                                },
+                                "follow_statement": {
+                                    "en": "Follow-up with contrast-enhanced MRI of the primary site to assess the adequacy of resection.",
+                                    "zh": "进行原位增强MRI随访，以评估切除的充分性。"
+                                }
+                            },
+                            "no": {
+                                "treatment": {
+                                    "en": "Consider radiation therapy as the tumor is unresectable.",
+                                    "zh": "由于肿瘤不可切除，考虑放疗。"
+                                },
+                                "follow_statement": {
+                                    "en": "Perform surveillance according to CHOR-3",
+                                    "zh": "按照CHOR-3进行监视。"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Surveillance": {
+                "question": {
+                    "en": "How should surveillance for chordoma be conducted?",
+                    "zh": "如何进行脊索瘤的监测？"
+                },
+                "answer": {
+                    "en": [
+                        "Regular physical examinations should be conducted.",
+                        "Imaging of the primary site should be done as clinically indicated, which may include x-ray, MRI with and without contrast, CT with contrast, etc.",
+                        "Chest imaging should be done every 6 months, which may include CT annually for 5 years, then annually thereafter, as clinically indicated."
+                    ],
+                    "zh": [
+                        "应定期进行体检。",
+                        "根据临床指示进行原发肿瘤部位的影像学检查，可能包括X光、带有和不带有对比剂的MRI、对比剂CT等。",
+                        "每6个月进行一次胸部成像，可能包括连续5年每年一次的CT，之后根据临床指示每年进行一次。"
+                    ]
+                }
+            },
+            "Recurrence": {
+                "Local_recurrence": {
+                    "question": {
+                        "en": "How should a local recurrence of chordoma be treated?",
+                        "zh": "如果脊索瘤局部复发，应如何处理？"
+                    },
+                    "answer": {
+                        "en": [
+                            "Surgical excision may be considered.",
+                            "Radiation therapy (RT) may be considered.",
+                            "Systemic therapy may be considered."
+                        ],
+                        "zh": [
+                            "可以考虑手术切除。",
+                            "可以考虑放疗（RT）。",
+                            "可以考虑系统治疗。"
+                        ]
+                    }
+                },
+                "Metastatic_recurrence": {
+                    "question": {
+                        "en": "How should a metastatic recurrence of chordoma be treated?",
+                        "zh": "如果脊索瘤转移性复发，应如何处理？"
+                    },
+                    "answer": {
+                        "en": [
+                            "Systemic therapy may be considered.",
+                            "Surgical excision may be considered.",
+                            "Radiation therapy (RT) may be considered.",
+                            "Best supportive care may be considered."
+                        ],
+                        "zh": [
+                            "可以考虑系统治疗。",
+                            "可以考虑手术切除。",
+                            "可以考虑放疗（RT）。",
+                            "可以考虑最佳支持治疗。"
+                        ]
+                    }
+                }
+            },
+            "Additional_Information": {
+                "Targeted_Therapy_Decision": {
+                    "question": {
+                        "en": "How are targeted therapy opportunities for chordoma determined?",
+                        "zh": "如何决定脊索瘤的靶向治疗机会？"
+                    },
+                    "answer": {
+                        "en": "Consideration should be given to CGP with a validated and/or FDA-approved assay to determine targeted therapy opportunities.",
+                        "zh": "应考虑通过验证的和/或FDA批准的检测方法来决定靶向治疗的机会。"
+                    }
+                },
+                "TMB_and_MMR_MSI_Testing": {
+                    "question": {
+                        "en": "Should TMB and MMR/MSI testing be considered in the treatment of chordoma?",
+                        "zh": "在脊索瘤的治疗中是否应该进行TMB和MMR/MSI的测试？"
+                    },
+                    "answer": {
+                        "en": "Testing for TMB and MMR/MSI may be considered as determined by a validated and/or FDA-approved assay to inform treatment options.",
+                        "zh": "可以考虑进行TMB和MMR/MSI的测试，以通过验证的和/或FDA批准的检测方法来通知治疗选择。"
+                    }
+                }
+            }
+        }
+    },
+    "Ewing_Sarcoma_Treatment_Guidelines": {
+        "Workup": {
+            "question": {
+                "en": "What are the recommended workup procedures for Ewing Sarcoma?",
+                "zh": "Ewing肉瘤的推荐工作检查程序是什么？"
+            },
+            "answer": {
+                "en": [
+                    "History and physical examination.",
+                    "Contrast-enhanced MRI of the primary site.",
+                    "Chest CT.",
+                    "FDG-PET/CT (head-to-toe) and/or bone scan.",
+                    "Consider bone marrow biopsy and/or screening MRI (with and without contrast) of spine and pelvis.",
+                    "Cytogenetics and/or molecular studies.",
+                    "Lactate dehydrogenase (LDH) test.",
+                    "Fertility consultation should be considered."
+                ],
+                "zh": [
+                    "病史和身体检查。",
+                    "原发部位的增强MRI。",
+                    "胸部CT。",
+                    "FDG-PET/CT（从头到脚）和/或骨扫描。",
+                    "考虑进行骨髓活检和/或脊柱和骨盆的筛选MRI（带或不带对比剂）。",
+                    "细胞遗传学和/或分子研究。",
+                    "乳酸脱氢酶（LDH）检测。",
+                    "应考虑生育咨询。"
+                ]
+            }
+        },
+        "Primary_Treatment": {
+            "question": {
+                "en": "What is the primary treatment for localized Ewing Sarcoma?",
+                "zh": "局部Ewing肉瘤的初级治疗是什么？"
+            },
+            "answer": {
+                "en": "Multiagent chemotherapy for at least 9 weeks prior to local therapy.",
+                "zh": "在局部治疗前至少9周的多药化疗。"
+            }
+        },
+        "Restage": {
+            "question": {
+                "en": "What are the procedures for restaging Ewing Sarcoma?",
+                "zh": "Ewing肉瘤的再分期程序是什么？"
+            },
+            "answer": {
+                "en": [
+                    "Restage with chest CT.",
+                    "Contrast-enhanced MRI plus CT (without contrast) of the primary site.",
+                    "X-rays of the primary site.",
+                    "Consider FDG-PET/CT (head-to-toe) or bone scan.",
+                    "Repeat other abnormal studies."
+                ],
+                "zh": [
+                    "使用胸部CT进行再分期。",
+                    "原发部位的增强MRI加CT（不带对比剂）。",
+                    "原发部位的X光。",
+                    "考虑FDG-PET/CT（从头到脚）或骨扫描。",
+                    "重复其他异常研究。"
+                ]
+            }
+        },
+        "Response_Assessment": {
+            "Localized_Disease": {
+                "question": {
+                    "en": "How is the response to treatment assessed for localized Ewing Sarcoma?",
+                    "zh": "如何评估局部Ewing肉瘤对治疗的反应？"
+                },
+                "answer": {
+                    "en": "Refer to the EW-2 section for response evaluation criteria.",
+                    "zh": "参考EW-2部分的反应评估标准。"
+                }
+            },
+            "Metastatic_Disease": {
+                "question": {
+                    "en": "How is the response to treatment assessed for metastatic Ewing Sarcoma?",
+                    "zh": "如何评估转移性Ewing肉瘤对治疗的反应？"
+                },
+                "answer": {
+                    "en": "Refer to the EW-3 section for response evaluation criteria.",
+                    "zh": "参考EW-3部分的反应评估标准。"
+                }
+            },
+            "Progressive_Disease": {
+                "question": {
+                    "en": "What are the treatment options for progressive Ewing Sarcoma?",
+                    "zh": ""
+                },
+                "answer": {
+                    "en": "Refer to the EW-3 section for response evaluation criteria.",
+                    "zh": "参考EW-3部分的反应评估标准。"
+                }
+            }
+        },
+        "Stable_Improved_Following_Primary_Treatment": {
+            "question": {
+                "en": "Are the surgical margins after wide excision positive?",
+                "zh": "广泛切除术后的手术切缘是否呈阳性？"
+            },
+            "answers": {
+                "yes": {
+                    "treatment_options": {
+                        "Localized_Therapy": {
+                            "en": "Continue chemotherapy and consider RT",
+                            "zh": "继续化疗并考虑放疗"
+                        },
+                        "Adjuvant_Therapy": {
+                            "en": "RT and chemotherapy, or chemotherapy alone, depending on the specific case details",
+                            "zh": "根据具体病例细节，考虑放疗和化疗，或仅化疗"
+                        }
+                    }
+                },
+                "no": {
+                    "treatment_options": {
+                        "Localized_Therapy": {
+                            "en": "Definitive RT and chemotherapy",
+                            "zh": "确定性放疗和化疗"
+                        },
+                        "Surgical_Option": {
+                            "en": "Amputation in selected cases",
+                            "zh": "在选定的病例中进行截肢"
+                        }
+                    }
+                }
+            },
+            "Definitive_RT_and_Chemotherapy": {
+                "en": "Definitive RT and chemotherapy.",
+                "zh": "明确的放疗和化疗。"
+            },
+            "Amputation": {
+                "en": "Amputation in selected cases.",
+                "zh": "在选定病例中进行截肢。"
+            },
+            "Surveillance": {
+                "question": {
+                    "en": "What are the surveillance options post-treatment?",
+                    "zh": "治疗后的监测选项有哪些？"
+                },
+                "answers": {
+                    "Regular_Follow_Up": {
+                        "en": "Physical exam, contrast-enhanced MRI & CT of primary site, chest imaging every 2-3 months, CBC, and other labs as indicated",
+                        "zh": "体检、原发部位的增强MRI和CT、每2-3个月进行一次胸部成像、血常规和其他按指示进行的实验室检查"
+                    },
+                    "Long_Term_Follow_Up": {
+                        "en": "After 24 months, increase intervals for exams and imaging indefinitely",
+                        "zh": "24个月后，无限期地增加检查和成像的间隔时间"
+                    },
+                    "Consider_FDGPET_CT": {
+                        "en": "Consider FDG-PET/CT or bone scan as clinically indicated.",
+                        "zh": "根据临床指示考虑FDG-PET/CT或骨扫描。"
+                    }
+                }
+            },
+            "Progressive_Disease_Relapse": {
+                "question": {
+                    "en": "What is the treatment approach for progressive disease or relapse?",
+                    "zh": "对于进展性疾病或复发的治疗方法是什么？"
+                },
+                "answers": {
+                    "Chemotherapy": {
+                        "en": "Chemotherapy with or without RT and surgery.",
+                        "zh": "化疗，可与放疗和手术相结合或不结合。"
+                    }
+                }
+            }
+        },
+        "Progressive disease following primary treatmen": {
+            "Consider RTn and or surgery to primary site for local control or palliation": "Chemotherapyh or  Best supportive care"
+        },
+        "Metastatic Ewing sarcoma Treatment Guidelines": {
+            "Local_Control_Therapy": {
+                "question": {
+                    "en": "Are the surgical margins positive after tumor excision?",
+                    "zh": "肿瘤切除后手术切缘是否为阳性？"
+                },
+                "answers": {
+                    "yes": {
+                        "treatment": {
+                            "en": "Continue chemotherapy followed by RT",
+                            "zh": "继续化疗，随后进行放疗"
+                        }
+                    },
+                    "no": {
+                        "treatment": {
+                            "en": "Definitive RT and chemotherapy",
+                            "zh": "明确的放疗和化疗"
+                        }
+                    }
+                }
+            },
+            "Widely_Metastatic_Ewing_Sarcoma": {
+                "question": {
+                    "en": "What are the treatment options for widely metastatic Ewing Sarcoma?",
+                    "zh": "广泛转移性Ewing肉瘤的治疗选项有哪些？"
+                },
+                "answers": {
+                    "chemotherapy_with_palliative_surgery": {
+                        "en": "Continue chemotherapy, only with palliative surgery",
+                        "zh": "继续化疗，仅配合姑息性手术"
+                    },
+                    "palliative_RT": {
+                        "en": "Palliative RT to symptomatic areas",
+                        "zh": "对症状区域进行姑息性放疗"
+                    },
+                    "multiple_metastases_techniques": {
+                        "en": "Other techniques for multiple metastases",
+                        "zh": "多发转移的其他治疗技术"
+                    }
+                }
+            },
+            "Adjuvant_Additional_Therapy": {
+                "question": {
+                    "en": "What is the follow-up treatment after local control therapy with positive margins?",
+                    "zh": "局部控制治疗后，如果切缘为阳性，后续治疗是什么？"
+                },
+                "answers": {
+                    "positive_margins": {
+                        "en": "Continue chemotherapy (category 1) followed by RT",
+                        "zh": "继续化疗（1类），然后进行放疗"
+                    },
+                    "negative_margins": {
+                        "en": "Chemotherapy (category 1)",
+                        "zh": "化疗（1类）"
+                    }
+                }
+            },
+            "Treatment_of_Metastases": {
+                "question": {
+                    "en": "How should oligometastatic or lung-only metastatic Ewing Sarcoma be treated?",
+                    "zh": "少数转移或仅肺部转移的Ewing肉瘤应如何治疗？"
+                },
+                "answers": {
+                    "oligometastatic_disease": {
+                        "en": "Resection of metastases or RT",
+                        "zh": "转移瘤切除或放疗"
+                    },
+                    "lung_only_partial_response": {
+                        "en": "Resection + whole lung irradiation (WLI)",
+                        "zh": "切除 + 全肺照射（WLI）"
+                    },
+                    "lung_only_complete_response": {
+                        "en": "Consider whole lung irradiation",
+                        "zh": "考虑全肺照射"
+                    }
+                }
+            }
+        }
+    },
+    "Giant_Cell_Tumor_of_Bone": {
+        "Workup": {
+            "History_and_Physical_Examination": {
+                "en": "Conduct history and physical examination as part of the initial workup.",
+                "zh": "作为初步工作检查的一部分，进行病史和身体检查。"
+            },
+            "Imaging": {
+                "en": "Perform imaging of the primary site as clinically indicated, which may include x-ray and MRI with and without contrast + CT.",
+                "zh": "根据临床指示进行原发部位的影像学检查，可能包括带或不带对比剂的X光和MRI以及CT。"
+            },
+            "Chest_Imaging": {
+                "en": "Chest imaging is recommended.",
+                "zh": "建议进行胸部成像。"
+            },
+            "Bone_Scan": {
+                "en": "A bone scan is optional.",
+                "zh": "骨扫描为可选项。"
+            },
+            "Biopsy": {
+                "en": "A biopsy is required to confirm the diagnosis.",
+                "zh": "需要进行活检以确认诊断。",
+                "Malignant_Transformation": {
+                    "en": "If there is malignant transformation, treat as described for osteosarcoma according to the guidelines OSTE0-1.",
+                    "zh": "如果存在恶性转化，请根据OSTE0-1指南描述的骨肉瘤治疗方法进行治疗。"
+                },
+                "Additional_Notes": {
+                    "Brown_Tumor_of_Hyperparathyroidism": {
+                        "en": "Consider a brown tumor of hyperparathyroidism as a differential diagnosis.",
+                        "zh": "将甲状旁腺功能亢进症的棕色瘤视为鉴别诊断。"
+                    }
+                }
+            }
+        },
+        "Presentation": {
+            "question": "Whether this Giant Cell Tumor of Bone is Localized or Metastatic",
+            "answer": {
+                "yes": {
+                    "Localized_Disease": {
+                        "en": "Refer to GCTB-2 for treatment guidelines for localized disease.",
+                        "zh": "对于局部疾病，请参阅GCTB-2治疗指南。"
+                    }
+                },
+                "no": {
+                    "Metastatic_Disease_at_Presentation": {
+                        "en": "Refer to GCTB-2 for treatment guidelines for metastatic disease at presentation.",
+                        "zh": "对于初诊时的转移性疾病，请参阅GCTB-2治疗指南。"
+                    }
+                }
+            }
+        },
+        "Localized_Disease": {
+            "question": {
+                "en": "Is the localized disease resectable?",
+                "zh": "局部疾病是否可切除？"
+            },
+            "answers": {
+                "yes": {
+                    "treatment": {
+                        "en": "Perform excision surgery.",
+                        "zh": "进行切除手术。"
+                    }
+                },
+                "no": {
+                    "statement": {
+                        "en": "disease resectable with unacceptable morbidity or are the axial lesions unresectable?",
+                        "zh": "疾病是否可以在不可接受的发病率下切除，或者轴向病变是否不可切除？"
+                    },
+                    "treatment_options": {
+                        "en": "Consider Denosumab (preferred), serial embolization (preferred), or RT.",
+                        "zh": "考虑使用Denosumab（首选）、序列栓塞（首选）或放疗。"
+                    },
+                    "assessment": {
+                        "en": "Assess response to therapy using x-rays, contrast-enhanced CT, and MRI.",
+                        "zh": "使用X光、增强CT和MRI评估对治疗的反应。"
+                    },
+                    "Disease_Progression": {
+                        "question": {
+                            "en": "How to proceed with stable/improved disease with incomplete healing or progressive disease?",
+                            "zh": "对于治愈不完全的稳定/改善疾病或进展性疾病应如何处理？"
+                        },
+                        "answers": {
+                            "stable_improved_with_incomplete_healing": {
+                                "treatment": {
+                                    "en": "Continue with surveillance.",
+                                    "zh": "继续进行监测。"
+                                }
+                            },
+                            "progressive_disease": {
+                                "treatment": {
+                                    "en": "Continue with surveillance.",
+                                    "zh": "继续进行监测。"
+                                }
+                            },
+                            "change_to_resectable": {
+                                "treatment": {
+                                    "en": "Perform excision surgery and continue with surveillance.",
+                                    "zh": "进行切除手术并继续进行监测。"
+                                }
+                            },
+                            "remains_unresectable": {
+                                "treatment": {
+                                    "en": "Continue with surveillance.",
+                                    "zh": "继续进行监测。"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Metastatic_Disease_at_Presentation": {
+            "question": {
+                "en": "Is the metastatic disease at presentation resectable?",
+                "zh": "初诊时的转移性疾病是否可切除？"
+            },
+            "answers": {
+                "yes": {
+                    "treatment": {
+                        "en": "Consider excision of metastatic sites.",
+                        "zh": "考虑切除转移部位。"
+                    }
+                },
+                "no": {
+                    "treatment_options": {
+                        "en": "Consider Denosumab, RT, or observation.",
+                        "zh": "考虑使用Denosumab、放疗或观察。"
+                    }
+                }
+            }
+        },
+        "Surveillance": {
+            "en": "Follow GCTB-3 guidelines for surveillance.",
+            "zh": "遵循GCTB-3指南进行监测。"
+        },
+        "Surveillance  GCTB-3 ": {
+            "question": {
+                "en": "What does the surveillance consist of after treatment for Giant Cell Tumor of Bone?",
+                "zh": "骨巨细胞瘤治疗后的监测包括哪些内容？"
+            },
+            "answers": {
+                "Physical_Exam": {
+                    "en": "Regular physical exams should be conducted.",
+                    "zh": "应定期进行身体检查。"
+                },
+                "Imaging": {
+                    "en": "Imaging of the surgical site as clinically indicated, including x-ray, contrast-enhanced CT and/or MRI.",
+                    "zh": "根据临床指示进行手术部位的影像学检查，包括X光、增强CT和/或MRI。"
+                },
+                "Chest_Imaging": {
+                    "en": "Chest imaging every 6-12 months for 4 years, then annually thereafter, as clinically indicated.",
+                    "zh": "根据临床指示，前4年每6-12个月进行一次胸部成像，之后每年进行一次。"
+                }
+            }
+        },
+        "Recurrence": {
+            "Local_Recurrence": {
+                "question": {
+                    "en": "Is the local recurrence resectable?",
+                    "zh": "局部复发的肿瘤是否可切除？"
+                },
+                "answers": {
+                    "Resectable": {
+                        "question": {
+                            "en": "Is the resectable tumor associated with unacceptable morbidity or are there unresectable axial lesions?",
+                            "zh": "可切除的肿瘤是否伴有不可接受的发病率，或者存在不可切除的轴向病变？"
+                        },
+                        "answers": {
+                            "Yes_Unacceptable_Morbidity_or_Unresectable_Lesions": {
+                                "action": {
+                                    "en": "Refer to GCTB-2 for further treatment guidelines.",
+                                    "zh": "参考GCTB-2以获取进一步的治疗指导。"
+                                }
+                            },
+                            "No": {
+                                "action": {
+                                    "en": "Consider chest imaging and denosumab prior to surgery.",
+                                    "zh": "考虑在手术前进行胸部成像和使用denosumab。"
+                                }
+                            }
+                        }
+                    },
+                    "Unresectable": {
+                        "action": {
+                            "en": "Refer to GCTB-2 for further treatment guidelines.",
+                            "zh": "参考GCTB-2以获取进一步的治疗指导。"
+                        }
+                    }
+                }
+            },
+            "Metastatic_Recurrence": {
+                "action": {
+                    "en": "Refer to GCTB-2 for further treatment guidelines.",
+                    "zh": "参考GCTB-2以获取进一步的治疗指导。"
+                }
+            }
+        }
+    },
+    "Osteosarcoma_Treatment_Guidelines": {
+        "Workup": {
+            "question": {
+                "en": "What are the workup steps for Osteosarcoma?",
+                "zh": "骨肉瘤的工作检查步骤有哪些？"
+            },
+            "answers": {
+                "History_and_Physical": {
+                    "en": "Perform history and physical examination.",
+                    "zh": "进行病史和体格检查。"
+                },
+                "Imaging": {
+                    "en": "Contrast-enhanced MRI and CT of the primary site, chest imaging including chest CT, FDG-PET/CT and/or bone scan.",
+                    "zh": "原发部位进行增强MRI和CT检查，包括胸部CT、FDG-PET/CT和/或骨扫描的胸部成像。"
+                },
+                "Lab_Tests": {
+                    "en": "Conduct lab tests including LDH and alkaline phosphatase (ALP).",
+                    "zh": "进行实验室测试，包括乳酸脱氢酶（LDH）和碱性磷酸酶（ALP）。"
+                },
+                "Fertility_Consultation": {
+                    "en": "Consider fertility consultation and genetic counseling.",
+                    "zh": "考虑生育咨询和遗传咨询。"
+                }
+            }
+        },
+        "Primary_Treatment": {
+            "Low_Grade_Osteosarcoma": {
+                "question": {
+                    "en": "Is the low-grade osteosarcoma intramedullary or surface?",
+                    "zh": "低级别骨肉瘤是髓内的还是表面的？"
+                },
+                "answers": {
+                    "Intramedullary": {
+                        "action": {
+                            "en": "Perform wide excision.",
+                            "zh": "进行广泛切除。"
+                        }
+                    },
+                    "Surface": {
+                        "action": {
+                            "en": "Consider chemotherapy.",
+                            "zh": "考虑化疗。"
+                        }
+                    }
+                }
+            },
+            "High_Grade_Osteosarcoma": {
+                "action": {
+                    "en": "Refer to OSTEO-2 for high-grade intramedullary or surface osteosarcoma treatment.",
+                    "zh": "参照OSTEO-2对高级别髓内或表面骨肉瘤进行治疗。"
+                }
+            },
+            "Metastatic_Disease_at_Presentation": {
+                "action": {
+                    "en": "Refer to OSTEO-3 for metastatic disease treatment.",
+                    "zh": "参照OSTEO-3对转移性疾病进行治疗。"
+                }
+            },
+            "Extraskeletal_Osteosarcoma": {
+                "action": {
+                    "en": "Follow NCCN Guidelines for Soft Tissue Sarcoma.",
+                    "zh": "遵循软组织肉瘤的NCCN指南。"
+                }
+            }
+        },
+        "Adjuvant_Treatment": {
+            "question": {
+                "en": "What is the adjuvant treatment for high-grade osteosarcoma?",
+                "zh": "高级别骨肉瘤的辅助治疗是什么？"
+            },
+            "answers": {
+                "High_Grade": {
+                    "action": {
+                        "en": "Chemotherapy (category 1), followed by surveillance (OSTEO-4).",
+                        "zh": "化疗（1类），随后进行监测（OSTEO-4）。"
+                    }
+                },
+                "Low_Grade": {
+                    "action": {
+                        "en": "Proceed to surveillance (OSTEO-4).",
+                        "zh": "进行监测（OSTEO-4）。"
+                    }
+                }
+            }
+        },
+        "Neoadjuvant_Treatment": {
+            "High_Grade_Osteosarcoma": {
+                "question": {
+                    "en": "Is the high-grade osteosarcoma intramedullary or surface?",
+                    "zh": "高级别骨肉瘤是髓内的还是表面的？"
+                },
+                "Preoperative_Chemotherapy": {
+                    "action": {
+                        "en": "Administer preoperative chemotherapy (category 1).",
+                        "zh": "进行术前化疗（一类）。"
+                    },
+                    "Restage": {
+                        "question": {
+                            "en": "Is the tumor resectable after restaging?",
+                            "zh": "重新评估后肿瘤可切除吗？"
+                        },
+                        "answers": {
+                            "Unresectable": {
+                                "action": {
+                                    "en": "Proceed to adjuvant treatment.",
+                                    "zh": "转入辅助治疗。"
+                                }
+                            },
+                            "Resectable": {
+                                "Wide_Excision": {
+                                    "action": {
+                                        "en": "Perform wide excision.",
+                                        "zh": "进行广泛切除。"
+                                    },
+                                    "Postoperative_Pathology": {
+                                        "question": {
+                                            "en": "Are the surgical margins negative or positive?",
+                                            "zh": "手术切缘是阴性还是阳性？"
+                                        },
+                                        "answers": {
+                                            "Negative_Margins": {
+                                                "Good_Response": {
+                                                    "action": {
+                                                        "en": "Continue with chemotherapy.",
+                                                        "zh": "继续进行化疗。"
+                                                    }
+                                                },
+                                                "Poor_Response": {
+                                                    "action": {
+                                                        "en": "Continue preoperative regimen or consider changing chemotherapy (category 3).",
+                                                        "zh": "继续术前方案或考虑改变化疗方案（三类）。"
+                                                    }
+                                                }
+                                            },
+                                            "Positive_Margins": {
+                                                "action": {
+                                                    "en": "Consider additional local therapy (surgical resection + RT).",
+                                                    "zh": "考虑额外的局部治疗（手术切除+放疗）。"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Metastatic_Disease_at_Presentation": {
+        "question": {
+            "en": "Is the metastatic disease resectable or unresectable?",
+            "zh": "转移性疾病是可切除的还是不可切除的？"
+        },
+        "answers": {
+            "Resectable": {
+                "Pulmonary_Visceral_Skeletal_Metastases": {
+                    "action": {
+                        "en": "Refer to OSTEO-2 for management of primary tumor, consider chemotherapy, metastasectomy, stereotactic RT, or ablation.",
+                        "zh": "参考OSTEO-2进行原发肿瘤管理，考虑化疗、转移瘤切除术、立体定向放疗或消融治疗。"
+                    },
+                    "Surveillance": {
+                        "action": {
+                            "en": "Follow with surveillance (OSTEO-4).",
+                            "zh": "进行随访监测（OSTEO-4）。"
+                        }
+                    }
+                }
+            },
+            "Unresectable": {
+                "action": {
+                    "en": "Administer chemotherapy, RT, and reassess primary site as appropriate for local control.",
+                    "zh": "进行化疗、放疗，并根据需要重新评估原发部位以实现局部控制。"
+                }
+            }
+        }
+    },
+    "Surveillance": {
+        "description": {
+            "en": "Routine follow-up for osteosarcoma post-treatment",
+            "zh": "骨肉瘤治疗后的常规随访"
+        },
+        "actions": {
+            "Physical_Exam_and_Imaging": {
+                "en": "Perform physical exam, imaging of primary site and chest",
+                "zh": "进行身体检查、原发部位及胸部成像"
+            },
+            "Follow_Up_Schedule": {
+                "en": "Follow-up schedule: Every 3 months for year 1 and 2, every 4 months for year 3, every 6 months for year 4 and 5, and yearly thereafter as clinically indicated.",
+                "zh": "随访计划：第1年和第2年每3个月一次，第3年每4个月一次，第4年和第5年每6个月一次，之后每年一次，临床指示的情况下可以更频繁。"
+            },
+            "Laboratory_Studies": {
+                "en": "Conduct CBC and other laboratory studies as clinically indicated.",
+                "zh": "根据临床指示进行CBC和其他实验室检查。"
+            },
+            "Advanced_Imaging": {
+                "en": "Consider FDG-PET/CT (head-to-toe) and/or bone scan (category 2B).",
+                "zh": "考虑进行FDG-PET/CT（全身）和/或骨扫描（2B类）。"
+            },
+            "Function_Assessment": {
+                "en": "Reassess function every visit.",
+                "zh": "每次访问时重新评估功能。"
+            }
+        }
+    },
+    "Relapse": {
+        "description": {
+            "en": "Treatment options upon osteosarcoma relapse",
+            "zh": "骨肉瘤复发时的治疗选择"
+        },
+        "actions": {
+            "Chemotherapy_and_Resection": {
+                "en": "Administer chemotherapy and/or resection if possible.",
+                "zh": "如果可能，进行化疗和/或切除。"
+            },
+            "Imaging_to_Assess_Response": {
+                "en": "Image to assess response: X-rays, contrast-enhanced CT & MRI of local sites, Chest CT.",
+                "zh": "成像以评估反应：X光、局部部位的增强CT和MRI、胸部CT。"
+            },
+            "Relapse_Progression_Options": {
+                "en": "If relapse or progression: consider resection if possible, clinical trial, palliative RT or best supportive care.",
+                "zh": "如果复发或进展：考虑如果可能进行切除，临床试验，姑息性放疗或最佳支持治疗。"
+            }
+        }
+    }
+}
