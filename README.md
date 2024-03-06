@@ -7,17 +7,17 @@ This project implements a process for distilling large language models (LLMs) us
 Below is the project's directory structure:
 
 DIAYN/
-├── data/
-│   └── csnlp/ # Prepared dataset for distillation
-├── knowledge/
-├── wandb/ # Weights & Biases tracking directory
-├── config.json # Configuration settings
-├── load_selfknowledge.py # Script for loading self-knowledge
-├── MedDataLoader.py # Medical data loading utilities
-├── metrix.py # Metrics and evaluation utilities
-├── model_utils.py # Utilities for model handling
-├── prepare_reason_data.py # Script to prepare data for distillation
-└── train.py # Main training script for distillation
++ data/
+++ csnlp/ # Prepared dataset for distillation
++ knowledge/
++ wandb/ # Weights & Biases tracking directory
++ config.json # Configuration settings
++ load_selfknowledge.py # Script for loading self-knowledge
++ MedDataLoader.py # Medical data loading utilities
++ metrix.py # Metrics and evaluation utilities
++ model_utils.py # Utilities for model handling
++ prepare_reason_data.py # Script to prepare data for distillation
++ train.py # Main training script for distillation
 
 
 
