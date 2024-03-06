@@ -7,8 +7,7 @@ This project implements a process for distilling large language models (LLMs) us
 Below is the project's directory structure:
 
 DIAYN/
-+ data/
-- csnlp/ # Prepared dataset for distillation
++ data/ Prepared dataset for distillation
 + knowledge/
 + wandb/ # Weights & Biases tracking directory
 + config.json # Configuration settings
