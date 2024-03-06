@@ -8,7 +8,7 @@ Below is the project's directory structure:
 
 DIAYN/
 ├── data/
-│ ├── csnlp/ # Prepared dataset for distillation
+│   └── csnlp/ # Prepared dataset for distillation
 ├── knowledge/
 ├── wandb/ # Weights & Biases tracking directory
 ├── config.json # Configuration settings
@@ -18,6 +18,7 @@ DIAYN/
 ├── model_utils.py # Utilities for model handling
 ├── prepare_reason_data.py # Script to prepare data for distillation
 └── train.py # Main training script for distillation
+
 
 
 ## How to Run
