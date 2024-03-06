@@ -8,7 +8,7 @@ Below is the project's directory structure:
 
 DIAYN/
 + data/
--csnlp/ # Prepared dataset for distillation
+- csnlp/ # Prepared dataset for distillation
 + knowledge/
 + wandb/ # Weights & Biases tracking directory
 + config.json # Configuration settings
