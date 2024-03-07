@@ -207,7 +207,7 @@ if __name__ == "__main__":
 
     csnlp = []
     # extract first 10 example
-    for idx, full_text in enumerate(train_text[:1]):
+    for idx, full_text in enumerate(train_text[:10]):
         res = {}
         pre_suspecious = llm_figure_specious_sentence(full_text)
         suspecious = clean_data(full_text, pre_suspecious)
