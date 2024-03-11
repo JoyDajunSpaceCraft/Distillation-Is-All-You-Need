@@ -1,0 +1,1078 @@
+[
+    {
+        "query": "preventing brain loss with b vitamins ?",
+        "sorted_docids": [
+            "MED-980",
+            "MED-2663",
+            "MED-4860",
+            "MED-2665",
+            "MED-2664"
+        ],
+        "reason": "Based on the relevance to the search query \"preventing brain loss with b vitamins?\", here is the ranking of the passages:\n\n[5] > [1] > [3] > [2] > [4]\n\nReasoning:\n\n[5] ranks first because it directly addresses the query by discussing the effects of homocysteine-lowering vitamins on slowing the rate of brain atrophy in individuals with mild cognitive impairment. It specifically mentions the use of B vitamins in the study, making it highly relevant to the query.\n\n[1] ranks second as it discusses the potential role of plant polyphenols, including those found in B vitamins, in the treatment of age-related cognitive disorders. While it does not directly mention B vitamins, it highlights the importance of dietary factors and their association with cognitive impairment, making it relevant to the query.\n\n[3] ranks third as it explores the effects of blueberry supplementation on memory improvement in older adults. Although it does not specifically mention B vitamins, it discusses the benefits of blueberries, which are a good source of various vitamins including B vitamins, in mitigating neurodegeneration and improving cognitive function.\n\n[2] ranks fourth as it investigates the relationship between dietary intake of berries and flavonoids and cognitive decline in older women. While it does not directly mention B vitamins, it highlights the potential cognitive benefits of consuming berries, which may contain B vitamins.\n\n[4] ranks last as it discusses the impact of plant foods on brain aging and the role of antioxidants, including B vitamins, in maintaining brain health. While it provides valuable information about the effects of plant-derived compounds on brain function, it does not specifically focus on the prevention of brain loss with B vitamins, making it less directly relevant to the query."
+    },
+    {
+        "query": "more than an apple a day : combating common diseases",
+        "sorted_docids": [
+            "MED-5325",
+            "MED-5326",
+            "MED-5324",
+            "MED-5322",
+            "MED-5323"
+        ],
+        "reason": "Based on the relevance to the search query \"more than an apple a day: combating common diseases,\" here is the ranking of the passages:\n\n[1] > [5] > [2] > [3] > [4]\n\nReasoning:\n\n1. [1] Passage [1] is the most relevant to the search query as it specifically discusses the effects of vegetarian diets on combating common diseases, including lower blood pressure and hypertension. It provides evidence from a large study and addresses the topic directly.\n\n2. [5] Passage [5] is ranked second as it discusses the relationship between red meat consumption and colon cancer. While it doesn't directly address the \"more than an apple a day\" aspect, it does touch upon combating a common disease (colon cancer) by suggesting ways to make meat safer. It provides relevant information related to combating diseases.\n\n3. [2] Passage [2] is ranked third as it discusses the effects of a high-fat meal on pulmonary function. Although it doesn't directly address the \"more than an apple a day\" aspect or common diseases, it provides information on the impact of diet on health, which is relevant to combating diseases.\n\n4. [3] Passage [3] is ranked fourth as it discusses the characterization of bacteria in vegetarians' feces. While it doesn't directly address the search query or common diseases, it provides information on the effects of a vegetarian diet on intestinal microbiota, which can indirectly relate to combating diseases.\n\n5. [4] Passage [4] is ranked last as it discusses the relationship between endocrine-disrupting chemicals and obesity. Although it mentions the development of obesity, it doesn't directly address the search query or common diseases. It is the least relevant passage to the query."
+    },
+    {
+        "query": "are organic foods safer ?",
+        "sorted_docids": [
+            "MED-2493",
+            "MED-2494",
+            "MED-2495",
+            "MED-1166",
+            "MED-2496"
+        ],
+        "reason": "Based on the relevance to the query \"are organic foods safer?\", here is the ranking of the passages:\n\n[4] > [5] > [2] > [1] > [3]\n\nReasoning:\n\n[4] ranks first because it directly addresses the safety aspect of environmental toxicants and their impact on the immune system. It discusses the link between developmental exposure to chemicals and the susceptibility to diseases, emphasizing the importance of early-life exposures on immune function.\n\n[5] ranks second as it provides a risk assessment of food contaminant exposures, including both cancer and non-cancer health effects. It specifically mentions the relevance of organic foods in reducing exposure to toxic compounds, supporting the notion that organic foods may be safer.\n\n[2] ranks third as it discusses the immunosuppressive effects of prenatal exposure to polychlorinated biphenyls (PCBs) and dioxins, which are toxicants found in the environment. While it does not directly address organic foods, it highlights the potential risks associated with exposure to certain chemicals.\n\n[1] ranks fourth as it focuses on the cognitive development of children exposed to organophosphate pesticides (OPs) and does not directly address the safety of organic foods. However, it indirectly suggests that chronic exposure to OPs may adversely affect children's cognitive abilities.\n\n[3] ranks last as it primarily discusses the body burden of persistent organic pollutants (POPs) in the adult population and their association with diet and lifestyle factors. Although it mentions the impact of dietary habits on POPs exposure, it does not directly address the safety of organic foods.\n\nPlease note that the ranking is based on the relevance of the passages to the query, and the information provided in the passages may vary in terms of the strength of evidence or the specific focus on organic food safety."
+    },
+    {
+        "query": "diabetes as a disease of fat toxicity",
+        "sorted_docids": [
+            "MED-1716",
+            "MED-5324",
+            "MED-5323",
+            "MED-1992",
+            "MED-5322"
+        ],
+        "reason": "Based on the relevance to the search query \"diabetes as a disease of fat toxicity,\" here is the ranking of the passages:\n\n[1] > [3] > [2] > [5] > [4]\n\nReasoning:\n\n1. [1]: This passage directly addresses the relationship between obesity, diabetes, and cancer, highlighting the role of fat toxicity in the development of diabetes. It discusses the molecular basis, insulin-like growth factors, and the increased risk of cancer in obese individuals with diabetes. It provides comprehensive information directly related to the query.\n\n2. [3]: This passage explores the effects of a high-fat meal on pulmonary function in healthy subjects. While it does not directly mention fat toxicity in relation to diabetes, it highlights the impact of a high-fat diet on pulmonary function, which can be relevant to understanding the consequences of fat toxicity in the body.\n\n3. [2]: This passage discusses the association between exposure to endocrine-disrupting chemicals and obesity in humans. Although it does not explicitly mention fat toxicity in relation to diabetes, it provides information on the potential factors contributing to obesity, which can indirectly relate to the query.\n\n4. [5]: This passage focuses on prediabetes as a high-risk state for developing diabetes. While it does not specifically address fat toxicity, it provides information on the progression from prediabetes to diabetes and the potential benefits of lifestyle modification and pharmacotherapy. It is less directly related to the query compared to the previous passages.\n\n5. [4]: This passage investigates the characterization of bacteria in the feces of vegetarians. Although it does not directly address fat toxicity or its relation to diabetes, it provides information on the effects of a vegetarian diet on the intestinal microbiota. It is the least directly related to the query among the given passages."
+    },
+    {
+        "query": "is milk good for our bones ?",
+        "sorted_docids": [
+            "MED-1337",
+            "MED-1557",
+            "MED-1762",
+            "MED-1763",
+            "MED-1558"
+        ],
+        "reason": "Based on the relevance to the query \"is milk good for our bones?\", here is the ranking of the passages:\n\n[2] > [1] > [3] > [4] > [5]\n\nReasoning:\n\n[2] ranks first because it directly addresses the query by discussing the association between milk intake and the risk of hip fracture. It specifically mentions the potential benefits of milk for bone health.\n\n[1] ranks second as it provides information about the intake of fatty acids and their correlation with chronic diseases, including coronary heart disease. While it doesn't directly mention milk, it provides relevant information about dietary recommendations for preventing chronic diseases, which indirectly relates to the query.\n\n[3] ranks third as it discusses the association between meat intake and reproductive parameters in young men. Although it doesn't directly address the query about milk and bone health, it provides some information about dietary factors and their impact on reproductive health.\n\n[4] ranks fourth as it discusses the sensitivity of child sex steroids and the impact of exogenous estrogens. While it doesn't directly address the query about milk and bone health, it provides information about the effects of hormones and endocrine disruptors, which are not directly related to bone health.\n\n[5] ranks last as it discusses the recommended dietary reference intakes and guidelines for fat and fatty acids. While it provides information about dietary recommendations, it doesn't directly address the query about milk and bone health."
+    },
+    {
+        "query": "preventing ulcerative colitis with diet",
+        "sorted_docids": [
+            "MED-1576",
+            "MED-1574",
+            "MED-1575",
+            "MED-1418",
+            "MED-1577"
+        ],
+        "reason": "Based on the relevance to the query \"preventing ulcerative colitis with diet,\" here is the ranking of the passages:\n\n[4] > [1] > [5] > [3] > [2]\n\nReasoning:\n\n1. Passage [4] is ranked first because it directly addresses the query by discussing the association between dietary factors and the risk of developing inflammatory bowel disease (IBD), including ulcerative colitis. It provides a systematic review of studies evaluating the relationship between diet and IBD risk, making it highly relevant to the query.\n\n2. Passage [1] is ranked second as it discusses the potential role of diet in the pathogenesis of Crohn's disease, which is related to ulcerative colitis. It highlights the influence of dietary polysaccharides, specifically maltodextrin, on the adhesion of disease-associated bacteria. While it focuses on Crohn's disease, the relevance to ulcerative colitis and the impact of diet make it a valuable passage.\n\n3. Passage [5] is ranked third as it explores the impaired epithelial barrier function in Crohn's disease, which is relevant to ulcerative colitis. It discusses the role of tight junction proteins and their alterations in active Crohn's disease, leading to barrier dysfunction. Although it focuses on Crohn's disease, the relevance to ulcerative colitis and the potential impact of diet on barrier function make it relevant to the query.\n\n4. Passage [3] is ranked fourth as it discusses the genotoxic effects of hydrogen sulfide, which is produced by sulfate-reducing bacteria in the colon. While it does not directly address ulcerative colitis prevention with diet, it provides insights into the potential environmental insults and genetic predisposition that may contribute to colorectal cancer, which is associated with ulcerative colitis.\n\n5. Passage [2] is ranked last as it focuses on the treatment-related risk of progressive multifocal leukoencephalopathy (PML) and does not directly address the prevention of ulcerative colitis with diet. Although it briefly mentions inflammatory bowel disease as a predisposing condition for PML, it does not provide specific information on diet-related prevention.\n\nPlease note that the ranking is based on the relevance of the passages to the query and their direct or indirect connection to preventing ulcerative colitis with diet."
+    },
+    {
+        "query": "the actual benefit of diet vs. drugs",
+        "sorted_docids": [
+            "MED-2111",
+            "MED-1486",
+            "MED-2110",
+            "MED-2109",
+            "MED-2112"
+        ],
+        "reason": "Based on the relevance to the search query \"the actual benefit of diet vs. drugs,\" here is the ranking of the passages:\n\n[2] > [1] > [5] > [4] > [3]\n\nReasoning:\n\n[2] provides direct information about the actual benefit of diet vs. drugs in the context of coronary artery disease. It states that a plant-based diet can achieve and maintain low cholesterol levels, effectively abolishing disease progression. This passage directly addresses the query and provides clear evidence of the benefits of diet.\n\n[1] discusses patient expectations and beliefs regarding the treatment benefits of drugs, specifically lipid-lowering drugs. While it does not directly compare diet and drugs, it provides insights into patient perspectives on treatment benefits, which indirectly relates to the query.\n\n[5] discusses the use of extracorporeal membrane oxygenation (ECMO) as a supportive treatment for newborn respiratory failure. Although it does not directly compare diet and drugs, it provides information about the effectiveness of ECMO in improving mortality and morbidity rates in newborns with respiratory failure. While not directly related to the query, it provides some insights into alternative treatment options.\n\n[4] focuses on a randomized trial comparing extracorporeal membrane oxygenation (ECMO) therapy to conventional medical therapy (CMT) for neonates with persistent pulmonary hypertension. This passage is less directly related to the query and does not provide information about the actual benefit of diet vs. drugs.\n\n[3] discusses biases in physicians' training and the current approach of evidence-based medicine, which may lead to a preference for drug treatments over dietary interventions. While it touches on the topic of diet vs. drugs, it does not provide specific information about the actual benefit of diet vs. drugs in managing diseases."
+    },
+    {
+        "query": "the saturated fat studies : buttering up the public",
+        "sorted_docids": [
+            "MED-3598",
+            "MED-4556",
+            "MED-3597",
+            "MED-1557",
+            "MED-3599"
+        ],
+        "reason": "Based on the relevance to the search query \"the saturated fat studies: buttering up the public,\" here is the ranking of the passages:\n\n[3] > [1] > [2] > [4] > [5]\n\nReasoning:\n\n[3] is ranked first because it directly addresses the topic of saturated fat studies and their association with cardiovascular diseases and mortality. It provides specific information about the adverse effects of trans-fatty acids and their sources, supporting the relevance to the query.\n\n[1] is ranked second as it discusses the tolerable upper intake levels of trans fat, saturated fat, and cholesterol. Although it does not directly mention the \"buttering up the public\" aspect, it provides relevant information about the intake levels and potential risks associated with these nutrients.\n\n[2] is ranked third as it focuses on the behavioral effects of trans fatty acids and their potential link to aggression. While it does not directly address the \"buttering up the public\" aspect, it provides insights into the effects of trans fat consumption.\n\n[4] is ranked fourth as it discusses the intake of fatty acids in general populations worldwide and their relation to preventing coronary heart disease. Although it does not specifically mention the \"buttering up the public\" aspect, it provides relevant information about the recommended intakes and their impact on chronic diseases.\n\n[5] is ranked last as it primarily focuses on estimating the intake of industrially-produced trans fatty acids in the population. While it provides information about the decrease in intake due to labeling requirements, it does not directly address the \"buttering up the public\" aspect of the query."
+    },
+    {
+        "query": "coffee and artery function",
+        "sorted_docids": [
+            "MED-2155",
+            "MED-2156",
+            "MED-1634",
+            "MED-2154",
+            "MED-2157"
+        ],
+        "reason": "Based on the relevance to the search query \"coffee and artery function,\" here is the ranking of the passages:\n\n[4] > [5] > [1] > [3] > [2]\n\nReasoning:\n\n[4] This passage specifically discusses the effects of habitual coffee consumption on cardiometabolic disease and cardiovascular health. It mentions the potential benefits of coffee consumption on reducing the risk of cardiovascular diseases, which directly relates to artery function.\n\n[5] This passage focuses on the effects of coffee consumption on chronic hepatitis. While it may not directly address artery function, chronic hepatitis can impact liver health, which can indirectly affect cardiovascular health and artery function.\n\n[1] This passage discusses cardiovascular disease data standardization and registries. Although it does not directly address artery function, it provides a broader context of cardiovascular disease, which can be relevant to understanding the impact of coffee on artery function.\n\n[3] This passage discusses the mechanisms of hepatocarcinogenesis associated with obesity. While it does not directly address artery function, it provides insights into the relationship between obesity, liver disease, and cancer, which can indirectly impact cardiovascular health and artery function.\n\n[2] This passage focuses on hepatocellular carcinoma and liver lesions in patients with cirrhosis. It does not directly address artery function or the effects of coffee consumption on artery function."
+    },
+    {
+        "query": "caloric restriction vs. plant-based diets",
+        "sorted_docids": [
+            "MED-2117",
+            "MED-2114",
+            "MED-2116",
+            "MED-2115",
+            "MED-1711"
+        ],
+        "reason": "Based on the relevance to the search query \"caloric restriction vs. plant-based diets,\" here is the ranking of the passages:\n\n[5] > [1] > [4] > [2] > [3]\n\nReasoning:\n\n1. [5] provides evidence on the role of nutrient signaling in acne pathogenesis, specifically highlighting the impact of high glycaemic load and milk protein consumption. Although it doesn't directly compare caloric restriction and plant-based diets, it discusses the relevance of dietary factors in acne, which is related to the query.\n\n2. [1] discusses the potential role of caloric restriction and plant-based diets in the pathogenesis of acne. It explores the impact of the Western diet on acne and the interplay between nutrient signaling pathways. While it doesn't directly compare caloric restriction and plant-based diets, it provides relevant information on dietary factors and their effects on acne.\n\n3. [4] mentions the role of diet and the Western diet in acne pathogenesis. Although it doesn't specifically address caloric restriction or plant-based diets, it highlights the importance of understanding the interplay between diet and acne, which is relevant to the query.\n\n4. [2] focuses on the effects of diet supplementation with donkey milk on energy balance, lipid metabolism, and antioxidant defenses. While it doesn't directly compare caloric restriction and plant-based diets, it provides information on the impact of a specific dietary intervention.\n\n5. [3] discusses a clinical study on the safety and tolerability of figitumumab in combination with chemotherapy for non-small cell lung cancer. It doesn't directly relate to the query topic of caloric restriction vs. plant-based diets and is less relevant compared to the other passages."
+    },
+    {
+        "query": "infectobesity : adenovirus 36 and childhood obesity",
+        "sorted_docids": [
+            "MED-1796",
+            "MED-5322",
+            "MED-5323",
+            "MED-5324",
+            "MED-1998"
+        ],
+        "reason": "Based on the relevance to the search query \"infectobesity: adenovirus 36 and childhood obesity,\" here is the ranking of the passages:\n\n[2] > [1] > [3] > [4] > [5]\n\nReasoning:\n\n1. [2] is the most relevant passage as it directly addresses the association between adenovirus infection and obesity, which aligns with the search query. It discusses the influence of adenovirus infection on obesity and metabolic markers in humans through a meta-analysis of observational studies.\n\n2. [1] is the second most relevant passage as it explores the impact of a vegetarian diet on the intestinal microbiota, including the abundance of bacteria such as Bacteroides and Clostridium. While it does not directly mention adenovirus 36 or childhood obesity, it provides insights into the relationship between diet, microbiota, and obesity, which can be relevant to the broader topic.\n\n3. [3] discusses the role of endocrine-disrupting chemicals in obesity development in humans. Although it does not specifically mention adenovirus 36 or childhood obesity, it provides information on the potential factors contributing to obesity, which can be relevant to the overall understanding of the topic.\n\n4. [4] focuses on the effects of a high-fat meal on pulmonary function in healthy subjects. While it does not directly address adenovirus 36 or childhood obesity, it highlights the impact of a high-fat diet on pulmonary function, which can be indirectly related to the broader topic.\n\n5. [5] discusses the early treatment of type 2 diabetes and the importance of early intervention in preventing complications. Although it does not directly relate to adenovirus 36 or childhood obesity, it provides information on the management and prevention of diabetes, which is not directly relevant to the search query."
+    },
+    {
+        "query": "does cholesterol size matter ?",
+        "sorted_docids": [
+            "MED-2372",
+            "MED-2371",
+            "MED-2370",
+            "MED-4324",
+            "MED-1882"
+        ],
+        "reason": "Based on the relevance to the query \"does cholesterol size matter?\", here is the ranking of the passages:\n\n[4] > [1] > [2] > [3] > [5]\n\nReasoning:\n\n[4] This passage directly addresses the query by discussing the effects of egg consumption on endothelial function and its relevance to cardiovascular health. It specifically mentions the impact of dietary cholesterol on cardiovascular risk, making it highly relevant to the query.\n\n[1] This passage also addresses the query by discussing the effects of egg consumption on endothelial function and serum lipids in hyperlipidemic adults. It provides evidence that egg consumption is non-detrimental to endothelial function and suggests that dietary cholesterol may have limited influence on serum cholesterol and cardiac risk.\n\n[2] This passage discusses the pathogenesis of atherosclerosis and the cholesterol controversy. While it provides important background information, it does not directly address the query about cholesterol size.\n\n[3] This passage discusses the potential harm of high cholesterol intake, specifically from egg yolks, and its relationship to carotid plaque. While it provides some information related to cholesterol, it does not directly address the query about cholesterol size.\n\n[5] This passage discusses the effects of gemfibrozil therapy on low-density lipoprotein (LDL) and high-density lipoprotein (HDL) particle subclasses in relation to coronary events. While it provides information about lipoprotein particles, it does not directly address the query about cholesterol size."
+    },
+    {
+        "query": "barriers to heart disease prevention",
+        "sorted_docids": [
+            "MED-5323",
+            "MED-5324",
+            "MED-2529",
+            "MED-2427",
+            "MED-5322"
+        ],
+        "reason": "Based on the relevance to the query \"barriers to heart disease prevention,\" here is the ranking of the passages:\n\n[2] > [1] > [4] > [5] > [3]\n\nReasoning:\n\n[2] is ranked first because it directly addresses the topic of barriers to heart disease prevention by discussing the relationship between endocrine-disrupting chemicals and obesity, which is a known risk factor for heart disease.\n\n[1] is ranked second as it explores the effects of a high-fat meal on pulmonary function, which can be a barrier to heart disease prevention. It highlights the potential contribution of a high-fat diet to chronic inflammatory diseases, including those affecting the airways and lungs.\n\n[4] is ranked third as it investigates the effects of a very-high-fiber diet on serum lipids and colonic function. While not directly addressing barriers to heart disease prevention, it provides insights into dietary interventions that can potentially reduce risk factors for heart disease.\n\n[5] is ranked fourth as it discusses the correlation between elevated levels of cholesterol-rich lipid rafts in cancer cells and their sensitivity to cholesterol-depleting agents. Although not directly related to barriers to heart disease prevention, it provides information on the role of cholesterol in cellular functions, which can be relevant to heart health.\n\n[3] is ranked last as it focuses on the characterization of bacteria in the feces of vegetarians and does not directly address barriers to heart disease prevention. While it provides insights into the effects of a vegetarian diet on intestinal microbiota, it is less directly relevant to the query compared to the other passages."
+    },
+    {
+        "query": "childhood constipation and cow \u2019 s milk",
+        "sorted_docids": [
+            "MED-2053",
+            "MED-4680",
+            "MED-3956",
+            "MED-3955",
+            "MED-3954"
+        ],
+        "reason": "Based on the relevance to the search query \"childhood constipation and cow's milk,\" here is the ranking of the passages:\n\n[2] > [1] > [5] > [3] > [4]\n\nReasoning:\n\n1. [2] Passage [2] directly addresses the relationship between cow's milk and childhood constipation. It discusses a study that explores the effectiveness of a cow's milk-free diet in treating chronic constipation in children. This passage is highly relevant to the search query.\n\n2. [1] Passage [1] discusses the association between dietary intakes in childhood and the age of menarche in girls. Although it does not directly focus on childhood constipation and cow's milk, it provides insights into the potential effects of dietary factors on early development. It is somewhat relevant to the query.\n\n3. [5] Passage [5] discusses the influence of overweight and nutrition on the timing of puberty. While it does not specifically mention constipation or cow's milk, it highlights the importance of nutrition as a lifestyle factor in pubertal timing. It is moderately relevant to the query.\n\n4. [3] Passage [3] focuses on the potential endocrine disruption caused by polybrominated diphenyl ethers (PBDEs) and their association with age of menarche in adolescent girls. Although it does not directly address childhood constipation or cow's milk, it provides information on endocrine disruption, which could be indirectly related to constipation. It is less relevant to the query.\n\n5. [4] Passage [4] discusses the association between childhood meat eating and the risk factors for ischemic heart disease. While it does not directly relate to childhood constipation or cow's milk, it explores the influence of meat consumption on health outcomes. It is the least relevant passage to the query."
+    },
+    {
+        "query": "diabetics should take their pulses",
+        "sorted_docids": [
+            "MED-2140",
+            "MED-2396",
+            "MED-2405",
+            "MED-2395",
+            "MED-2394"
+        ],
+        "reason": "Based on the relevance to the search query \"diabetics should take their pulses,\" here is the ranking of the passages:\n\n[5] > [1] > [3] > [4] > [2]\n\nReasoning:\n\n1. [5]: This passage directly addresses the query by discussing the importance of glycemic response in individuals with type 2 diabetes and how bean and rice meals can attenuate the glycemic response. It provides specific information related to the query and offers potential dietary management options for diabetics.\n\n2. [1]: Although this passage is quite lengthy and covers various topics related to diabetes and persistent organic pollutants (POPs), it does mention the connection between blood sugar dysregulation and the consumption of farmed Atlantic salmon, which can be relevant to the query.\n\n3. [3]: This passage discusses the contribution of exposure to persistent organic pollutants (POPs) as a risk factor for developing diabetes. While it doesn't directly address the query about taking pulses, it provides information about environmental contaminants and their potential role in diabetes.\n\n4. [4]: This passage focuses on the dose-response relationship between serum concentrations of persistent organic pollutants (POPs) and diabetes prevalence. Although it provides valuable information about the topic, it doesn't directly address the query about taking pulses.\n\n5. [2]: This passage discusses the diabetogenic effects of dioxin exposure in U.S. Air Force veterans during the Vietnam War. While it provides information about the molecular epidemiologic evidence, it doesn't directly address the query about taking pulses."
+    },
+    {
+        "query": "academy of nutrition and dietetics conflicts of interest",
+        "sorted_docids": [
+            "MED-2488",
+            "MED-2489",
+            "MED-2616",
+            "MED-2617",
+            "MED-2219"
+        ],
+        "reason": "Based on the relevance to the search query \"academy of nutrition and dietetics conflicts of interest,\" here is the ranking of the passages:\n\n[1] > [4] > [3] > [5] > [2]\n\nReasoning:\n\n[1] Passage [1] directly addresses the query by discussing the conflicts of interest related to the Academy of Nutrition and Dietetics. It talks about the relationship between food prices, cholesterol levels, and cardiovascular diseases, highlighting the need for government interventions. This passage is highly relevant to the query.\n\n[4] Passage [4] provides a historical view of how agricultural systems have evolved and contributed to obesity and disease. While it doesn't explicitly mention conflicts of interest, it sets the context for understanding the potential conflicts between agricultural policies, food, and public health. It is relevant to the query.\n\n[3] Passage [3] discusses the significance of azo-reduction, mutagenesis, and carcinogenesis of azo dyes. Although it doesn't directly address conflicts of interest, it provides information about the use of azo dyes in various industries, including food processing. This passage is somewhat relevant to the query.\n\n[5] Passage [5] focuses on the teratological evaluation of FD&C Red No. 2 and a collaborative study conducted by the FDA. While it doesn't specifically mention conflicts of interest related to the Academy of Nutrition and Dietetics, it provides insights into the evaluation of food additives and potential risks. This passage has limited relevance to the query.\n\n[2] Passage [2] discusses the harmful effects of Coca-Cola beverages on the testes of rats. It doesn't relate directly to conflicts of interest within the Academy of Nutrition and Dietetics or the topic of nutrition and dietetics. Therefore, it is the least relevant passage to the query."
+    },
+    {
+        "query": "do vegetarians get enough protein ?",
+        "sorted_docids": [
+            "MED-2288",
+            "MED-5322",
+            "MED-2498",
+            "MED-5324",
+            "MED-5323"
+        ],
+        "reason": "Based on the relevance to the query \"do vegetarians get enough protein?\", here is the ranking of the passages:\n\n[1] > [3] > [4] > [5] > [2]\n\nReasoning:\n\n[1] Passage [1] directly addresses the query by discussing the protein intake of Americans, including different age groups and the efforts to ensure recommended protein consumption. It provides relevant information about protein intake, making it the most relevant passage.\n\n[3] Passage [3] explores the characterization of bacteria in the feces of vegetarians, which indirectly relates to protein intake. While it doesn't directly answer the query, it provides insights into the vegetarian diet's impact on intestinal microbiota, which can indirectly affect protein absorption and utilization.\n\n[4] Passage [4] discusses the effects of dietary restriction on growth factors and aging. Although it doesn't specifically focus on vegetarians, it provides information about the impact of dietary choices on protein signaling and aging, which is relevant to the query.\n\n[5] Passage [5] discusses the effects of a high-fat meal on pulmonary function. While it doesn't directly address vegetarian protein intake, it highlights the potential consequences of a high-fat diet, which can be relevant to understanding the importance of protein sources in a vegetarian diet.\n\n[2] Passage [2] discusses the relationship between endocrine-disrupting chemicals and obesity. Although it mentions obesity and diet, it doesn't directly address vegetarian protein intake, making it the least relevant passage to the query."
+    },
+    {
+        "query": "eggs and arterial function",
+        "sorted_docids": [
+            "MED-3197",
+            "MED-5324",
+            "MED-5322",
+            "MED-5323",
+            "MED-2370"
+        ],
+        "reason": "Based on the relevance to the search query \"eggs and arterial function,\" here is the ranking of the passages:\n\n[1] > [5] > [2] > [4] > [3]\n\nReasoning:\n\n[1] Passage [1] is the most relevant because it specifically discusses the effects of a lean beef diet on lipids and lipoproteins, which are related to arterial function. Although it does not directly mention eggs, it provides relevant information about dietary effects on cholesterol levels, which is important for arterial function.\n\n[5] Passage [5] discusses the effects of a high-fat meal on pulmonary function in healthy subjects. While it does not directly mention eggs or arterial function, it provides insights into the impact of high-fat diets on inflammation and overall health, which can indirectly affect arterial function.\n\n[2] Passage [2] discusses the characterization of bacteria in the gut microbiota of vegetarians and omnivores. Although it does not directly address eggs or arterial function, it provides information about the impact of diet on gut bacteria, which can have implications for overall health, including arterial function.\n\n[4] Passage [4] reviews the literature on the relationship between exposure to endocrine-disrupting chemicals and obesity in humans. While it does not specifically mention eggs or arterial function, it provides information about the potential effects of environmental factors on obesity, which can indirectly impact arterial function.\n\n[3] Passage [3] is the least relevant as it discusses the interpretive history and controversies surrounding cholesterol and atherosclerosis. It does not directly address eggs or arterial function and focuses more on the historical understanding of cholesterol's role in atherosclerosis rather than its specific effects on arterial function."
+    },
+    {
+        "query": "treating asthma with plants vs. supplements ?",
+        "sorted_docids": [
+            "MED-2445",
+            "MED-4551",
+            "MED-2643",
+            "MED-2644",
+            "MED-2645"
+        ],
+        "reason": "Based on the relevance to the query \"treating asthma with plants vs. supplements?\", here is the ranking of the passages:\n\n[3] > [4] > [1] > [2] > [5]\n\nReasoning:\n\n[3] is ranked first because it directly addresses the query by discussing the potential of dietary polyphenols in the prevention and treatment of allergic diseases, including asthma. It provides information on the anti-allergic effects of polyphenols and their impact on immune cell functions and allergic immune responses.\n\n[4] is ranked second as it explores the association between maternal meat fat consumption during pregnancy and the risk of suspected atopic eczema in infants. Although it focuses on eczema rather than asthma specifically, it provides relevant information on the potential influence of maternal dietary intake on the development of allergic disorders in children.\n\n[1] is ranked third as it discusses the role of endocrine-disrupting chemicals in various health problems, including asthma. While it does not directly address the query about treating asthma with plants vs. supplements, it provides background information on the potential impact of certain chemicals on endocrine disruption, which could be relevant to the overall understanding of asthma treatment.\n\n[2] is ranked fourth as it discusses the identification of nonylphenol, an estrogenic substance released from plastic, and its potential effects on cell proliferation and estrogen-sensitive cells. Although it does not directly address the query about treating asthma with plants vs. supplements, it provides information on the potential harmful effects of certain chemicals found in plasticware, which could be indirectly related to asthma treatment.\n\n[5] is ranked last as it discusses the reduction in penis size and plasma testosterone concentrations in juvenile alligators living in a contaminated environment. This passage does not directly address the query about treating asthma with plants vs. supplements and is not relevant to the topic."
+    },
+    {
+        "query": "phytates for the treatment of cancer",
+        "sorted_docids": [
+            "MED-2979",
+            "MED-2980",
+            "MED-2568",
+            "MED-2983",
+            "MED-2982"
+        ],
+        "reason": "Based on the relevance to the query \"phytates for the treatment of cancer,\" here is the ranking of the passages:\n\n[3] > [1] > [2] > [5] > [4]\n\nReasoning:\n\n[3] is ranked first because it directly discusses the neuroprotective effect of phytic acid, a type of phytate, in a cell culture model of Parkinson's disease. This passage specifically addresses the potential treatment of a specific disease (Parkinson's) using phytates, making it highly relevant to the query.\n\n[1] is ranked second as it explores the inhibitory effects of inositol hexakisphosphate (IP6), a type of phytate, on osteoclastogenesis. Although it does not directly mention cancer, it provides insights into the potential therapeutic properties of phytates in bone-related conditions, which could be relevant to cancer treatment.\n\n[2] is ranked third as it discusses the anti-cancer properties of inositol hexaphosphate (IP6), another type of phytate. While it does not specifically mention the treatment of cancer, it highlights the potential of IP6 as an anti-cancer agent, making it somewhat relevant to the query.\n\n[5] is ranked fourth as it discusses the inhibitory effects of phytates on nonheme-iron absorption. Although it does not directly address cancer treatment, it provides information on the effects of phytates, which could be relevant to understanding their potential role in cancer therapy.\n\n[4] is ranked last as it discusses the surgical management of bisphosphonate-related osteonecrosis of the jaw (BRONJ) in oncologic patients. While it mentions phytates in passing, the focus of the passage is on surgical treatment and does not directly address the use of phytates for cancer treatment."
+    },
+    {
+        "query": "alkylphenol endocrine disruptors and allergies",
+        "sorted_docids": [
+            "MED-4551",
+            "MED-3585",
+            "MED-3588",
+            "MED-3586",
+            "MED-3587"
+        ],
+        "reason": "Based on the relevance to the search query \"alkylphenol endocrine disruptors and allergies,\" here is the ranking of the passages:\n\n[3] > [1] > [2] > [4] > [5]\n\nReasoning:\n\n1. [3] This passage directly discusses the association between maternal dietary intake during pregnancy and the risk of suspected atopic eczema in infants. It specifically mentions the influence of fatty acids, which are relevant to the query about endocrine disruptors and allergies.\n\n2. [1] Although this passage primarily focuses on the spermicidal potency of cola beverages, it mentions the presence of alkylphenol endocrine disruptors. While the relevance to allergies is not explicitly stated, the presence of endocrine disruptors could potentially be linked to allergic reactions.\n\n3. [2] This passage discusses the relationship between caffeine and alcohol intake and ovulatory disorder infertility. While it does not directly address alkylphenol endocrine disruptors or allergies, it provides some information on the impact of dietary factors on fertility, which could be indirectly related to the query.\n\n4. [4] This passage examines the relation between dietary fat intake and semen quality in men attending a fertility clinic. Although it does not directly address alkylphenol endocrine disruptors or allergies, it provides information on the impact of dietary factors on reproductive health, which could be indirectly related to the query.\n\n5. [5] This passage discusses the declining sperm density and quality over the years. While it does not directly address alkylphenol endocrine disruptors or allergies, it provides information on the potential factors contributing to the decline in sperm quality, which could be indirectly related to the query."
+    },
+    {
+        "query": "chicken salmonella thanks to meat industry lawsuit",
+        "sorted_docids": [
+            "MED-2743",
+            "MED-2746",
+            "MED-2736",
+            "MED-2725",
+            "MED-2726"
+        ],
+        "reason": "Based on the relevance to the search query \"chicken salmonella thanks to meat industry lawsuit,\" here is the ranking of the passages:\n\n[1] > [4] > [2] > [5] > [3]\n\nReasoning:\n\n1. [1] Passage [1] provides detailed information about a salmonella outbreak linked to a poultry producer, specifically mentioning chicken from Foster Farms. It discusses the investigation conducted by various health departments and emphasizes the importance of safe food handling. This passage directly addresses the query by mentioning chicken and salmonella in relation to the meat industry.\n\n2. [4] Passage [4] discusses the transfer of campylobacter, another bacteria commonly associated with poultry, from naturally contaminated chicken thighs to cutting boards. While it does not directly mention a lawsuit or the meat industry, it provides relevant information about the transfer of bacteria from chicken, which is related to the query.\n\n3. [2] Passage [2] focuses on the characterization of campylobacter transferred from contaminated chicken to cutting boards. Although it does not mention a lawsuit or the meat industry, it provides information about the transfer of bacteria from chicken, which is relevant to the query.\n\n4. [5] Passage [5] discusses conflicts of interest in the approval of food additives and the determination of their safety. While it does not directly address the query about salmonella and the meat industry lawsuit, it provides some general information about the food industry's obligations and conflicts of interest.\n\n5. [3] Passage [3] discusses the profits and prevention of harmful effects caused by tobacco, alcohol, and ultra-processed food industries. It does not directly address the query about salmonella and the meat industry lawsuit, making it the least relevant passage."
+    },
+    {
+        "query": "turmeric curcumin and osteoarthritis",
+        "sorted_docids": [
+            "MED-2797",
+            "MED-3705",
+            "MED-3704",
+            "MED-3703",
+            "MED-3702"
+        ],
+        "reason": "Based on the relevance to the search query \"turmeric curcumin and osteoarthritis,\" here is the ranking of the passages:\n\n[4] > [1] > [2] > [3] > [5]\n\nReasoning:\n\n1. [4] is ranked first because it directly mentions osteoarthritis as an inflammatory disease and discusses the role of molecular biology and inflammatory mediators in the pathogenesis of osteoarthritis. It specifically addresses the relationship between osteoarthritis and inflammation, which is relevant to the query.\n\n2. [1] is ranked second as it discusses the association between inflammation and modern human diseases, including obesity, cardiovascular disease, and diabetes mellitus. Although it does not directly mention turmeric or curcumin, it provides a broader perspective on the role of inflammation in diseases, which can be relevant to understanding the potential effects of turmeric and curcumin on osteoarthritis.\n\n3. [2] is ranked third as it discusses the anti-inflammatory effects of a compound found in the medicinal plant Emblica officinalis. While it does not specifically mention turmeric or curcumin, it highlights the potential of natural compounds in controlling excessive inflammation, which can be relevant to the query.\n\n4. [3] is ranked fourth as it discusses the association between allergies and cancer. Although it does not directly address turmeric, curcumin, or osteoarthritis, it provides information on the association between allergies and specific types of cancer, which is not directly related to the query.\n\n5. [5] is ranked last as it discusses the prevalence of allergic diseases and sensitization to allergens over time. While it does not directly address turmeric, curcumin, or osteoarthritis, it provides information on the prevalence of allergies, which is not directly relevant to the query."
+    },
+    {
+        "query": "how long to detox from fish before pregnancy ?",
+        "sorted_docids": [
+            "MED-4170",
+            "MED-4171",
+            "MED-3021",
+            "MED-4169",
+            "MED-4180"
+        ],
+        "reason": "Based on the relevance to the search query \"how long to detox from fish before pregnancy?\", here is the ranking of the passages:\n\n[4] > [1] > [2] > [5] > [3]\n\nReasoning:\n\n1. [4] provides an overview of the impact of lactational exposure to polychlorinated biphenyls (PCBs) in infants through breastfeeding. While it does not directly address the detoxification period before pregnancy, it discusses the importance of breastfeeding and the limited evidence of significant toxicity from PCB exposure. It is ranked first due to its relevance to the topic of fish detoxification before pregnancy.\n\n2. [1] discusses the serum concentrations of PCBs, hydroxylated PCB metabolites, and pentachlorophenol (PCP) during pregnancy. Although it does not specifically address the detoxification period before pregnancy, it provides information on the levels of these substances during pregnancy, which can be relevant to understanding the potential detoxification process.\n\n3. [2] focuses on the biological half-life of mercury in the body and its relation to fish consumption. While it does not directly address the detoxification period before pregnancy, it provides insights into the elimination of mercury from the body, which can be relevant to understanding the detoxification process.\n\n4. [5] reviews the estimation of daily intake of dioxins and dioxin-like PCBs through human milk in infants. Although it does not directly address the detoxification period before pregnancy, it provides information on the levels of these contaminants in breast milk, which can be relevant to understanding the potential detoxification process.\n\n5. [3] discusses the half-lives of PCB congeners in environmentally exposed early adolescents. While it does not directly address the detoxification period before pregnancy, it provides information on the elimination half-life of PCBs in the body, which can be relevant to understanding the detoxification process. However, it is ranked last as it focuses on a different age group and population than the query."
+    },
+    {
+        "query": "is caramel color carcinogenic ?",
+        "sorted_docids": [
+            "MED-2992",
+            "MED-3088",
+            "MED-3086",
+            "MED-3087",
+            "MED-3085"
+        ],
+        "reason": "Based on the relevance to the query \"is caramel color carcinogenic?\", here is the ranking of the passages:\n\n[3] > [1] > [4] > [2] > [5]\n\nReasoning:\n\n1. Passage [3] discusses toxicity and carcinogenicity studies related to a specific chemical compound, methylimidazole, which is used in the manufacture of various products. This passage directly addresses the carcinogenicity aspect of the query and provides information on studies conducted on rats and mice. Therefore, it is ranked as the most relevant passage.\n\n2. Passage [1] discusses the dietary intake of phosphorus, which is not directly related to the query about caramel color being carcinogenic. While it provides information about phosphorus intake in the American diet, it does not address the specific query as directly as passage [3]. However, it may be relevant in the context of overall dietary concerns.\n\n3. Passage [4] discusses the effects of polyphosphate additives on Campylobacter survival in processed chicken exudates. Although it does not directly address the carcinogenicity of caramel color, it provides information about food additives and their impact on bacterial survival. While it may not be directly relevant to the query, it provides some insights into food processing and additives.\n\n4. Passage [2] discusses the prevalence and public health significance of aluminum residues in milk and dairy products. Although it does not directly address the query about caramel color, it provides information about another potential food-related health concern. It is ranked lower because it is not directly related to the query.\n\n5. Passage [5] discusses the prevalence of phosphorus-containing food additives in top-selling grocery products. While it provides information about food additives, it does not directly address the query about caramel color being carcinogenic. It is ranked the lowest because it is the least relevant to the query."
+    },
+    {
+        "query": "counteracting the effects of dioxins through diet",
+        "sorted_docids": [
+            "MED-3109",
+            "MED-4197",
+            "MED-4196",
+            "MED-4195",
+            "MED-4194"
+        ],
+        "reason": "Based on the relevance to the search query \"counteracting the effects of dioxins through diet,\" here is the ranking of the passages:\n\n[1] > [4] > [2] > [5] > [3]\n\nReasoning:\n\n[1] Passage [1] specifically addresses the link between diet and counteracting the effects of dioxins. It discusses the role of dietary compounds in promoting intestinal immune function, which is relevant to the query.\n\n[4] Passage [4] focuses on the ability of natural compounds in the human diet to bind mutagens and prevent DNA-mutagen intercalation. While it doesn't directly mention dioxins, it highlights the potential of dietary components in inhibiting mutagenesis and carcinogenesis, which can be relevant to counteracting the effects of dioxins.\n\n[2] Passage [2] discusses the potential of dietary phytochemicals in cancer chemoprevention. Although it doesn't specifically mention dioxins, it highlights the importance of a systematic approach to screening dietary compounds for their chemopreventive activity, which can be applicable to counteracting the effects of dioxins.\n\n[5] Passage [5] explores the effects of chlorophyll and chlorophyllin on the pharmacokinetics of aflatoxin, a carcinogen. While it doesn't directly address dioxins, it provides insights into how dietary components can affect the bioavailability of carcinogens, which can be relevant to the broader topic of counteracting the effects of toxic substances through diet.\n\n[3] Passage [3] discusses the survey of putative interceptor molecules with antimutagenic and anticarcinogenic properties. Although it mentions the potential of these molecules in preventing mutagenesis and carcinogenesis, it doesn't specifically address dioxins or their counteraction through diet, making it less directly relevant to the query compared to the other passages."
+    },
+    {
+        "query": "chronic headaches and pork tapeworms",
+        "sorted_docids": [
+            "MED-3169",
+            "MED-3305",
+            "MED-3306",
+            "MED-3308",
+            "MED-3307"
+        ],
+        "reason": "Based on the relevance to the search query \"chronic headaches and pork tapeworms,\" here is the ranking of the passages:\n\n[5] > [1] > [2] > [3] > [4]\n\nReasoning:\n\n[5] This passage directly addresses the relationship between calcified neurocysticercosis (a condition caused by pork tapeworm infection) and primary headaches. It specifically discusses the prevalence of neurocysticercosis in patients with primary headaches and suggests a potential link between the two.\n\n[1] Although this passage primarily focuses on non-occupational malignant pleural mesothelioma and asbestos exposure, it briefly mentions the occurrence of malignant mesothelioma due to non-occupational exposure to low doses of asbestos-like fibers. While not directly related to pork tapeworms, it highlights the concept of non-occupational exposure to a harmful substance, which can be relevant to the query.\n\n[2] This passage discusses the increased risks of haematological cancers in adults with a farming occupation, including exposure to farm-related factors during childhood. While it does not specifically mention pork tapeworms, it provides information on the potential health risks associated with certain occupations, which can be tangentially related to the query.\n\n[3] This passage discusses the presence of asbestos-related diseases in the industry and the need for public awareness of the dangers of asbestos. Although it does not directly relate to pork tapeworms or chronic headaches, it highlights the importance of occupational health and safety, which can be indirectly relevant to the query.\n\n[4] This passage focuses on the mortality of workers employed in pig abattoirs and processing plants, including the potential health risks associated with handling pigs and pork products. While it does not specifically mention chronic headaches or pork tapeworms, it provides information on the health risks in the pork industry, which can be indirectly related to the query."
+    },
+    {
+        "query": "heart disease starts in childhood",
+        "sorted_docids": [
+            "MED-3253",
+            "MED-4613",
+            "MED-4560",
+            "MED-4559",
+            "MED-4556"
+        ],
+        "reason": "Based on the relevance to the search query \"heart disease starts in childhood,\" here is the ranking of the passages:\n\n[1] > [5] > [2] > [3] > [4]\n\nReasoning:\n\n1. [1] Passage [1] directly addresses the query by discussing how atherosclerosis begins in childhood and progresses into adulthood. It provides information on the pathobiological determinants of atherosclerosis in youth and the relation between risk scores and early atherosclerotic lesions. This passage is highly relevant to the query.\n\n2. [5] Passage [5] discusses the role of plant-based nutrition in resolving the epidemic of coronary artery disease. Although it doesn't explicitly mention childhood, it highlights the importance of adopting a plant-based diet to prevent and treat heart disease. While not as directly related as passage [1], it still provides valuable information on heart disease prevention.\n\n3. [2] Passage [2] talks about preventing and arresting coronary atherosclerosis. Although it doesn't specifically mention childhood, it provides insights into the development of atherosclerosis and the role of cholesterol levels in plaque formation. It is relevant to the query but not as directly focused on childhood as passages [1] and [5].\n\n4. [3] Passage [3] discusses the role of statins in neutralizing cardiovascular risk caused by unhealthy dietary choices. While it touches on cardiovascular risk reduction, it doesn't specifically address heart disease starting in childhood. It is relevant to the broader topic of heart disease prevention but less directly related to the query.\n\n5. [4] Passage [4] discusses the tolerable upper intake levels of trans fat, saturated fat, and cholesterol. While it provides information on dietary intake levels, it doesn't directly address heart disease starting in childhood. It is the least relevant passage to the query among the given options."
+    },
+    {
+        "query": "artificial food colors and adhd",
+        "sorted_docids": [
+            "MED-5062",
+            "MED-3371",
+            "MED-3369",
+            "MED-3378",
+            "MED-3370"
+        ],
+        "reason": "Based on the relevance to the search query \"artificial food colors and adhd,\" here is the ranking of the passages:\n\n[1] > [4] > [3] > [2] > [5]\n\nReasoning:\n\n1. [1] ranks first because it directly addresses the relationship between artificial food color additives and childhood behavior, specifically ADHD. It presents findings from a randomized controlled trial and discusses the impact of artificial colors on hyperactivity in children.\n\n2. [4] ranks second as it explores the effectiveness of incorporating pureed vegetables to reduce energy density in meals, which can indirectly impact ADHD symptoms by reducing energy intake. Although it focuses on adults, the concept of reducing energy-dense foods is relevant to ADHD management.\n\n3. [3] ranks third as it investigates strategies to increase children's vegetable intake and reduce energy intake, but it does not directly address the link between artificial food colors and ADHD.\n\n4. [2] ranks fourth as it discusses the implementation of a national petrol-lead phase-out program and its impact on environmental lead exposure. While lead exposure can have adverse effects on cognitive function, it does not specifically address the relationship between artificial food colors and ADHD.\n\n5. [5] ranks last as it focuses on serving styles of raw snack vegetables for children, which is not directly related to the query about artificial food colors and ADHD."
+    },
+    {
+        "query": "keeping your hands warm with citrus",
+        "sorted_docids": [
+            "MED-3471",
+            "MED-3473",
+            "MED-3469",
+            "MED-4390",
+            "MED-4022"
+        ],
+        "reason": "Based on the relevance to the search query \"keeping your hands warm with citrus,\" here is the ranking of the passages:\n\n[3] > [1] > [2] > [5] > [4]\n\nReasoning:\n\n[3] ranks first because it discusses the potential benefits of orange juice in improving blood lipid profiles, which is indirectly related to the query of keeping hands warm with citrus. It mentions the consumption of orange juice and its positive effects on cardiovascular health, which could potentially contribute to overall warmth in the body.\n\n[1] ranks second as it explores the effects of orange juice consumption on serum lipids and physical characteristics in overweight middle-aged women. While it doesn't directly address the query, it provides information about the potential benefits of orange juice consumption, which could indirectly contribute to warmth in the body.\n\n[2] ranks third as it compares the postprandial glycemic response of orange juice and regular soda in individuals with non-insulin-dependent diabetes mellitus (NIDDM). Although it doesn't directly relate to keeping hands warm, it provides information about the effects of orange juice consumption on blood glucose levels, which could indirectly affect body temperature regulation.\n\n[5] ranks fourth as it discusses the influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers. While it doesn't directly address the query, it provides information about the bioavailability of curcumin, which is not directly related to keeping hands warm with citrus.\n\n[4] ranks last as it discusses the association between chronic periodontitis and vasculogenic erectile dysfunction. It is not directly related to the query and does not provide relevant information about keeping hands warm with citrus."
+    },
+    {
+        "query": "anti-angiogenesis : cutting off tumor supply lines",
+        "sorted_docids": [
+            "MED-3548",
+            "MED-4089",
+            "MED-3853",
+            "MED-3834",
+            "MED-3845"
+        ],
+        "reason": "Based on the relevance to the search query \"anti-angiogenesis: cutting off tumor supply lines,\" here is the ranking of the passages:\n\n[1] > [4] > [3] > [5] > [2]\n\nReasoning:\n\n[1] Passage [1] discusses the anti-invasive and anti-metastatic activities of flavonoids, including their effects on angiogenesis. It directly addresses the topic of anti-angiogenesis and cutting off tumor supply lines, making it the most relevant passage.\n\n[4] Passage [4] explores the antiproliferative effects of apple peel extract on cancer cells. While it does not explicitly mention angiogenesis, it discusses the potential preventive effects of the extract on cancer, which indirectly relates to cutting off tumor supply lines.\n\n[3] Passage [3] focuses on the prognosis of postmenopausal breast cancer patients with high serum enterolactone levels. Although it does not directly address cutting off tumor supply lines, it discusses the survival of breast cancer patients, which is relevant to the overall topic.\n\n[5] Passage [5] discusses the relation between dietary lignan intakes and survival in women with breast cancer. While it does not specifically mention angiogenesis or cutting off tumor supply lines, it addresses the topic of survival in breast cancer patients, which is indirectly related.\n\n[2] Passage [2] investigates the association between serum enterolactone levels and mortality outcome in women with early breast cancer. Although it mentions breast cancer, it does not directly address the topic of anti-angiogenesis or cutting off tumor supply lines, making it the least relevant passage."
+    },
+    {
+        "query": "cancer risk from ct scan radiation",
+        "sorted_docids": [
+            "MED-3623",
+            "MED-3617",
+            "MED-3620",
+            "MED-3610",
+            "MED-3609"
+        ],
+        "reason": "Based on the relevance to the search query \"cancer risk from ct scan radiation,\" here is the ranking of the passages:\n\n[1] > [4] > [2] > [3] > [5]\n\nReasoning:\n\n[1] Passage [1] specifically addresses the topic of cancer risk from CT scan radiation. It discusses the public health concerns related to low-dose radiation, particularly in pediatric CT scans. It also highlights policy initiatives to reduce future radiogenic cancers. This passage directly addresses the query and provides comprehensive information on the topic.\n\n[4] Passage [4] focuses on the association between high dietary antioxidant intakes and decreased chromosome translocation frequency, which is a biomarker of cumulative DNA damage. Although it does not directly mention CT scan radiation, it provides relevant information about dietary factors that can protect against DNA damage induced by ionizing radiation.\n\n[2] Passage [2] investigates the effect of dietary factors, specifically fruit and vegetable intake, on cancer mortality in atomic-bomb survivors exposed to radiation. While it does not specifically mention CT scan radiation, it provides insights into the potential protective effects of a healthy diet against radiation-induced cancer.\n\n[3] Passage [3] discusses the effects of Melissa officinalis (lemon balm) infusion on oxidative stress and DNA damage in radiology staff exposed to low-dose radiation. Although it does not directly address CT scan radiation, it provides information on a dietary supplement that may improve oxidative stress conditions caused by radiation exposure.\n\n[5] Passage [5] explores the protective effect of zingerone, a dietary compound, against radiation-induced genetic damage and apoptosis in human lymphocytes. While it does not directly relate to CT scan radiation, it provides information on a potential protective compound against radiation-induced damage.\n\nPlease note that the ranking is based on the relevance of the passages to the search query, and the information provided in the passages may vary in terms of depth and specificity."
+    },
+    {
+        "query": "preventing the common cold with probiotics ?",
+        "sorted_docids": [
+            "MED-3690",
+            "MED-3676",
+            "MED-3680",
+            "MED-3671",
+            "MED-3679"
+        ],
+        "reason": "Based on the relevance to the query \"preventing the common cold with probiotics,\" here is the ranking of the passages:\n\n[5] > [1] > [3] > [2] > [4]\n\nReasoning:\n\n[5] is ranked first because it directly addresses the query by discussing the evidence of probiotics in the prevention and treatment of diarrhea. Although it does not specifically mention the common cold, it provides relevant information about the efficacy of probiotics in preventing and treating gastrointestinal infections.\n\n[1] is ranked second as it investigates the anxiolytic-like activity of a probiotic formulation in rats and its potential psychological effects in healthy human volunteers. While it does not directly address the common cold, it highlights the potential benefits of probiotics on overall health and well-being.\n\n[3] is ranked third as it assesses the effectiveness and safety of probiotics in preventing acute upper respiratory tract infections (URTIs). Although it does not focus solely on the common cold, URTIs include common cold symptoms. The study provides insights into the potential benefits of probiotics in reducing the number of URTI episodes and antibiotic prescription rates.\n\n[2] is ranked fourth as it investigates the impact of perceived stress on bacterial flora activity and salivary cortisol secretion. While it does not directly address the common cold or probiotics' preventive effects, it provides some insights into the relationship between stress and gastrointestinal flora activity.\n\n[4] is ranked last as it examines the impact of meals on probiotic transit in the human upper gastrointestinal tract. Although it discusses the survival of probiotic microbes, it does not specifically address the prevention of the common cold with probiotics."
+    },
+    {
+        "query": "eating healthy on a budget",
+        "sorted_docids": [
+            "MED-3769",
+            "MED-5323",
+            "MED-5322",
+            "MED-5324",
+            "MED-4406"
+        ],
+        "reason": "Based on the relevance to the search query \"eating healthy on a budget,\" here is the ranking of the passages:\n\n[1] > [5] > [3] > [2] > [4]\n\nReasoning:\n\n1. [1]: This passage directly addresses the query by discussing the topic of eating healthy on a budget. It provides insights into food choices, cost, and nutrient profiles, offering specific recommendations for increasing nutrient-dense foods while considering affordability.\n\n2. [5]: Although this passage focuses on the relationship between endocrine-disrupting chemicals and obesity, it is relevant to the query as it discusses the development of obesity in humans. It highlights the role of certain chemicals and their impact on body size, which can be considered when trying to eat healthy on a budget.\n\n3. [3]: While this passage primarily discusses the characterization of bacteria in vegetarians' feces, it indirectly relates to the query by exploring the effects of a vegetarian diet on the intestinal microbiota. This information can be useful for individuals looking to adopt a healthy eating plan on a budget.\n\n4. [2]: This passage examines the effects of a high-fat meal on pulmonary function in healthy subjects. Although it does not directly address eating healthy on a budget, it provides insights into the negative impact of a high-fat diet on respiratory health, which can be considered when making healthy food choices.\n\n5. [4]: This passage investigates the longitudinal associations between gasoline prices and physical activity. While it does not directly relate to the query of eating healthy on a budget, it provides information on the unintended increase in leisure physical activity due to rising gasoline prices, which may indirectly influence healthy eating habits."
+    },
+    {
+        "query": "flaxseeds & breast cancer survival : clinical evidence",
+        "sorted_docids": [
+            "MED-3271",
+            "MED-3276",
+            "MED-3864",
+            "MED-3277",
+            "MED-3841"
+        ],
+        "reason": "Based on the relevance to the search query \"flaxseeds & breast cancer survival: clinical evidence,\" here is the ranking of the passages:\n\n[3] > [4] > [1] > [2] > [5]\n\nReasoning:\n\n[3] ranks first because it directly addresses the query by discussing the potential effectiveness of dietary methionine restriction in combination with chemotherapy for the treatment of advanced cancer. It specifically mentions the need for strategies in advanced cancer treatment and the promise of dietary methionine restriction.\n\n[4] ranks second as it explores the role of methionine dependency and methionine restriction in controlling cancer growth and potentially extending lifespan. While it doesn't directly mention breast cancer, it provides valuable insights into the topic of interest.\n\n[1] ranks third as it discusses the effect of flaxseed oil supplementation on skin condition. Although it doesn't directly address breast cancer survival, it provides some evidence of the impact of flaxseed oil on skin properties, which may be relevant to overall health and well-being.\n\n[2] ranks fourth as it focuses on the methionine dependence of tumor cells and its potential implications in fresh patient tumors. While it doesn't specifically mention breast cancer survival, it provides insights into the metabolic defect of tumor cells and their response to methionine.\n\n[5] ranks last as it discusses the reduction of Ki-67 in benign breast tissue in high-risk women with lignan intake. While it mentions breast cancer risk biomarkers, it doesn't directly address breast cancer survival or clinical evidence related to flaxseeds.\n\nPlease note that the ranking is based on the relevance of the passages to the search query and not on the quality or significance of the information provided."
+    },
+    {
+        "query": "do fruit & nut bars cause weight gain ?",
+        "sorted_docids": [
+            "MED-3896",
+            "MED-5323",
+            "MED-3893",
+            "MED-5324",
+            "MED-5322"
+        ],
+        "reason": "Based on the relevance to the search query \"do fruit & nut bars cause weight gain?\", I have ranked the passages in descending order:\n\n[1] > [3] > [2] > [4] > [5]\n\nReasoning:\n\n[1] Passage [1] directly addresses the query by discussing a study on the effects of daily fruit and nut bars on weight gain in overweight adults. It provides specific details about the study design, outcomes, and conclusions, making it highly relevant to the query.\n\n[3] Passage [3] discusses the potential role of endocrine-disrupting chemicals in obesity development. While it does not directly mention fruit and nut bars, it provides relevant information about factors that can contribute to weight gain, making it relevant to the query.\n\n[2] Passage [2] discusses the effects of carbohydrate ingestion on fatigue and exercise performance. Although it does not directly address fruit and nut bars or weight gain, it provides some insights into the relationship between carbohydrate intake and exercise, which can be indirectly related to weight management.\n\n[4] Passage [4] discusses the effects of a high-fat meal on pulmonary function in healthy subjects. While it does not specifically mention fruit and nut bars or weight gain, it provides information about the potential impact of high-fat diets on respiratory health, which is indirectly related to weight management.\n\n[5] Passage [5] discusses the characterization of bacteria in the feces of vegetarians. Although it does not directly address fruit and nut bars or weight gain, it provides information about the effects of a vegetarian diet on the intestinal microbiota, which is not directly relevant to the query."
+    },
+    {
+        "query": "titanium dioxide & inflammatory bowel disease",
+        "sorted_docids": [
+            "MED-3960",
+            "MED-4068",
+            "MED-4071",
+            "MED-4069",
+            "MED-4070"
+        ],
+        "reason": "Based on the relevance to the search query \"titanium dioxide & inflammatory bowel disease,\" here is the ranking of the passages:\n\n[2] > [4] > [1] > [3] > [5]\n\nReasoning:\n\n[2] Passage [2] discusses the impact of dietary microparticles on immune responsiveness in the gastrointestinal tract. Since titanium dioxide is a commonly used food additive and can be present in dietary microparticles, this passage directly addresses the potential relevance of titanium dioxide to inflammatory bowel disease.\n\n[4] Passage [4] focuses on the carcinogenic properties of cooked meat-derived compounds, including phenylimidazo[b]pyridine (PhIP). While it does not directly mention inflammatory bowel disease, it highlights the potential role of dietary factors in promoting invasive behavior in breast cancer cells. This passage indirectly suggests a possible link between dietary factors (such as titanium dioxide) and inflammatory conditions.\n\n[1] Passage [1] discusses the detection of PhIP, a carcinogenic compound found in well-done meats, in human milk samples. Although it does not directly address inflammatory bowel disease, it provides information about the presence of PhIP in the human body, which could be relevant to understanding the potential effects of dietary compounds like titanium dioxide on inflammatory conditions.\n\n[3] Passage [3] examines the relationship between meat intake and breast cancer risk. While it does not specifically mention inflammatory bowel disease, it discusses the potential role of dietary factors, such as red meat intake and total fat consumption, in increasing the risk of breast cancer. This passage indirectly suggests the importance of dietary factors in inflammatory conditions.\n\n[5] Passage [5] investigates the association between fried meat intake and cancer risk, including female-hormone-related cancers. Although it does not directly address inflammatory bowel disease, it highlights the potential impact of dietary factors on cancer development. The relevance to inflammatory bowel disease is less direct compared to the other passages."
+    },
+    {
+        "query": "prolonged liver function enhancement from broccoli",
+        "sorted_docids": [
+            "MED-4040",
+            "MED-4053",
+            "MED-4051",
+            "MED-5116",
+            "MED-4049"
+        ],
+        "reason": "Based on the relevance to the search query \"prolonged liver function enhancement from broccoli,\" here is the ranking of the passages:\n\n[5] > [1] > [4] > [3] > [2]\n\nReasoning:\n\n[5] Passage [5] directly addresses the query by discussing the effect of cruciferous vegetable consumption, specifically broccoli, on heterocyclic aromatic amine metabolism in the liver. It provides relevant information about the potential enhancement of liver function from consuming broccoli.\n\n[1] Passage [1] discusses the occurrence of heterocyclic amines (HCAs) in cooked meat products. Although it does not directly mention broccoli, it provides background information on HCAs, which can be compared to the potential benefits of consuming broccoli.\n\n[4] Passage [4] discusses the protective effect of flavonoids, including those found in vegetables, against DNA damage induced by food mutagens. While it does not specifically mention broccoli, it highlights the potential protective properties of certain compounds found in vegetables, which can be relevant to liver function enhancement.\n\n[3] Passage [3] focuses on the dietary intake of flavonoids and their effects on breast cancer survival. Although it does not directly address liver function enhancement or broccoli, it provides information about the potential benefits of flavonoid intake, which can be considered in the context of overall health and liver function.\n\n[2] Passage [2] discusses the intervention of human breast cell carcinogenesis and the role of heterocyclic amines. While it does not mention liver function enhancement or broccoli, it provides information about the potential risks and mechanisms associated with certain compounds found in cooked meats, which can be compared to the potential benefits of consuming broccoli.\n\nPlease note that the ranking is based on the relevance of the passages to the search query and their direct or indirect connection to the topic of liver function enhancement from broccoli."
+    },
+    {
+        "query": "apple juice may be worse than sugar water",
+        "sorted_docids": [
+            "MED-4585",
+            "MED-4090",
+            "MED-4091",
+            "MED-4413",
+            "MED-4687"
+        ],
+        "reason": "Based on the relevance to the search query \"apple juice may be worse than sugar water,\" here is the ranking of the passages:\n\n[2] > [5] > [1] > [4] > [3]\n\nReasoning:\n\n[2] This passage directly discusses the evaluation of phenolic compounds in fruit juices and their antioxidant activity. It is highly relevant to the query as it provides information about the potential benefits of apple juice compared to sugar water.\n\n[5] This passage discusses the development of apple peel as an ingredient, focusing on its content of phenolic compounds and dietary fiber. While it doesn't directly compare apple juice to sugar water, it provides relevant information about the nutritional value of apple peel, which is a component of apple juice.\n\n[1] This passage discusses the assessment of antioxidant activity in beverages, including juices. While it doesn't specifically compare apple juice to sugar water, it provides information about the antioxidant capacity of different beverages, which is indirectly related to the query.\n\n[4] This passage discusses the development and validation of an algorithm to estimate the total antioxidant capacity (TAC) in the diet. While it doesn't directly address the comparison between apple juice and sugar water, it provides information about the measurement and estimation of antioxidant intake, which is relevant to the broader topic of antioxidant content in beverages.\n\n[3] This passage discusses vegetarian diets and their connection to redox balance and antioxidant intake. While it doesn't directly address the comparison between apple juice and sugar water, it provides information about the role of antioxidants in the diet and their potential health benefits. It is the least directly relevant passage to the query."
+    },
+    {
+        "query": "preventing strokes with diet",
+        "sorted_docids": [
+            "MED-4106",
+            "MED-5324",
+            "MED-4103",
+            "MED-5323",
+            "MED-5322"
+        ],
+        "reason": "Based on the relevance to the query \"preventing strokes with diet,\" here is the ranking of the passages:\n\n[2] > [5] > [1] > [4] > [3]\n\nReasoning:\n\n[2] ranks first because it directly addresses the query by discussing the relationship between potassium intake and the prevention of cardiovascular disease, including strokes. It provides a meta-analysis of prospective studies on the topic, making it highly relevant.\n\n[5] ranks second as it explores the effects of a high-fat meal on pulmonary function and inflammation. While it doesn't directly mention strokes, it highlights the potential consequences of a high-fat diet, which can contribute to obesity and related health issues, including an increased risk of strokes.\n\n[1] ranks third as it discusses a pilot study on potassium supplementation in patients with rheumatoid arthritis. Although it doesn't directly focus on strokes, it highlights the potential therapeutic effects of potassium supplementation, which can be relevant to overall cardiovascular health.\n\n[4] ranks fourth as it reviews the literature on the relationship between exposure to endocrine-disrupting chemicals and obesity. While it doesn't specifically address strokes, it provides insights into the potential factors contributing to obesity, which can indirectly impact stroke prevention.\n\n[3] ranks last as it investigates the characterization of bacteria in the feces of vegetarians. Although it mentions the effects of a vegetarian diet on the intestinal microbiota, it doesn't directly relate to preventing strokes with diet."
+    },
+    {
+        "query": "neurobiology of artificial sweeteners",
+        "sorted_docids": [
+            "MED-4120",
+            "MED-4121",
+            "MED-4124"
+        ],
+        "reason": "Based on the relevance to the query \"neurobiology of artificial sweeteners,\" here is the ranking of the passages:\n\n[3] > [2] > [1]\n\nReasoning:\n\n[3] is ranked first because it directly addresses the neurobiology aspect of artificial sweeteners. It discusses how sucrose and artificial sweeteners activate taste pathways in the human brain differently, involving primary taste pathways and dopaminergic midbrain areas. This passage provides specific information about the neurobiological effects of artificial sweeteners, making it highly relevant to the query.\n\n[2] is ranked second because it explores the effect of covert nutritive dilution on spontaneous food intake in obese individuals. Although it does not directly focus on the neurobiology of artificial sweeteners, it provides insights into the impact of substituting sucrose with aspartame-sweetened products. While not as directly related to the query as [3], it still provides relevant information about the effects of artificial sweeteners on food intake.\n\n[1] is ranked last because it primarily discusses the antioxidant properties of erythritol, a specific artificial sweetener. While it mentions the potential benefits of erythritol in the treatment of diabetic complications, it does not provide substantial information about the neurobiology of artificial sweeteners, which is the main focus of the query."
+    },
+    {
+        "query": "benefits of fenugreek seeds",
+        "sorted_docids": [
+            "MED-4465",
+            "MED-5341",
+            "MED-3811",
+            "MED-4464",
+            "MED-5337"
+        ],
+        "reason": "Based on the relevance to the query \"benefits of fenugreek seeds,\" here is the ranking of the passages:\n\n[5] > [1] > [3] > [2] > [4]\n\nReasoning:\n\n1. [5] - This passage directly discusses the role of mammary stem cells and their development, including the potential benefits of fenugreek seeds in relation to breast cancer. It specifically mentions the increased risk of developing aggressive breast cancer and the decreased risk of developing certain tumors, which aligns with the query about the benefits of fenugreek seeds.\n\n2. [1] - Although this passage primarily focuses on the effects of a low-fat high-fiber diet and exercise on breast cancer risk factors, it mentions the reduction of serum insulin and insulin-like growth factor-I (IGF-I) in overweight/obese postmenopausal women. Fenugreek seeds have been associated with improved insulin sensitivity, which makes this passage relevant to the query.\n\n3. [3] - This passage discusses the potential effect of cinnamon intake on fasting blood glucose levels in people with type 2 diabetes and/or prediabetes. While it does not directly mention fenugreek seeds, it highlights the potential benefits of a natural ingredient (cinnamon) on blood glucose regulation, which is related to the general topic of benefits of natural substances like fenugreek seeds.\n\n4. [2] - This passage discusses the concept of cancer stem cells and their role in tumor maintenance. Although it does not specifically mention fenugreek seeds or their benefits, it provides a broader understanding of stem cells in cancer research, which is indirectly related to the query.\n\n5. [4] - This passage focuses on the impact of intensive lifestyle changes on the progression of prostate cancer. While it does not directly address the benefits of fenugreek seeds, it discusses the effects of diet and lifestyle on cancer progression, which is not directly relevant to the query about fenugreek seeds' benefits."
+    },
+    {
+        "query": "more antibiotics in white meat or dark meat ?",
+        "sorted_docids": [
+            "MED-4166",
+            "MED-3693",
+            "MED-2577",
+            "MED-2578",
+            "MED-2988"
+        ],
+        "reason": "Based on the relevance to the search query \"more antibiotics in white meat or dark meat?\", here is the ranking of the passages:\n\n[1] > [3] > [4] > [2] > [5]\n\nReasoning:\n\n[1] Passage [1] directly addresses the query by discussing the concentrations of antibiotic residues in different muscle tissues of poultry. It provides information on the monitoring of antibiotic residues and the possibility of higher concentrations in specific muscle tissues. This passage is highly relevant to the query.\n\n[3] Passage [3] discusses the microbiological evaluation of commercial probiotic products, which indirectly relates to the query as it mentions the control and monitoring of probiotic production. While it doesn't specifically address white meat or dark meat, it provides insights into the control of antibiotic use in food products.\n\n[4] Passage [4] is a case-control study on the role of diet in colorectal cancer. Although it doesn't directly address the query about antibiotics in white meat or dark meat, it provides information on dietary habits and consumption of meat, which could indirectly relate to the topic.\n\n[2] Passage [2] discusses the dietary suppression of colonic cancer and the role of fiber and phytate. While it provides information on dietary factors, it doesn't directly address the query about antibiotics in white meat or dark meat.\n\n[5] Passage [5] discusses the role of phytic acid in legumes as an antinutrient and its potential beneficial functions. It doesn't directly address the query about antibiotics in white meat or dark meat and focuses more on the chemical and nutritional aspects of phytic acid.\n\nPlease note that while passages [2], [4], and [5] may have some indirect relevance to the query, passages [1] and [3] are more directly related to the topic of antibiotics in meat."
+    },
+    {
+        "query": "bpa plastic and male sexual dysfunction",
+        "sorted_docids": [
+            "MED-4185",
+            "MED-4186"
+        ],
+        "reason": "[1] > [2]\n\nReasoning:\n[1] is ranked higher than [2] because it directly addresses the relationship between BPA (bisphenol-A) plastic and male sexual dysfunction. The passage discusses a study conducted on male workers with high levels of BPA exposure, where urine samples were tested for BPA concentration. The study found a negative correlation between increasing urine BPA levels and worsening male sexual function. This passage provides specific information about the adverse effects of BPA on the male reproductive system and its potential as a public health problem.\n\n[2] is ranked lower because it provides general information about BPA, including its presence in food packaging and its effects on various aspects of health such as early sexual maturation, altered behavior, and cardiovascular disease. While it mentions male sexual dysfunction as one of the effects, it does not provide specific details or evidence linking BPA plastic to male sexual dysfunction. Therefore, it is less directly relevant to the search query compared to [1]."
+    },
+    {
+        "query": "filled full of lead",
+        "sorted_docids": [
+            "MED-4531",
+            "MED-4944",
+            "MED-4201",
+            "MED-4200",
+            "MED-4202"
+        ],
+        "reason": "Based on the relevance to the search query \"filled full of lead,\" here is the ranking of the passages:\n\n[1] > [4] > [2] > [5] > [3]\n\nReasoning:\n\n1. [1] Passage [1] directly addresses the presence of lead in traditional Asian herbal preparations and the risks associated with their consumption. It specifically mentions the deliberate incorporation of lead in these preparations and the need for strict control. This passage is highly relevant to the query.\n\n2. [4] Passage [4] discusses the studies on fish consumption and the source of methylmercury, including fish-meal-fed farmed fish and animal foods. While it does not directly mention being \"filled full of lead,\" it addresses the presence of mercury in fish and its potential contribution to increased tissue mercury concentrations. This passage provides relevant information related to the query.\n\n3. [2] Passage [2] discusses the influence of keeping pheasants in captivity and their biological meat. Although it does not directly mention lead, it does not provide substantial relevance to the query compared to the previous passages.\n\n4. [5] Passage [5] focuses on the differences in postprandial inflammatory responses to modern and traditional meat meals. While it does not directly address lead, it does not provide significant relevance to the query compared to the previous passages.\n\n5. [3] Passage [3] discusses non-nutrient low-grade systemic inflammation and its association with obesity and chronic diseases. Although it mentions inflammation, it does not specifically address lead or being \"filled full of lead.\" Therefore, it is the least relevant passage to the query."
+    },
+    {
+        "query": "the answer to the pritikin puzzle",
+        "sorted_docids": [
+            "MED-5323",
+            "MED-4612",
+            "MED-5324",
+            "MED-3875",
+            "MED-5322"
+        ],
+        "reason": "Based on the relevance to the search query \"the answer to the pritikin puzzle,\" here is the ranking of the passages:\n\n[4] > [1] > [3] > [2] > [5]\n\nReasoning:\n\n[4] is ranked first because it directly addresses the topic of endocrine-disrupting chemicals and their relation to obesity development in humans. This passage specifically discusses the impact of exposure to these chemicals on body size and weight gain, which is relevant to understanding the puzzle of the Pritikin diet and its effects on obesity.\n\n[1] is ranked second as it provides comprehensive information about the potential benefits of vegan proteins in reducing the risk of cancer, obesity, and cardiovascular disease. While it does not directly mention the Pritikin diet, the focus on vegan proteins and their impact on insulin and glucagon activity is relevant to understanding the potential mechanisms behind the Pritikin diet.\n\n[3] is ranked third as it explores the effects of a high-fat meal on pulmonary function in healthy subjects. Although it does not directly address the Pritikin puzzle, it discusses the impact of a high-fat diet on respiratory ailments and inflammation, which may be indirectly related to the Pritikin diet's emphasis on low-fat intake.\n\n[2] is ranked fourth as it investigates the effects of mammalian lignans on the growth of prostate cancer cell lines. While it does not directly relate to the Pritikin puzzle, it provides information about the potential effects of certain compounds on cancer growth, which may be tangentially relevant to the broader context of the Pritikin diet and its impact on health.\n\n[5] is ranked last as it focuses on the characterization of bacteria in the feces of vegetarians. Although it provides insights into the impact of a vegetarian diet on the intestinal microbiota, it does not directly address the Pritikin puzzle or provide information that is directly relevant to understanding it."
+    },
+    {
+        "query": "to snack or not to snack ?",
+        "sorted_docids": [
+            "MED-4250",
+            "MED-3906",
+            "MED-3896",
+            "MED-3897",
+            "MED-4300"
+        ],
+        "reason": "Based on the relevance to the query \"to snack or not to snack?\", here is the ranking of the passages:\n\n[2] > [5] > [4] > [1] > [3]\n\nReasoning:\n\n[2] ranks first because it directly addresses the query by discussing the short-term effects of snacking, specifically including dried prunes, on energy intake and satiety in normal-weight individuals. It provides relevant information about the impact of snacking on appetite and meal intake.\n\n[5] ranks second as it discusses the emerging medicinal properties of date fruits, which can be relevant to the query about snacking. It highlights the potential health benefits of date fruits and their nutritional significance.\n\n[4] ranks third as it investigates the effects of adding fruit and nut bars to the diet on weight and cardiac risk profile in overweight adults. Although it focuses on a specific type of snack, it provides insights into the impact of snacking on weight and cardiovascular health.\n\n[1] ranks fourth as it primarily focuses on glycemic indices of different varieties of dates in healthy and diabetic individuals. While it mentions snacking in the context of postprandial glucose excursions, it is less directly related to the query compared to the previous passages.\n\n[3] ranks last as it discusses the cultural and historical aspects of nut consumption in the Mediterranean region. Although it mentions the nutritional properties of nuts, it does not directly address the query about snacking."
+    },
+    {
+        "query": "boosting good bacteria in the colon without probiotics",
+        "sorted_docids": [
+            "MED-5322",
+            "MED-3788",
+            "MED-5323",
+            "MED-4276",
+            "MED-5324"
+        ],
+        "reason": "Based on the relevance to the search query \"boosting good bacteria in the colon without probiotics,\" here is the ranking of the passages:\n\n[4] > [5] > [1] > [2] > [3]\n\nReasoning:\n\n[4] ranks first because it directly addresses the topic of intestinal microbiota and its characterization in vegetarians, which is relevant to boosting good bacteria in the colon without probiotics.\n\n[5] ranks second as it discusses the metabolism of L-carnitine by intestinal microbiota and its association with atherosclerosis. Although it doesn't directly mention boosting good bacteria, it provides insights into the role of microbiota in dietary metabolism.\n\n[1] ranks third as it discusses the relationship between exposure to endocrine-disrupting chemicals and obesity. While it doesn't directly address boosting good bacteria, it provides information on factors that may impact gut health and potentially influence the composition of gut bacteria.\n\n[2] ranks fourth as it discusses the role of propionate as an anti-obesity and satiety-enhancing factor. Although it doesn't specifically mention boosting good bacteria, it provides information on a potential mechanism that could indirectly affect the gut microbiota.\n\n[3] ranks last as it discusses the effects of a high-fat meal on pulmonary function in healthy subjects. While it mentions obesity and its consequences, it doesn't directly address boosting good bacteria in the colon without probiotics."
+    },
+    {
+        "query": "optimal phytosterol dose",
+        "sorted_docids": [
+            "MED-4301",
+            "MED-4352",
+            "MED-4846",
+            "MED-4353",
+            "MED-4300"
+        ],
+        "reason": "Based on the relevance to the search query \"optimal phytosterol dose,\" here is the ranking of the passages:\n\n[2] > [1] > [3] > [4] > [5]\n\nReasoning:\n\n[2] is ranked first because it directly addresses the query by discussing the effects of nut consumption on blood lipid levels, which includes phytosterols. It specifically mentions the optimal dose of nuts and provides quantitative data on the reduction in cholesterol levels.\n\n[1] is ranked second as it discusses the effects of dietary protein composition on plasma lipoproteins, which indirectly relates to phytosterols. While it does not directly mention the optimal phytosterol dose, it provides insights into the impact of different dietary compositions on cholesterol levels.\n\n[3] is ranked third as it explores the effects of a strict uncooked vegan diet on serum lipid sterol concentrations. Although it does not explicitly mention the optimal phytosterol dose, it provides information on the divergent concentration of plant sterols, which are a type of phytosterol.\n\n[4] is ranked fourth as it investigates the effects of dietary proteins on plasma lipoprotein levels in normal subjects. While it does not directly address the optimal phytosterol dose, it provides insights into the interaction between dietary cholesterol and plasma lipoproteins, which indirectly relates to phytosterols.\n\n[5] is ranked last as it focuses on the cultural and historical aspects of nut consumption in the Mediterranean region. While it mentions the nutritional properties of nuts, it does not provide specific information about the optimal phytosterol dose."
+    },
+    {
+        "query": "human neurotransmitters in plants",
+        "sorted_docids": [
+            "MED-4539",
+            "MED-5322",
+            "MED-5323",
+            "MED-5325",
+            "MED-5324"
+        ],
+        "reason": "Based on the relevance to the search query \"human neurotransmitters in plants,\" here is the ranking of the passages:\n\n[1] > [2] > [3] > [4] > [5]\n\nReasoning:\n\n[1] Passage [1] discusses the utilization of natural products as sources of drugs, including their potential role in cancer treatment. While it does not directly mention human neurotransmitters in plants, it provides relevant information about the use of natural products in drug development, which could potentially include compounds related to neurotransmitters.\n\n[2] Passage [2] focuses on the characterization of bacteria in the gut microbiota of vegetarians. Although it does not directly address human neurotransmitters in plants, it provides information about the microbial composition in the human body, which could indirectly relate to neurotransmitter production.\n\n[3] Passage [3] discusses the relationship between endocrine-disrupting chemicals and obesity in humans. While it does not specifically mention human neurotransmitters in plants, it provides insights into the impact of chemicals on human physiology, which could be relevant to neurotransmitter regulation.\n\n[4] Passage [4] examines the effects of vegetarian diets on blood pressure in white subjects. Although it does not directly address human neurotransmitters in plants, it provides information about the physiological effects of dietary choices, which could indirectly relate to neurotransmitter regulation.\n\n[5] Passage [5] investigates the effects of a high-fat meal on pulmonary function in healthy subjects. While it does not directly discuss human neurotransmitters in plants, it provides information about the impact of diet on physiological functions, which could indirectly relate to neurotransmitter regulation."
+    },
+    {
+        "query": "kiwifruit for irritable bowel syndrome",
+        "sorted_docids": [
+            "MED-4325",
+            "MED-4518",
+            "MED-4522",
+            "MED-4516",
+            "MED-4517"
+        ],
+        "reason": "Based on the relevance to the search query \"kiwifruit for irritable bowel syndrome,\" here is the ranking of the passages:\n\n[3] > [1] > [2] > [4] > [5]\n\nReasoning:\n\n1. [3] is ranked first because it directly addresses the impact of kiwifruit intervention on bowel function in patients with irritable bowel syndrome (IBS). It specifically mentions a study that examines the effects of a kiwifruit intervention on bowel function in IBS patients, providing direct relevance to the query.\n\n2. [1] is ranked second as it discusses the antioxidant activity of human feces and its potential role in protecting against oxidative damage-induced gastrointestinal diseases. While it does not directly mention kiwifruit or IBS, it provides relevant information about the antioxidant activity in the gastrointestinal system, which could be related to the potential benefits of kiwifruit for IBS.\n\n3. [2] is ranked third as it discusses the impact of a diet rich in antioxidants on endothelial function and cardiovascular risk. Although it does not specifically mention kiwifruit or IBS, it provides information about the potential benefits of a diet rich in antioxidants, which could be relevant to the query.\n\n4. [4] is ranked fourth as it investigates the effect of a high-total antioxidant capacity diet on gut function in human subjects. While it does not directly mention kiwifruit or IBS, it provides information about the impact of dietary antioxidants on stool weight and gut function, which could be indirectly related to the query.\n\n5. [5] is ranked fifth as it discusses the relationship between fecal weight, dietary intake of nonstarch polysaccharides (NSP), and colon cancer risk. Although it does not directly address kiwifruit or IBS, it provides information about the relationship between dietary fiber intake and bowel health, which could be indirectly relevant to the query."
+    },
+    {
+        "query": "dietary treatment of crohn 's disease",
+        "sorted_docids": [
+            "MED-4347",
+            "MED-4342",
+            "MED-4628",
+            "MED-4350",
+            "MED-4627"
+        ],
+        "reason": "Based on the relevance to the query \"dietary treatment of Crohn's disease,\" here is the ranking of the passages:\n\n[3] > [1] > [5] > [2] > [4]\n\nReasoning:\n\n1. [3] is ranked first because it directly addresses the topic of dietary treatment of Crohn's disease. It discusses the effects of a legume-based hypocaloric diet on metabolic and inflammatory markers in overweight/obese subjects. The passage specifically mentions weight loss and improvements in blood pressure, lipid profile, and inflammatory markers, which are relevant to the query.\n\n2. [1] is ranked second as it investigates the role of dietary macronutrients, specifically animal protein, in the etiology of inflammatory bowel disease (IBD). Although the passage does not specifically mention Crohn's disease, it provides insights into the potential impact of dietary factors on IBD, which is relevant to the query.\n\n3. [5] is ranked third as it explores the association between dietary arachidonic acid and ulcerative colitis (UC), which is a form of inflammatory bowel disease. While the passage focuses on UC rather than Crohn's disease, it provides information on the potential influence of dietary factors on the development of IBD, making it relevant to the query.\n\n4. [2] is ranked fourth as it discusses the effects of high-antioxidant potatoes on antioxidant capacity and blood pressure in hypertensive subjects. Although the passage does not directly address Crohn's disease or its dietary treatment, it provides information on the potential health benefits of certain foods, which can be relevant to overall dietary considerations for individuals with Crohn's disease.\n\n5. [4] is ranked last as it provides a general overview of the relationship between diet, inflammation, and chronic diseases. While the passage mentions the influence of nutrition and dietary patterns on inflammatory markers, it does not specifically focus on Crohn's disease or its dietary treatment, making it less directly relevant to the query."
+    },
+    {
+        "query": "unsafe at any feed",
+        "sorted_docids": [
+            "MED-4355",
+            "MED-4132",
+            "MED-5324",
+            "MED-5323",
+            "MED-5322"
+        ],
+        "reason": "Based on the relevance to the search query \"unsafe at any feed,\" here is the ranking of the passages:\n\n[3] > [5] > [1] > [2] > [4]\n\nReasoning:\n\n[3] is ranked first because it directly addresses the concept of \"unsafe at any feed\" by discussing public knowledge, beliefs, and treatment practices related to diarrheal diseases. It provides insights into the understanding and management of such diseases, which aligns with the query.\n\n[5] is ranked second as it discusses the ranking of disease burden and attribution data related to foodborne pathogens in the United States. Although it does not directly mention the phrase \"unsafe at any feed,\" it provides valuable information about the safety risks associated with food and the impact on public health.\n\n[1] is ranked third as it explores the effects of a high-fat meal on pulmonary function in healthy subjects. While it does not directly address the query, it highlights the potential health consequences of a high-fat diet, which could be relevant to the broader concept of food safety.\n\n[2] is ranked fourth as it discusses the relationship between endocrine-disrupting chemicals and obesity development in humans. Although it does not directly relate to the query, it touches upon the potential risks associated with certain chemicals in food.\n\n[4] is ranked last as it focuses on the characterization of bacteria in the feces of vegetarians. While it provides interesting insights into the impact of a vegetarian diet on the intestinal microbiota, it does not directly address the query regarding the safety of feed."
+    },
+    {
+        "query": "pharmacists versus health food store employees : who gives better advice ?",
+        "sorted_docids": [
+            "MED-4370",
+            "MED-4575"
+        ],
+        "reason": "Based on the relevance to the search query \"pharmacists versus health food store employees: who gives better advice?\", I would rank the passages as follows:\n\n[2] > [1]\n\nReasoning:\n[2] Passage provides direct information about the recommendations made by health food store employees in the context of pregnancy-related issues such as nausea/vomiting and migraines. It evaluates the recommendations provided by health food store employees and compares them to current scientific evidence. This passage directly addresses the comparison between pharmacists and health food store employees in terms of advice-giving, making it highly relevant to the query.\n\n[1] Passage discusses the common nutritional deficiency of vitamin D and the recommended intake levels. While it provides information about the importance of vitamin D, it does not directly address the comparison between pharmacists and health food store employees in terms of advice-giving. Therefore, it is less directly relevant to the query compared to passage [2]."
+    },
+    {
+        "query": "preventing cataracts with diet",
+        "sorted_docids": [
+            "MED-4382",
+            "MED-5323",
+            "MED-5322",
+            "MED-4385",
+            "MED-5324"
+        ],
+        "reason": "Based on the relevance to the search query \"preventing cataracts with diet,\" here is the ranking of the passages:\n\n[4] > [1] > [2] > [5] > [3]\n\nReasoning:\n\n1. [4] is ranked first because it directly addresses the relationship between diet and cataract risk. It specifically investigates the association between diet and cataract risk in a population with a wide range of diets, including a high proportion of vegetarians. This passage provides relevant information on the topic.\n\n2. [1] is ranked second as it discusses the potential role of endocrine-disrupting chemicals in obesity development, which indirectly relates to the prevention of cataracts through diet. While not directly focused on cataracts, it provides insights into the impact of certain chemicals on body size and weight gain, which can be relevant to understanding the role of diet in preventing cataracts.\n\n3. [2] is ranked third as it discusses the characterization of bacteria in the feces of vegetarians, which is not directly related to preventing cataracts with diet. Although it mentions the impact of a vegetarian diet on intestinal microbiota, it does not provide direct information on cataract prevention.\n\n4. [5] is ranked fourth as it discusses the influence of dietary lutein and zeaxanthin on visual performance. While lutein and zeaxanthin are important nutrients for eye health, this passage does not specifically address the prevention of cataracts with diet.\n\n5. [3] is ranked last as it discusses the effects of a high-fat meal on pulmonary function in healthy subjects. Although obesity and diet-related inflammation can have implications for overall health, this passage does not directly address the prevention of cataracts with diet."
+    },
+    {
+        "query": "cheese mites and maggots",
+        "sorted_docids": [
+            "MED-4403",
+            "MED-4909",
+            "MED-4911",
+            "MED-4912",
+            "MED-4908"
+        ],
+        "reason": "Based on the relevance to the search query \"cheese mites and maggots,\" here is the ranking of the passages:\n\n[4] > [2] > [3] > [5] > [1]\n\nReasoning:\n\n[4] ranks first because it directly addresses the topic of mite species present in cheese and the identification process using cryogenic scanning electron microscopy. It specifically mentions the analysis of mites in mimolette and milbenkase cheeses, which are relevant to the query.\n\n[2] ranks second as it discusses the bioavailability of aluminum in cheese, which may be related to the presence of mites and maggots. It provides information on the oral bioavailability of aluminum in cheese and its potential contribution to systemic circulation.\n\n[3] ranks third as it discusses the environmental and public health risks associated with arsenic exposure, which may not be directly related to cheese mites and maggots but could be of interest in understanding potential contaminants in food products.\n\n[5] ranks fourth as it discusses the elevated levels of inorganic arsenic in rice bran products, which is not directly related to cheese mites and maggots but provides information on another potential food-related concern.\n\n[1] ranks last as it primarily focuses on the toxicity of aluminum and lead in the brain, which is not directly relevant to the search query about cheese mites and maggots."
+    },
+    {
+        "query": "cholesterol and lower back pain",
+        "sorted_docids": [
+            "MED-4423",
+            "MED-1658",
+            "MED-1657",
+            "MED-1659",
+            "MED-1656"
+        ],
+        "reason": "Based on the relevance to the search query \"cholesterol and lower back pain,\" here is the ranking of the passages:\n\n[2] > [1] > [4] > [3] > [5]\n\nReasoning:\n\n1. [2] Passage [2] discusses the collateral network concept and the preservation of spinal cord perfusion during the repair of thoracoabdominal aortic aneurysms. Although it does not directly mention cholesterol, it is highly relevant to lower back pain as it focuses on the anatomy and physiology of the blood supply to the spinal cord, which can be related to lower back pain.\n\n2. [1] Passage [1] explores the correlation between diffusion values in lumbar intervertebral disks and the status of lumbar arteries. While it does not directly mention cholesterol, it discusses the association between impaired flow in lumbar arteries and decreased diffusion in lumbar disks, which can be relevant to lower back pain.\n\n3. [4] Passage [4] investigates the prevalence of arterial diseases supplying the lumbar spine and their relation to chronic low back pain. Although it does not specifically mention cholesterol, it addresses the prevalence of vascular diseases in the arteries supplying the lumbar spine, which can be indirectly related to the topic.\n\n4. [3] Passage [3] focuses on the classification of age-related histologic alterations in lumbar intervertebral discs. While it does not directly discuss cholesterol or lower back pain, it provides insights into the histologic changes in intervertebral discs associated with aging, which can be relevant to understanding lower back pain.\n\n5. [5] Passage [5] discusses the prevalence of low back pain in children and adolescents. Although it does not mention cholesterol or provide a direct link to lower back pain, it highlights the variability in prevalence rates and the need for improved methodological quality in future studies."
+    },
+    {
+        "query": "epic findings on lymphoma",
+        "sorted_docids": [
+            "MED-4436",
+            "MED-4437"
+        ],
+        "reason": "Based on the relevance to the search query \"epic findings on lymphoma,\" the passages are ranked as follows:\n\n[2] > [1]\n\nReasoning:\n\n[2] is ranked higher because it directly addresses the query by discussing the consumption of meat and dairy as a risk factor for lymphoma. It mentions the European Prospective Investigation into Cancer and Nutrition, which is a significant study in the field. The passage also highlights the examination of associations between meat consumption and different types of lymphomas, providing relevant findings and conclusions.\n\n[1] is ranked lower because it focuses on the occurrence of contaminants in offal products and their dietary exposure. While it mentions lymphoma briefly in the context of contaminant levels, it does not provide specific epic findings or comprehensive information related to lymphoma research. Therefore, it is considered less directly relevant to the query compared to [2]."
+    },
+    {
+        "query": "sometimes the enzyme myth is true",
+        "sorted_docids": [
+            "MED-4454"
+        ],
+        "reason": "Based on the given search query \"sometimes the enzyme myth is true,\" I will rank the passage [1] based on its relevance to the query.\n\nRanking:\n[1]\n\nReasoning:\nThe passage [1] discusses the bioavailability kinetics of sulforaphane in humans, specifically comparing the consumption of cooked versus raw broccoli. Although the passage does not directly mention the \"enzyme myth,\" it provides relevant information about the differences in bioavailability and absorption of sulforaphane in cooked and raw broccoli. This passage is ranked as the most relevant because it addresses the concept of enzymes and their impact on the bioavailability of nutrients, which is related to the query about the \"enzyme myth.\""
+    },
+    {
+        "query": "vitamin c-enriched bacon",
+        "sorted_docids": [
+            "MED-4470"
+        ],
+        "reason": "Based on the relevance to the search query \"vitamin c-enriched bacon,\" here is the ranking of the passages:\n\n[1] \n\nReasoning: Passage [1] discusses the effects of vitamins on the formation of n-nitroso compounds (NNC) and their role in carcinogenesis. While it does not specifically mention \"vitamin C-enriched bacon,\" it provides information about the ability of vitamins to inhibit NNC formation in meat and their association with a lower risk of cancer. Although not directly related to \"vitamin C-enriched bacon,\" it provides relevant information about the effects of vitamins on carcinogenesis and cancer prevention.\n\nTherefore, based on the available passage, [1] is ranked first as it provides the most relevant information related to the query."
+    },
+    {
+        "query": "out of the lab onto the track",
+        "sorted_docids": [
+            "MED-4506",
+            "MED-4505",
+            "MED-4504",
+            "MED-4508"
+        ],
+        "reason": "Based on the relevance to the search query \"out of the lab onto the track,\" here is the ranking of the passages:\n\n[2] > [4] > [1] > [3]\n\nReasoning:\n\n[2] is ranked first because it directly addresses the query by discussing the effects of dietary nitrate supplementation on cycling time trial performance. It specifically mentions the improvement in performance on the track, making it highly relevant.\n\n[4] is ranked second as it also discusses the effects of dietary nitrate on maximal exercise and work performance. Although it doesn't explicitly mention being on the track, it still relates to the query by discussing the improvement in exercise performance, which can be applicable to track activities.\n\n[1] is ranked third as it focuses on the effects of dietary nitrate supplementation on physiological responses during exercise, including walking and running. While it doesn't directly mention being on the track, it provides relevant information about the effects of nitrate supplementation during physical activities.\n\n[3] is ranked last as it discusses the effects of dietary inorganic nitrate on mitochondrial efficiency in humans. Although it mentions the effects of nitrate on oxygen consumption during exercise, it doesn't directly address the query of being \"out of the lab onto the track.\""
+    },
+    {
+        "query": "dragon 's blood",
+        "sorted_docids": [
+            "MED-4525",
+            "MED-4527",
+            "MED-4526"
+        ],
+        "reason": "Based on the relevance to the search query \"dragon's blood,\" here is the ranking of the passages:\n\n[1] > [3] > [2]\n\nReasoning:\n\n[1] is ranked first because it directly discusses the antidiarrheal effect of dragon's blood obtained from the Croton urucurana plant. It provides specific details about the screening of dragon's blood for its antidiarrheal activity and its potential usefulness in controlling secretory diarrhea.\n\n[3] is ranked second because it explores the potential role of sangre de grado (another name for dragon's blood) in inducing apoptosis in human gastrointestinal cancer cells. Although it focuses on a different species of Croton (Croton palanostigma), it still relates to the topic of dragon's blood and its potential medicinal properties.\n\n[2] is ranked last because it discusses the mutagenic and antioxidant activities of the sap obtained from Croton lechleri, which is also referred to as dragon's blood. While it provides information about the antioxidant activity of dragon's blood, it is less directly related to the query compared to the other passages."
+    },
+    {
+        "query": "better than goji berries",
+        "sorted_docids": [
+            "MED-4544",
+            "MED-3894",
+            "MED-3742",
+            "MED-3893"
+        ],
+        "reason": "Based on the relevance to the search query \"better than goji berries,\" here is the ranking of the passages:\n\n[1] > [4] > [2] > [3]\n\nReasoning:\n\n[1] Passage [1] discusses the various medicinal properties and health benefits of amla (Indian gooseberry), which can be considered as a potential alternative or superior option to goji berries. It provides detailed information about the therapeutic properties of amla and its potential in the treatment and prevention of cancer. This passage directly addresses the query and provides relevant information.\n\n[4] Passage [4] compares sun-dried raisins (SDRs) to sports jelly beans (SJBs) as a carbohydrate source for endurance performance in cyclists. While it doesn't directly mention goji berries, it discusses SDRs as a cost-effective and natural carbohydrate alternative. This passage is relevant as it suggests an alternative to goji berries for athletes or individuals seeking a natural carbohydrate source.\n\n[2] Passage [2] discusses the beneficial effects of flavonoid intake on blood pressure and hypertension. Although it doesn't directly compare goji berries to other foods, it provides information about the potential health benefits of flavonoids, which could be relevant when considering the overall health benefits of goji berries.\n\n[3] Passage [3] focuses on the effects of carbohydrate infusion and ingestion on fatigue during prolonged exercise. While it doesn't directly relate to goji berries or compare them to other foods, it discusses the impact of carbohydrate intake on exercise performance. This passage is less directly relevant to the query compared to the others."
+    },
+    {
+        "query": "how to help prevent abdominal aortic aneurysms",
+        "sorted_docids": [
+            "MED-4555",
+            "MED-5325",
+            "MED-5323",
+            "MED-5324",
+            "MED-5322"
+        ],
+        "reason": "Based on the relevance to the search query \"how to help prevent abdominal aortic aneurysms,\" here is the ranking of the passages:\n\n[3] > [2] > [1] > [5] > [4]\n\nReasoning:\n\n[3] ranks first because it directly addresses the prevention of abdominal aortic aneurysms. It discusses the analysis of risk factors and suggests a screening algorithm that expands the target population for screening.\n\n[2] ranks second as it provides information about the association between vegetarian diets and lower blood pressure, which can be beneficial in preventing abdominal aortic aneurysms.\n\n[1] ranks third as it discusses the potential role of endocrine-disrupting chemicals in obesity development, which indirectly relates to the prevention of abdominal aortic aneurysms.\n\n[5] ranks fourth as it explores the effects of a high-fat meal on pulmonary function, which is not directly related to the prevention of abdominal aortic aneurysms but may have some relevance to overall cardiovascular health.\n\n[4] ranks last as it focuses on the characterization of bacteria in the feces of vegetarians, which is not directly related to the prevention of abdominal aortic aneurysms."
+    },
+    {
+        "query": "the difficulty of arriving at a vitamin d recommendation",
+        "sorted_docids": [
+            "MED-4573",
+            "MED-5322",
+            "MED-5325",
+            "MED-5323",
+            "MED-5324"
+        ],
+        "reason": "Based on the relevance to the search query \"the difficulty of arriving at a vitamin D recommendation,\" here is the ranking of the passages:\n\n[4] > [1] > [2] > [3] > [5]\n\nReasoning:\n\n[4] discusses the definition, prevalence, consequences, and correction of low vitamin D status. It directly addresses the difficulty of arriving at a vitamin D recommendation and provides information on the controversy surrounding its definition and the need for optimal vitamin D levels. Therefore, it is the most relevant passage.\n\n[1] explores the impact of a vegetarian diet on intestinal microbiota, including the abundance of specific bacteria. While it does not directly address the difficulty of arriving at a vitamin D recommendation, it provides relevant information on dietary factors that can affect vitamin D metabolism and absorption.\n\n[2] focuses on the relationship between vegetarian diets and blood pressure in white subjects. Although it does not directly address the difficulty of arriving at a vitamin D recommendation, it provides insights into the potential health benefits of vegetarian diets, which can be relevant to the overall understanding of dietary recommendations.\n\n[3] discusses the association between endocrine-disrupting chemicals and obesity development in humans. While it does not directly address the difficulty of arriving at a vitamin D recommendation, it provides information on factors that can influence obesity, which can indirectly impact vitamin D status.\n\n[5] examines the effects of a high-fat meal on pulmonary function in healthy subjects. Although it does not directly address the difficulty of arriving at a vitamin D recommendation, it provides insights into the potential impact of dietary factors on respiratory health, which can be relevant to overall health recommendations but less directly related to vitamin D."
+    },
+    {
+        "query": "amyloid and apple juice",
+        "sorted_docids": [
+            "MED-4590",
+            "MED-2215",
+            "MED-4591",
+            "MED-726"
+        ],
+        "reason": "Based on the relevance to the search query \"amyloid and apple juice,\" here is the ranking of the passages:\n\n[2] > [1] > [3] > [4]\n\nReasoning:\n\n[2] ranks first because it directly addresses the relationship between amyloid and apple juice. It discusses the neuroprotective effects of apple juice in preventing oxidative stress-induced amyloid-beta toxicity.\n\n[1] ranks second as it explores the relationship between animal product consumption and dementia, which indirectly relates to amyloid. Although it does not specifically mention apple juice, it provides relevant information about dietary factors and cognitive health.\n\n[3] ranks third as it investigates the neuroprotective effects of gingerol, a compound found in ginger, against amyloid-induced oxidative cell death. While it does not directly mention apple juice, it provides insights into potential strategies for mitigating amyloid-related damage.\n\n[4] ranks fourth as it focuses on the association between abnormal lipid metabolism and Alzheimer's disease pathology. Although it does not directly address apple juice or amyloid, it provides information about a different aspect of Alzheimer's disease."
+    },
+    {
+        "query": "dietary guidelines : from dairies to berries",
+        "sorted_docids": [
+            "MED-5325",
+            "MED-5322",
+            "MED-5331",
+            "MED-5324",
+            "MED-5323"
+        ],
+        "reason": "Based on the relevance to the search query \"dietary guidelines: from dairies to berries,\" here is the ranking of the passages:\n\n[5] > [2] > [1] > [4] > [3]\n\nReasoning:\n\n[5] This passage directly addresses the topic of dietary guidelines and their impact on blood pressure in white subjects following different dietary patterns, including vegan and lacto-ovo vegetarian diets. It specifically mentions the relevance of fruit and vegetable intake, which aligns with the query.\n\n[2] This passage discusses the characterization of bacteria in the feces of vegetarians and its relation to their diet. Although it doesn't directly mention dietary guidelines, it provides insights into the impact of a vegetarian diet on the gut microbiota, which is relevant to the broader topic of dietary guidelines.\n\n[1] This passage focuses on the experiences of Finland in implementing dietary guidelines and community interventions for non-communicable disease prevention. While it doesn't directly mention dairies and berries, it discusses the influence of diet and nutrition on cardiovascular health, which is relevant to the query.\n\n[4] This passage explores the effects of a high-fat meal on pulmonary function in healthy subjects. Although it doesn't directly address dietary guidelines or the specific components mentioned in the query, it discusses the impact of a high-fat diet on respiratory health, which is tangentially related.\n\n[3] This passage reviews the literature on the relationship between exposure to endocrine-disrupting chemicals and obesity development in humans. While it touches on the topic of obesity and its potential causes, it doesn't directly address dietary guidelines or the specific components mentioned in the query."
+    },
+    {
+        "query": "are avocados good for you ?",
+        "sorted_docids": [
+            "MED-4620",
+            "MED-4515",
+            "MED-4619",
+            "MED-4618",
+            "MED-4514"
+        ],
+        "reason": "Based on the relevance to the query \"are avocados good for you?\", here is the ranking of the passages:\n\n[4] > [1] > [3] > [2] > [5]\n\nReasoning:\n\n1. [4] ranks first because it directly addresses the query by discussing the chemopreventive characteristics of avocado fruit and its potential role in cancer prevention. It mentions the presence of phytochemicals that can induce cell cycle arrest, inhibit growth, and induce apoptosis in precancerous and cancer cell lines.\n\n2. [1] ranks second as it provides information about the effects of a plant-based low-carbohydrate diet, including the consumption of avocados, on weight loss and blood lipid concentrations. While it doesn't directly answer the query, it highlights the potential benefits of avocados in a specific dietary context.\n\n3. [3] ranks third as it discusses the selective induction of apoptosis in human oral cancer cell lines by avocado extracts through a ROS-mediated mechanism. Although it focuses on cancer cells, it indirectly suggests the potential health benefits of avocados.\n\n4. [2] ranks fourth as it evaluates the genotoxicity of avocado extracts on human peripheral lymphocytes. While it provides some information about the effects of avocado extracts, it is less directly relevant to the query compared to the previous passages.\n\n5. [5] ranks last as it discusses the association between low-carbohydrate diets and mortality based on cohort studies. Although it mentions avocados in the context of low-carbohydrate diets, it doesn't specifically address their health benefits or whether they are good for you."
+    },
+    {
+        "query": "relieving yourself of excess estrogen",
+        "sorted_docids": [
+            "MED-4642",
+            "MED-3764",
+            "MED-3763",
+            "MED-3762",
+            "MED-1375"
+        ],
+        "reason": "Based on the relevance to the search query \"relieving yourself of excess estrogen,\" here is the ranking of the passages:\n\n[5] > [1] > [2] > [4] > [3]\n\nReasoning:\n\n1. [5] This passage directly addresses the relationship between diet and hormonal levels, specifically in postmenopausal women. It discusses the role of fiber in reducing breast cancer risk and its impact on estrogen metabolism. Since the query is about relieving oneself of excess estrogen, this passage provides relevant information on dietary factors that can potentially help in achieving that goal.\n\n2. [1] Although this passage primarily focuses on the risk factors of oral cancer associated with alcohol-containing mouthwash, it briefly mentions the systemic exposure to acetaldehyde, which is a genotoxic metabolite of ethanol. Since estrogen metabolism can be influenced by various factors, including alcohol consumption, this passage provides some indirect relevance to the query.\n\n3. [2] This passage explores the exposure to acetaldehyde in the oral cavity due to the ingestion of strong alcoholic beverages. While it does not directly address the query, it provides information on the potential carcinogenic concentrations of acetaldehyde. Although not directly related to relieving excess estrogen, it offers some insights into the effects of alcohol consumption on the body.\n\n4. [4] This passage discusses the association between alcohol consumption and breast cancer risk, particularly in relation to the quantity, frequency, and patterns of drinking. While it provides valuable information on the risks associated with alcohol consumption, it does not directly address the query of relieving oneself of excess estrogen.\n\n5. [3] This passage focuses on the provegetarian food pattern and its association with reducing total mortality. Although it mentions the role of diet in breast cancer risk, it does not specifically address the query of relieving oneself of excess estrogen. Therefore, it is ranked last in terms of relevance to the query."
+    },
+    {
+        "query": "too much iodine can be as bad as too little",
+        "sorted_docids": [
+            "MED-3444",
+            "MED-3443",
+            "MED-4660",
+            "MED-3442",
+            "MED-3441"
+        ],
+        "reason": "Based on the relevance to the search query \"too much iodine can be as bad as too little,\" here is the ranking of the passages:\n\n[3] > [1] > [5] > [2] > [4]\n\nReasoning:\n\n[3] ranks first because it directly addresses the relationship between iodine exposure and thyroid cancer risk, which is relevant to the query. It discusses the potential risks associated with both too much and too little iodine exposure.\n\n[1] ranks second as it discusses the effects of dietary seaweed consumption on metabolic syndrome, including blood pressure and waist circumference. While it does not directly address the negative effects of too much iodine, it provides relevant information about the potential consequences of iodine intake.\n\n[5] ranks third as it focuses on the variability of iodine content in common edible seaweeds. Although it does not explicitly discuss the negative effects of too much iodine, it provides information about the iodine content in seaweeds, which is relevant to understanding the potential risks of excessive iodine intake.\n\n[2] ranks fourth as it discusses the association between seaweed consumption and the risk of breast cancer. While it does not directly address the negative effects of too much iodine, it provides information about the potential health benefits or risks associated with seaweed consumption.\n\n[4] ranks last as it provides a general overview of seaweeds as disease preventers and their nutritional facts. While it mentions the potential utilization of seaweeds as functional foods, it does not specifically address the negative effects of too much iodine or the comparison to too little iodine."
+    },
+    {
+        "query": "is milk and mucus a myth ?",
+        "sorted_docids": [
+            "MED-4677",
+            "MED-1226",
+            "MED-5239",
+            "MED-1223",
+            "MED-1224"
+        ],
+        "reason": "Based on the relevance to the query \"is milk and mucus a myth?\", here is the ranking of the passages:\n\n[3] > [5] > [1] > [2] > [4]\n\nReasoning:\n\n[3] ranks first because it directly addresses the query by discussing the association between milk consumption and mucus production in the respiratory tract. It provides evidence from medical studies and highlights the hypothesis that milk-derived substances can stimulate mucus production.\n\n[5] ranks second as it explores the relationship between milk intake and early menarche (the onset of menstruation in girls). Although it doesn't directly address the query about milk and mucus, it provides relevant information about the effects of milk consumption on physiological processes.\n\n[1] ranks third as it discusses the role of leucine-mediated cell signaling in the pathogenesis of obesity and diabetes. While it doesn't directly address the query, it provides information about the potential effects of dairy proteins on insulin signaling and metabolic processes.\n\n[2] ranks fourth as it focuses on the impact of cow milk consumption on linear growth and insulin-like growth factor-I (IGF-I) levels. Although it mentions milk's role in growth and development, it doesn't specifically address the query about milk and mucus.\n\n[4] ranks last as it discusses the effects of skim milk, whey, and casein on body weight and plasma c-peptide concentration in overweight adolescents. While it provides information about the effects of milk proteins, it doesn't directly address the query about milk and mucus."
+    },
+    {
+        "query": "convergence of evidence",
+        "sorted_docids": [
+            "MED-4696",
+            "MED-1489",
+            "MED-1488",
+            "MED-1486",
+            "MED-1487"
+        ],
+        "reason": "Based on the relevance to the query \"convergence of evidence,\" here is the ranking of the passages:\n\n[1] > [3] > [2] > [4] > [5]\n\nReasoning:\n\n1. [1]: This passage discusses the convergence of evidence related to the modulation of inflammatory genes by natural dietary bioactive compounds. It specifically mentions the molecular pathways and signaling pathways involved in cancer-related inflammation. This directly relates to the query and provides a comprehensive understanding of the topic.\n\n2. [3]: This passage focuses on the reversal of coronary artery disease (CAD) through plant-based nutrition. While it doesn't explicitly mention the term \"convergence of evidence,\" it provides evidence of the effectiveness of plant-based nutrition in treating CAD. This aligns with the concept of converging evidence from various studies and supports the query.\n\n3. [2]: This passage explores the expectations and benefits of adding antihypertensive drugs in the treatment of hypertension. Although it doesn't directly address the convergence of evidence, it provides insights into patient expectations and factors influencing treatment decisions. While it is somewhat related to the query, it is less directly relevant than the previous two passages.\n\n4. [4]: This passage discusses patient expectations regarding lipid-lowering drugs. While it touches on patient beliefs and factors influencing treatment decisions, it doesn't directly address the convergence of evidence. It is still somewhat relevant to the query but less so compared to the previous passages.\n\n5. [5]: This passage focuses on patients' expectations of screening and preventive treatments. While it touches on patient beliefs and overestimation of treatment benefits, it doesn't directly address the convergence of evidence. It is the least directly relevant passage to the query among the given options."
+    },
+    {
+        "query": "is dragon fruit good for you ?",
+        "sorted_docids": [
+            "MED-1576",
+            "MED-1578",
+            "MED-1574",
+            "MED-1575",
+            "MED-1577"
+        ],
+        "reason": "Based on the relevance to the query \"is dragon fruit good for you?\", here is the ranking of the passages:\n\n[5] > [1] > [2] > [4] > [3]\n\nReasoning:\n\n[5] This passage directly addresses the query by evaluating the association between dietary intake and the risk of developing inflammatory bowel disease. It provides insights into the impact of different nutrients, food groups, and dietary factors on the risk of IBD. Since dragon fruit is a type of fruit, this passage is highly relevant to the query.\n\n[1] Although this passage focuses on Crohn's disease and its pathogenesis, it discusses the role of dietary components in affecting microbial composition, inflammation, and intestinal permeability. While it doesn't specifically mention dragon fruit, it provides relevant information about the impact of dietary components on gut health, which is indirectly related to the query.\n\n[2] This passage discusses the potential role of dietary polysaccharide maltodextrin in Crohn's disease pathogenesis. While it doesn't directly mention dragon fruit, it highlights the impact of dietary components on gut microbes and their association with intestinal disorders. It is less directly relevant to the query compared to [1].\n\n[4] This passage focuses on the impaired epithelial barrier function in Crohn's disease and the role of tight junction proteins. Although it provides insights into the pathogenesis of Crohn's disease, it doesn't directly address the query about the benefits of dragon fruit.\n\n[3] This passage discusses the treatment-related risk factors and pathogenesis of progressive multifocal leukoencephalopathy (PML). It is not directly related to the query about the health benefits of dragon fruit and is therefore ranked last in terms of relevance."
+    },
+    {
+        "query": "is distilled fish oil toxin-free ?",
+        "sorted_docids": [
+            "MED-1831",
+            "MED-1833",
+            "MED-1832",
+            "MED-4729",
+            "MED-1834"
+        ],
+        "reason": "Based on the relevance to the search query \"is distilled fish oil toxin-free?\", here is the ranking of the passages:\n\n[5] > [1] > [2] > [3] > [4]\n\nReasoning:\n\n[5] This passage directly addresses the query by discussing the evaluation of congener-specific PCB concentrations in children's dietary supplements of fish oils. It specifically assesses the potential PCB exposures in these products and concludes that daily exposures from children's supplements are significantly lower than those reported in adult supplements. This passage provides relevant information about the safety and toxin levels in distilled fish oil supplements.\n\n[1] This passage discusses the intake of cod liver oil and its association with asthma development in Norwegian adults. Although it does not directly address the query about toxin-free fish oil, it provides information about the health effects of consuming cod liver oil, which indirectly relates to the safety and potential toxins in fish oil products.\n\n[2] This passage focuses on the essentiality of docosahexaenoic acid (DHA) and arachidonic acid (AA) in the diet of term infants and their effects on visual acuity development. While it does not directly address the query about toxin-free fish oil, it provides information about the benefits and effects of DHA and AA supplementation in infant formula, which can be relevant to understanding the quality and safety of fish oil products.\n\n[3] This passage discusses the contribution of organohalogen contaminants to liver histopathology in East Greenland polar bears. Although it mentions the presence of contaminants, it does not specifically address the query about toxin-free fish oil. The focus of this passage is on the histopathological effects of contaminants in polar bears, which is not directly related to the safety of distilled fish oil.\n\n[4] This passage discusses the role of latitude and ultraviolet radiation exposure in the prevalence of childhood asthma and hayfever in Australia. While it mentions the interest in the role of vitamin D and its association with allergies, it does not directly address the query about toxin-free fish oil. The focus of this passage is on the relationship between latitude, UV radiation, and childhood allergies, which is not directly relevant to the query."
+    },
+    {
+        "query": "acne & cancer connection",
+        "sorted_docids": [
+            "MED-4752",
+            "MED-1226",
+            "MED-1223",
+            "MED-1224",
+            "MED-5239"
+        ],
+        "reason": "Based on the relevance to the search query \"acne & cancer connection,\" here is the ranking of the passages:\n\n[1] > [4] > [2] > [3] > [5]\n\nReasoning:\n\n1. [1]: This passage directly discusses the potential connection between acne and cancer. It explores the epidemiological link between dairy intake and hormone-responsive glands, such as those involved in acne, breast cancer, and prostate cancer. It also mentions the involvement of insulin-like growth factor and other hormones present in milk. Overall, it provides the most relevant information regarding the acne and cancer connection.\n\n2. [4]: This passage discusses the association between milk intake and early menarche, which is relevant to the hormonal aspects of acne. While it doesn't directly address the cancer connection, it provides valuable insights into the relationship between dairy consumption and hormonal changes, which could potentially be linked to cancer development.\n\n3. [2]: This passage focuses on the effects of cow milk consumption on insulin-like growth factor-I (IGF-I) and its role in growth and development. Although it doesn't specifically mention the cancer connection, it provides relevant information about the impact of milk consumption on IGF-I, which could be relevant to understanding the potential link between acne and cancer.\n\n4. [3]: This passage discusses the effects of skim milk, whey, and casein on body weight and plasma c-peptide concentration in overweight adolescents. While it doesn't directly address the acne and cancer connection, it provides insights into the potential effects of milk proteins on insulin secretion and body weight, which could be relevant to understanding the underlying mechanisms of acne and cancer.\n\n5. [5]: This passage discusses the role of leucine signaling in the pathogenesis of type 2 diabetes and obesity. Although it doesn't directly address the acne and cancer connection, it provides information about the potential effects of leucine-rich proteins found in dairy and meat on insulin resistance and cell proliferation, which could be indirectly relevant to understanding the connection between acne and cancer."
+    },
+    {
+        "query": "overdosing on greens",
+        "sorted_docids": [
+            "MED-3109",
+            "MED-3098",
+            "MED-3100",
+            "MED-3099",
+            "MED-3810"
+        ],
+        "reason": "Based on the relevance to the query \"overdosing on greens,\" here is the ranking of the passages:\n\n[4] > [1] > [2] > [5] > [3]\n\nReasoning:\n\n[4] Passage [4] directly mentions the link between diet and immunity, specifically highlighting the role of aryl hydrocarbon receptor (AHR) in promoting intestinal immune function. Since the query is about overdosing on greens, which are part of the diet, this passage is highly relevant.\n\n[1] Passage [1] discusses the inhibitory effects of camel urine on cytochrome P450 enzymes, which are involved in the metabolism of various substances, including those found in greens. Although the passage does not directly address overdosing on greens, it provides information about the potential effects of certain compounds on the body.\n\n[2] Passage [2] talks about flavonoids found in plant foods, including greens, and their inhibitory effects on the aryl hydrocarbon receptor (AHR). While it does not specifically address overdosing on greens, it provides relevant information about the compounds present in greens and their interaction with AHR.\n\n[5] Passage [5] discusses the role of the aryl hydrocarbon receptor (AHR) and its activation by xenobiotic ligands in triggering cardiovascular diseases. Although it does not directly address overdosing on greens, it provides information about the potential effects of AHR activation, which may be relevant to the query.\n\n[3] Passage [3] discusses the potential mood-elevating effects of certain compounds found in spices, including those used in gingerbread. While it does not directly address overdosing on greens, it provides information about the effects of compounds found in food, which may be tangentially related to the query."
+    },
+    {
+        "query": "dietary theory of alzheimer 's",
+        "sorted_docids": [
+            "MED-726",
+            "MED-4671",
+            "MED-2215",
+            "MED-4790",
+            "MED-743"
+        ],
+        "reason": "Based on the relevance to the search query \"dietary theory of Alzheimer's,\" here is the ranking of the passages:\n\n[1] > [3] > [2] > [5] > [4]\n\nReasoning:\n\n1. [1] Passage [1] directly addresses the relationship between lipid profiles and Alzheimer's disease pathology, which is relevant to the dietary theory of Alzheimer's. It discusses the association between abnormal lipid metabolism and Alzheimer's disease, providing evidence for the role of diet in the development of the disease.\n\n2. [3] Passage [3] focuses on a saffron treatment study in patients with mild to moderate Alzheimer's disease. While it doesn't directly mention the dietary theory, it explores the efficacy of saffron as a potential dietary intervention for Alzheimer's, making it highly relevant to the query.\n\n3. [2] Passage [2] discusses the incidence of dementia in relation to animal product consumption. Although it doesn't specifically mention the dietary theory of Alzheimer's, it provides preliminary findings on the relationship between dietary choices (such as vegan or meat-eating) and the risk of developing dementia.\n\n4. [5] Passage [5] discusses the risks of copper toxicity contributing to cognitive decline and Alzheimer's disease. While it touches on the dietary aspect of copper exposure, it doesn't directly address the dietary theory of Alzheimer's as explicitly as the previous passages.\n\n5. [4] Passage [4] focuses on a systematic review of herbal medicines for the treatment of depression, including St. John's wort. Although it mentions the management of depression, it doesn't directly address the dietary theory of Alzheimer's or its relationship to diet."
+    },
+    {
+        "query": "meat & multiple myeloma",
+        "sorted_docids": [
+            "MED-4436",
+            "MED-4820",
+            "MED-5032",
+            "MED-4437",
+            "MED-5033"
+        ],
+        "reason": "Based on the relevance to the search query \"meat & multiple myeloma,\" here is the ranking of the passages:\n\n[1] > [2] > [4] > [3] > [5]\n\nReasoning:\n\n[1] Passage [1] provides information about the consumption of meat and its association with lymphoma risk. Although it does not directly mention multiple myeloma, it discusses the risk of various types of lymphomas associated with the consumption of meat and animal-origin foods. Since multiple myeloma is a type of lymphoma, this passage is highly relevant to the query.\n\n[2] Passage [2] discusses cancer incidence among British vegetarians, including the incidence of various types of cancers. Although it does not specifically mention multiple myeloma, it provides insights into the incidence of cancer among individuals who do not consume meat. Since multiple myeloma is a type of cancer, this passage is relevant to the query.\n\n[4] Passage [4] investigates the relation between processed meats and the risk of childhood leukemia. Although it does not directly mention multiple myeloma, it discusses the risk of leukemia associated with the intake of processed meats. Since multiple myeloma is a type of leukemia, this passage is somewhat relevant to the query.\n\n[3] Passage [3] focuses on the occurrence of dioxins and polychlorinated biphenyls (PCBs) in offal, which is a type of meat product. Although it does not mention multiple myeloma, it provides information about the occurrence of contaminants in meat products. This passage is less directly relevant to the query compared to the previous ones.\n\n[5] Passage [5] discusses cancer as a preventable disease and the importance of lifestyle factors in cancer prevention. Although it mentions meat consumption as a lifestyle factor, it does not specifically address multiple myeloma. This passage is the least directly relevant to the query among the given options."
+    },
+    {
+        "query": "apthous ulcer mystery solved",
+        "sorted_docids": [
+            "MED-4841",
+            "MED-1226",
+            "MED-5239",
+            "MED-1224",
+            "MED-1223"
+        ],
+        "reason": "Based on the relevance to the search query \"apthous ulcer mystery solved,\" here is the ranking of the passages:\n\n[3] > [1] > [2] > [4] > [5]\n\nReasoning:\n\n[3] is ranked first because it directly addresses the topic of recurrent aphthous ulcers (apthous ulcers) and provides information about the association between serum antibodies and the clinical manifestations of these ulcers.\n\n[1] is ranked second as it discusses the associations between milk consumption, dairy products, and early menarche. Although it does not directly address apthous ulcers, it provides relevant information about the potential effects of milk intake on certain health conditions.\n\n[2] is ranked third as it discusses the role of leucine-mediated cell signaling in the pathogenesis of obesity and type 2 diabetes. While it does not specifically mention apthous ulcers, it provides insights into the potential mechanisms underlying certain health conditions.\n\n[4] is ranked fourth as it discusses the effects of skim milk, whey, and casein on body weight and plasma c-peptide concentration in overweight adolescents. Although it does not directly address apthous ulcers, it provides information about the potential effects of milk proteins on metabolic parameters.\n\n[5] is ranked fifth as it discusses the potential consequences of cow milk consumption on linear growth, age of menarche, and insulin-like growth factor-I (IGF-I) levels. While it does not directly address apthous ulcers, it provides information about the broader effects of milk consumption on human biology and life history."
+    },
+    {
+        "query": "epic study",
+        "sorted_docids": [
+            "MED-4861",
+            "MED-4390",
+            "MED-4053",
+            "MED-4049",
+            "MED-4051"
+        ],
+        "reason": "Based on the relevance to the search query \"epic study,\" here is the ranking of the passages:\n\n[3] > [1] > [2] > [4] > [5]\n\nReasoning:\n\n1. [3] is ranked first because it directly addresses the query by discussing the \"European Prospective Investigation into Cancer and Nutrition (EPIC)\" study and its analysis of the relationship between fruit and vegetable intake and cancer risk. It provides detailed information about the study design, findings, and associations, making it highly relevant to the query.\n\n2. [1] is ranked second as it discusses a study on the influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers. Although it does not directly mention the EPIC study, it provides information about an epic study conducted on the bioavailability of curcumin, which is related to the broader topic of epic studies.\n\n3. [2] is ranked third as it discusses the occurrence of heterocyclic amines (HCAs) in cooked meat products and their potential mutagenic effects. While it does not directly relate to the EPIC study, it provides information about a different aspect of research related to cancer risk, which is a broader topic within the context of an epic study.\n\n4. [4] is ranked fourth as it discusses an intervention study on human breast cell carcinogenesis induced by a specific chemical carcinogen. Although it does not directly relate to the EPIC study, it provides information about an epic study conducted on breast cell carcinogenesis, which is relevant to the broader topic of epic studies.\n\n5. [5] is ranked fifth as it discusses the protective effect of flavonoids on food-mutagen-induced DNA damage in peripheral blood lymphocytes of colon cancer patients. While it does not directly relate to the EPIC study, it provides information about a different aspect of research related to cancer and the potential protective effects of flavonoids, which is a broader topic within the context of an epic study."
+    },
+    {
+        "query": "update on herbalife \u00ae",
+        "sorted_docids": [
+            "MED-3985",
+            "MED-3986",
+            "MED-3988",
+            "MED-3987",
+            "MED-4872"
+        ],
+        "reason": "Based on the relevance to the search query \"update on Herbalife \u00ae,\" here is the ranking of the passages:\n\n[4] > [1] > [2] > [3] > [5]\n\nReasoning:\n\n[4] is ranked first because it directly mentions Herbalife \u00ae and discusses the treatment of vitamin deficiency using UVB-irradiated mushrooms. This passage is specifically related to Herbalife \u00ae and provides an update on alternative treatment options.\n\n[1] is ranked second as it discusses the bioavailability of vitamins in UV-B-irradiated mushrooms. Although it does not directly mention Herbalife \u00ae, it provides information on enhancing vitamin content in mushrooms, which could be relevant to Herbalife \u00ae products.\n\n[2] is ranked third as it discusses the effectiveness of vitamin D in maintaining serum hydroxyvitamin levels. While it does not mention Herbalife \u00ae directly, it provides general information on the importance of maintaining vitamin levels, which could be relevant to Herbalife \u00ae products.\n\n[3] is ranked fourth as it discusses a systematic review and meta-analysis comparing the effects of different vitamins on raising serum hydroxyvitamin levels. Although it does not mention Herbalife \u00ae specifically, it provides general information on the comparison of vitamin supplementation, which may be of interest in an update on Herbalife \u00ae.\n\n[5] is ranked last as it discusses safety considerations and potential interactions of vitamins. While it does not directly mention Herbalife \u00ae, it provides information on adverse effects and interactions of vitamins, which may be relevant to an update on Herbalife \u00ae products."
+    },
+    {
+        "query": "saturated fat & cancer progression",
+        "sorted_docids": [
+            "MED-1531",
+            "MED-1527",
+            "MED-1530",
+            "MED-1528",
+            "MED-1529"
+        ],
+        "reason": "Based on the relevance to the search query \"saturated fat & cancer progression,\" here is the ranking of the passages:\n\n[1] > [2] > [3] > [4] > [5]\n\nReasoning:\n\n[1] Passage [1] directly addresses the relationship between dietary factors, including saturated fat, and cancer progression. It discusses the findings of a multicountry ecological study that examines the correlation between various risk-modifying factors and cancer incidence rates. This passage is highly relevant to the search query.\n\n[2] Passage [2] focuses on vegetarian dietary patterns and their association with mortality. Although it does not specifically mention saturated fat and cancer progression, it provides valuable information about the impact of dietary patterns on overall mortality, which indirectly relates to cancer progression. It is still highly relevant to the query.\n\n[3] Passage [3] discusses a meta-analysis and systematic review of studies examining cardiovascular disease mortality and cancer incidence in vegetarians. While it does not directly address the relationship between saturated fat and cancer progression, it provides relevant information about the health outcomes of vegetarian diets, which can be indirectly related to cancer progression.\n\n[4] Passage [4] discusses the effect of a vegetarian diet on non-communicable diseases, including ischemic heart disease and cancer. Although it does not specifically mention cancer progression, it provides information about the potential benefits of a vegetarian diet in reducing the risk of various diseases, including cancer.\n\n[5] Passage [5] focuses on the risk of hospitalization and death from ischemic heart disease in British vegetarians compared to non-vegetarians. While it does not directly address cancer progression or saturated fat, it provides information about the health outcomes of a vegetarian diet, which can be indirectly related to cancer progression."
+    },
+    {
+        "query": "aluminum in vaccines vs. food",
+        "sorted_docids": [
+            "MED-4908",
+            "MED-2251",
+            "MED-2250",
+            "MED-2248",
+            "MED-2249"
+        ],
+        "reason": "Based on the relevance to the search query \"aluminum in vaccines vs. food,\" here is the ranking of the passages:\n\n[2] > [5] > [1] > [3] > [4]\n\nReasoning:\n\n[2] is ranked first because it directly addresses the topic of aluminum toxicity and its molecular mechanisms in the brain. It specifically mentions aluminum as a neurotoxic metal and its potential involvement in neurodegenerative diseases, making it highly relevant to the query.\n\n[5] is ranked second as it discusses the association between dietary cadmium exposure and breast cancer risk. Although it does not directly mention aluminum, it provides relevant information about the potential risks of dietary exposure to heavy metals, which is related to the broader topic of metal exposure in food.\n\n[1] is ranked third as it discusses chronic low-level cadmium exposure and its link to various health conditions. While it does not specifically mention aluminum, it provides information about exposure to another heavy metal and its potential adverse effects, which can be relevant to the broader topic of metal exposure in both vaccines and food.\n\n[3] is ranked fourth as it discusses the trace element status in individuals switching to a lactovegetarian diet. Although it does not directly address aluminum or vaccines, it provides information about the effects of dietary changes on trace element concentrations, which can be tangentially related to the topic.\n\n[4] is ranked last as it discusses the potential mitigating effects of zinc supplementation on cadmium toxicity. While it provides information about cadmium exposure and its health effects, it does not directly address the comparison between aluminum in vaccines and food, making it less relevant to the query."
+    },
+    {
+        "query": "are multivitamins good for you ?",
+        "sorted_docids": [
+            "MED-2758",
+            "MED-4925",
+            "MED-2762",
+            "MED-2759",
+            "MED-2757"
+        ],
+        "reason": "Based on the relevance to the query \"are multivitamins good for you?\", here is the ranking of the passages:\n\n[3] > [1] > [4] > [2] > [5]\n\nReasoning:\n\n1. [3] is ranked first because it directly addresses the query by discussing the long-term effects of multivitamin supplementation on cardiovascular disease in men. It presents the findings of a randomized controlled trial, making it highly relevant to the query.\n\n2. [1] is ranked second as it provides detailed information about a study conducted on postmenopausal women to examine the associations between multivitamin use and the risk of cancer and cardiovascular disease. Although it focuses on women, it still provides relevant information about the potential effects of multivitamins.\n\n3. [4] is ranked third as it presents a systematic evidence review on the benefits and harms of vitamin and mineral supplements for the primary prevention of cardiovascular disease and cancer. While it does not directly answer the query, it provides valuable insights into the topic.\n\n4. [2] is ranked fourth as it discusses potential drug interactions and adverse events related to multivitamin use, specifically in the context of a weight loss program. Although it provides some relevant information, it is not as directly related to the query as the previous passages.\n\n5. [5] is ranked last as it focuses on a meta-analysis of randomized controlled trials investigating the effect of multivitamin-multimineral supplementation on mortality risk. While it provides some insights into the topic, it does not specifically address the question of whether multivitamins are good for you."
+    },
+    {
+        "query": "fish fog",
+        "sorted_docids": [
+            "MED-4946",
+            "MED-2388",
+            "MED-2386",
+            "MED-2395",
+            "MED-2385"
+        ],
+        "reason": "Based on the relevance to the search query \"fish fog,\" here is the ranking of the passages:\n\n[2] > [1] > [3] > [4] > [5]\n\nReasoning:\n\n[2] is ranked first because it directly discusses the neurotoxic effects of low-level mercury exposure from fish consumption. It specifically mentions the association between mercury exposure and neurobehavioral abnormalities, which is relevant to the query.\n\n[1] is ranked second as it discusses the integrated effects of exposure to dioxins and mercury on insulin resistance and pancreatic function. Although it does not directly mention \"fish fog,\" it provides information on the potential health risks associated with exposure to these substances.\n\n[3] is ranked third as it discusses the associations between mercury exposure and incident diabetes in prospective cohorts. While it does not directly mention \"fish fog,\" it provides relevant information on the relationship between mercury exposure and diabetes.\n\n[4] is ranked fourth as it discusses the dose-response relationship between serum concentrations of persistent organic pollutants (POPs) and diabetes prevalence. Although it does not directly mention \"fish fog,\" it provides information on the potential health risks associated with exposure to POPs, which could be relevant to the query.\n\n[5] is ranked last as it discusses the concentration of mercury in the hair of diseased individuals in Japan. While it mentions various diseases, it does not directly relate to the query \"fish fog\" and is therefore ranked lower in terms of relevance."
+    },
+    {
+        "query": "sexually transmitted fish toxin",
+        "sorted_docids": [
+            "MED-1569",
+            "MED-1568",
+            "MED-4962",
+            "MED-1570",
+            "MED-1571"
+        ],
+        "reason": "Based on the relevance to the search query \"sexually transmitted fish toxin,\" here is the ranking of the passages:\n\n[3] > [2] > [1] > [4] > [5]\n\nReasoning:\n\n[3] is ranked first because it directly addresses the topic of toxin exposure and the development of polymyositis in patients severely poisoned by ciguatera fish toxin. It specifically mentions the mechanism of action of the toxin and its potential role in predisposing muscle inflammation, which is highly relevant to the query.\n\n[2] is ranked second as it discusses the role of ciguatoxins in altering temperature sensation in sensory neurons. Although it does not directly mention the transmission of the toxin, it provides valuable information about the toxin's effects, which is relevant to the query.\n\n[1] is ranked third as it discusses necrotizing soft-tissue infections caused by Vibrio species, including Vibrio vulnificus and Vibrio cholerae. While it does not specifically mention the transmission of the toxin, it provides information about the clinical characteristics and outcome predictors of infections caused by these bacteria, which may be indirectly related to the query.\n\n[4] is ranked fourth as it provides a broader overview of ciguatera, including its epidemiology, symptoms, and the accumulation of ciguatoxins in marine finfish. Although it does not directly address the transmission of the toxin, it provides general information about ciguatera that may be of interest.\n\n[5] is ranked last as it specifically focuses on the epidemiology and clinical patterns of ciguatera outbreaks on Union Island in the Indian Ocean. While it mentions the outbreaks and the fish species commonly incriminated, it does not directly address the transmission of a sexually transmitted fish toxin, which is the main focus of the query."
+    },
+    {
+        "query": "veggies vs. cancer",
+        "sorted_docids": [
+            "MED-2922",
+            "MED-2925",
+            "MED-3465",
+            "MED-2926",
+            "MED-2923"
+        ],
+        "reason": "Based on the relevance to the query \"veggies vs. cancer,\" here is the ranking of the passages:\n\n[2] > [5] > [1] > [3] > [4]\n\nReasoning:\n\n[2] provides information specifically about the cancer prevention potential of berry fruits, which are often categorized as \"veggies\" in a broader sense. It discusses the beneficial effects of various bioactive compounds found in berries and their potential role in counteracting oxidative stress, inflammation, and regulating cancer-related pathways.\n\n[5] focuses on the immunomodulatory effects of lycium barbarum fruit juice, which is relevant to the query as it explores the potential health benefits of a specific fruit in relation to immune function and general well-being.\n\n[1] examines the effects of blueberry ingestion on oxidative stress, inflammation, and immune system activation in the context of strenuous exercise. While it does not directly compare veggies to cancer, it provides insights into the potential antioxidant and anti-inflammatory properties of blueberries, which are commonly considered as part of a healthy vegetable and fruit-based diet.\n\n[3] investigates the immunomodulatory and potential anti-cancer activities of black pepper and cardamom extracts. Although it does not directly address the relationship between veggies and cancer, it explores the immunomodulatory effects of spices, which can be relevant to the broader topic of dietary components and their impact on cancer prevention.\n\n[4] discusses the role of death receptor ligands in tumors and their potential as therapeutic targets. While it touches upon the mechanisms of tumor cell death, it does not directly address the relationship between veggies and cancer, making it less directly relevant to the query compared to the other passages."
+    },
+    {
+        "query": "alcohol risks vs. benefits",
+        "sorted_docids": [
+            "MED-3696",
+            "MED-4994",
+            "MED-5323",
+            "MED-5322",
+            "MED-5324"
+        ],
+        "reason": "Based on the relevance to the search query \"alcohol risks vs. benefits,\" here is the ranking of the passages:\n\n[2] > [5] > [4] > [1] > [3]\n\nReasoning:\n\n[2] provides information specifically about the association between alcohol consumption and breast cancer risk, which directly addresses the risks and benefits of alcohol. It focuses on a specific health outcome related to alcohol consumption, making it highly relevant to the query.\n\n[5] discusses the cardioprotective properties of moderate alcohol consumption compared to abstinence or heavy drinking. While it doesn't directly address the risks, it highlights the potential benefits of alcohol consumption, which is relevant to the query.\n\n[4] reviews the literature on the relationship between exposure to endocrine-disrupting chemicals and obesity development in humans. Although it doesn't directly discuss alcohol risks vs. benefits, it provides insights into the potential factors contributing to obesity, which can indirectly relate to the risks associated with alcohol consumption.\n\n[1] investigates the effects of a vegetarian diet on the intestinal microbiota, which is not directly related to alcohol risks vs. benefits. While it mentions the impact on host metabolism and disease risks, it doesn't provide specific information about alcohol.\n\n[3] examines the effects of a high-fat meal on pulmonary function in healthy subjects. Although it mentions the impact of a high-fat diet on obesity and respiratory ailments, it doesn't directly address alcohol risks vs. benefits.\n\nPlease note that the ranking is based on the relevance of the passages to the search query and may not reflect the overall importance or quality of the information provided in each passage."
+    },
+    {
+        "query": "is coconut milk good for you ?",
+        "sorted_docids": [
+            "MED-5014",
+            "MED-5012",
+            "MED-5016",
+            "MED-5013",
+            "MED-5015"
+        ],
+        "reason": "Based on the relevance to the query \"is coconut milk good for you?\", here is the ranking of the passages:\n\n[2] > [3] > [4] > [5] > [1]\n\nReasoning:\n\n[2] ranks first because it directly addresses the query by discussing the dietary intake and the risk of coronary heart disease associated with consuming coconut. It provides relevant information about the impact of coconut consumption on cardiovascular health.\n\n[3] ranks second as it explores the cholesterol-lowering effect of coconut flakes in humans with moderately raised serum cholesterol. This information is valuable in determining the potential health benefits of coconut milk.\n\n[4] ranks third as it investigates the effects of dietary coconut oil, butter, and safflower oil on plasma lipids and lipoproteins. Although it does not specifically mention coconut milk, it provides insights into the impact of coconut fat on cholesterol levels.\n\n[5] ranks fourth as it discusses the impairment of endothelial function, which is relevant to understanding the potential health effects of high-fat meal intake. While it does not focus solely on coconut milk, it provides some insights into the impact of high-fat diets on cardiovascular health.\n\n[1] ranks last as it discusses the use of intravenous coconut water for hydration in critically ill patients. Although it mentions coconut water, it does not directly address the query about the health benefits of coconut milk for consumption."
+    },
+    {
+        "query": "boosting heart nerve control",
+        "sorted_docids": [
+            "MED-5026",
+            "MED-4384",
+            "MED-2899",
+            "MED-2898",
+            "MED-2896"
+        ],
+        "reason": "Based on the relevance to the search query \"boosting heart nerve control,\" here is the ranking of the passages:\n\n[1] > [4] > [5] > [2] > [3]\n\nReasoning:\n\n1. [1]: This passage directly addresses the query by discussing the beneficial effects of high consumption of fruits, vegetables, and dark fish on heart rate variability (HRV). It also mentions the mechanisms and associations related to cardiovascular health, making it the most relevant passage.\n2. [4]: This passage explores the association between the consumption of fruits and vegetables and the risk of glaucoma. Although it does not directly mention heart nerve control, it discusses the potential benefits of higher intake of fruits and vegetables, which can be beneficial for overall cardiovascular health.\n3. [5]: While this passage focuses on the relationship between iris color, macular pigment optical density, and retinal health, it does mention the protective mechanisms of macular pigment and its role in reducing the incidence of retinal degenerations. Although it is not directly related to heart nerve control, it provides some insights into the potential benefits of macular pigment, which may have implications for cardiovascular health.\n4. [2]: This passage discusses the risk factors for age-related macular degeneration (AMD) and the relationship between macular pigment and AMD. Although it does not directly address heart nerve control, it provides some information about the role of macular pigment in eye health, which may indirectly relate to overall cardiovascular health.\n5. [3]: This passage focuses on the relation between dietary antioxidant intake and the risk of primary open-angle glaucoma. While it does not directly address heart nerve control, it provides information about the potential benefits of dietary antioxidants, which may have implications for overall cardiovascular health. However, it is less directly relevant to the query compared to the other passages."
+    },
+    {
+        "query": "kuna indian secret",
+        "sorted_docids": [
+            "MED-5041",
+            "MED-2225",
+            "MED-2224",
+            "MED-2222",
+            "MED-2223"
+        ],
+        "reason": "Based on the relevance to the search query \"kuna indian secret,\" here is the ranking of the passages:\n\n[2] > [1] > [3] > [5] > [4]\n\nReasoning:\n\n[2] ranks first because it directly mentions the Kuna Indians and their consumption of flavanol-rich cocoa as a main beverage. It discusses the potential benefits of high flavanol intake in reducing the frequency of various diseases, including cardiovascular disease, stroke, diabetes mellitus, and cancer. This passage specifically addresses the Kuna Indian secret mentioned in the query.\n\n[1] ranks second as it investigates the effect of cocoa-rich dark chocolate on renal tissue oxygenation in humans. Although it does not directly mention the Kuna Indians, it provides relevant information about the potential benefits of cocoa-rich products, which could be related to the Kuna Indian secret.\n\n[3] ranks third as it explores the potential benefits of dark chocolate on coronary vasomotion and platelet reactivity. While it does not mention the Kuna Indians specifically, it provides insights into the positive effects of dark chocolate, which could be relevant to the Kuna Indian secret.\n\n[5] ranks fourth as it discusses the effect of cocoa/chocolate ingestion on brachial artery flow-mediated dilation and its relevance to cardiovascular health in humans. Although it does not mention the Kuna Indians, it provides general information about the potential cardiovascular benefits of cocoa/chocolate consumption.\n\n[4] ranks last as it focuses on the evaluation of the antiradical activity of cocoa and chocolate products in relation to lipid and protein composition. While it provides information about the antioxidant properties of cocoa and chocolate, it does not directly address the Kuna Indian secret mentioned in the query."
+    },
+    {
+        "query": "the healthiest sweetener",
+        "sorted_docids": [
+            "MED-5056",
+            "MED-3742",
+            "MED-2830",
+            "MED-2826",
+            "MED-2827"
+        ],
+        "reason": "Based on the relevance to the query \"the healthiest sweetener,\" here is the ranking of the passages:\n\n[4] > [1] > [2] > [3] > [5]\n\nReasoning:\n\n1. [4] ranks first because it directly addresses the query by comparing the total antioxidant content of natural sweeteners as alternatives to refined sugar. It provides information on various sweeteners and their potential benefits in terms of antioxidant activity, which is relevant to finding the healthiest sweetener.\n\n2. [1] ranks second as it discusses the association between flavonoid intake and hypertension prevention. Although it doesn't directly focus on sweeteners, it provides valuable information about the health benefits of certain compounds found in fruits like blueberries and strawberries, which can be used as natural sweeteners.\n\n3. [2] ranks third as it explores the bioavailability and protective effects of herbs and spices in humans. While it doesn't specifically address sweeteners, it highlights the potential health benefits of consuming certain herbs and spices, which can be used as natural sweeteners or flavor enhancers.\n\n4. [3] ranks fourth as it discusses the effects of low-dose lipidated curcumin extract on wellness-related measures in healthy middle-aged individuals. Although it doesn't directly relate to sweeteners, it provides insights into the potential health-promoting effects of a natural compound, which can be relevant when considering the healthiest sweetener options.\n\n5. [5] ranks last as it focuses on the efficacy of soy protein supplementation in alleviating osteoarthritis symptoms. While it doesn't directly address sweeteners, it discusses alternative therapeutic approaches for managing symptoms, which may not be directly relevant to the query about the healthiest sweetener."
+    },
+    {
+        "query": "are artificial colors bad for you ?",
+        "sorted_docids": [
+            "MED-3382",
+            "MED-3380",
+            "MED-5062",
+            "MED-2616",
+            "MED-3378"
+        ],
+        "reason": "Based on the relevance to the query \"are artificial colors bad for you?\", here is the ranking of the passages:\n\n[3] > [5] > [2] > [1] > [4]\n\nReasoning:\n\n[3] ranks first because it directly addresses the query by discussing the impact of artificial food colors on dietary sensitivities and ADHD symptoms. It provides evidence of significant symptom improvement in a subgroup of children when consuming an AFC-free diet.\n\n[5] ranks second as it also directly addresses the query by discussing the relationship between artificial food dyes and attention deficit hyperactivity disorder (ADHD). It mentions the positive results of research studies that suggest a role of food additives in contributing to ADHD.\n\n[2] ranks third as it presents a randomized double-blinded placebo-controlled trial that examines the effect of artificial food color additives on hyperactive behavior in children. It provides evidence of adverse effects of AFCs on behavior.\n\n[1] ranks fourth as it discusses the significance of azo reduction, mutagenesis, and carcinogenesis of azo dyes. While it mentions the connection between azo dyes and intestinal cancer, it does not directly address the query about artificial colors.\n\n[4] ranks last as it discusses brain cancer and environmental lead exposure, which is not directly related to the query about artificial colors."
+    },
+    {
+        "query": "healthiest airplane beverage",
+        "sorted_docids": [
+            "MED-1840",
+            "MED-1837",
+            "MED-1838",
+            "MED-1839",
+            "MED-1836"
+        ],
+        "reason": "Based on the relevance to the query \"healthiest airplane beverage,\" here is the ranking of the passages:\n\n[4] > [2] > [1] > [3] > [5]\n\nReasoning:\n\n[4] ranks first because it directly discusses the influence of tea drinking on manganese intake and status, which is relevant to the query about the healthiest airplane beverage. It provides information about dietary manganese intake, circulating manganese levels, and the expression of manganese-dependent enzymes.\n\n[2] ranks second as it explores the effect of dietary manganese intake and its impact on clinical neuropsychological measures. Although it does not directly address airplane beverages, it provides insights into the health effects of manganese intake, which is relevant to the query.\n\n[1] ranks third as it discusses the determination of various elements in herbal tea infusions, including aluminum, which may be relevant to the health aspect of airplane beverages. However, it focuses more on the analysis of elements rather than specifically addressing the healthiest beverage choice.\n\n[3] ranks fourth as it discusses the gastrointestinal absorption of aluminum from antacids. While it mentions aluminum and its absorption, it does not directly address the healthiest airplane beverage.\n\n[5] ranks last as it focuses on the effect of dietary factors on manganese-dependent superoxide dismutase activity, which is not directly related to the query about the healthiest airplane beverage."
+    },
+    {
+        "query": "antioxidant content of 300 foods",
+        "sorted_docids": [
+            "MED-5084",
+            "MED-5083",
+            "MED-2009",
+            "MED-2008",
+            "MED-4544"
+        ],
+        "reason": "Based on the relevance to the search query \"antioxidant content of 300 foods,\" here is the ranking of the passages:\n\n[1] > [5] > [3] > [2] > [4]\n\nReasoning:\n\n[1] Passage [1] specifically discusses the antioxidant content of various culinary and medicinal herbs, making it highly relevant to the search query.\n\n[5] Passage [5] provides a systematic screening of total antioxidants in dietary plants, including fruits, berries, vegetables, cereals, nuts, and pulses. It directly addresses the antioxidant content of various foods, making it highly relevant to the search query.\n\n[3] Passage [3] discusses the nutritional quality and health benefits of chickpeas, including their antioxidant content. While it doesn't directly mention 300 foods, it provides relevant information about the antioxidant content of a specific food item.\n\n[2] Passage [2] focuses on the effects of a pulse-based diet on reducing LDL-cholesterol in older adults. While it doesn't directly address the antioxidant content of foods, it provides some information about the health benefits of certain foods, which could indirectly relate to antioxidant content.\n\n[4] Passage [4] discusses the potential cancer treatment and prevention properties of amla (Indian gooseberry). While it mentions the antioxidant properties of amla, it doesn't directly address the antioxidant content of 300 foods, making it less relevant to the search query compared to the other passages."
+    },
+    {
+        "query": "plant vs. cow calcium",
+        "sorted_docids": [
+            "MED-1700",
+            "MED-5108",
+            "MED-1701",
+            "MED-1699",
+            "MED-1703"
+        ],
+        "reason": "Based on the relevance to the search query \"plant vs. cow calcium,\" here is the ranking of the passages:\n\n[1] > [2] > [3] > [5] > [4]\n\nReasoning:\n\n[1] Passage [1] discusses the relationship between dietary fat types and cognitive change in older women. While it does not directly address the comparison between plant and cow calcium, it provides information on dietary factors that may affect cognitive health, which is not directly related to the query.\n\n[2] Passage [2] discusses the effectiveness of heat inactivation of Mycobacterium avium subsp paratuberculosis in raw milk. This passage is not directly relevant to the query about plant vs. cow calcium.\n\n[3] Passage [3] discusses the antiplatelet activity of strawberry extract and its potential effects on preventing thrombus formation. Although it does not directly address the comparison between plant and cow calcium, it provides information on the potential health benefits of strawberries, which is somewhat related to the query.\n\n[5] Passage [5] is a systematic review that examines the association between adherence to the Mediterranean diet and cognitive function/dementia. While it does not directly address the comparison between plant and cow calcium, it provides information on the potential impact of diet on cognitive health, which is somewhat related to the query.\n\n[4] Passage [4] discusses the projected impact of risk factor reduction on Alzheimer's disease prevalence. It does not directly address the comparison between plant and cow calcium and focuses more on risk factors and disease prevalence. Therefore, it is the least relevant passage to the query."
+    },
+    {
+        "query": "vitamin supplements worth taking",
+        "sorted_docids": [
+            "MED-2938",
+            "MED-2939",
+            "MED-5128",
+            "MED-2941",
+            "MED-2940"
+        ],
+        "reason": "Based on the relevance to the search query \"vitamin supplements worth taking,\" here is the ranking of the passages:\n\n[5] > [1] > [4] > [2] > [3]\n\nReasoning:\n\n1. [5]: This passage directly addresses the topic of vitamin supplements and their worth. It discusses the effects of vegetarianism on carotid atherosclerosis and highlights the importance of vitamin supplementation in preventing deficiencies. It is the most relevant passage to the query.\n\n2. [1]: This passage focuses on the arterial function in postmenopausal vegetarians and the role of vitamin supplementation in improving cardiovascular health. While it doesn't directly mention vitamin supplements, it provides valuable information about the benefits of vegetarianism and the prevention of vitamin deficiencies.\n\n3. [4]: This passage discusses the association between low vitamin B12 and folate status and cognitive decline in older adults. Although it doesn't specifically mention vitamin supplements, it highlights the importance of maintaining adequate vitamin levels for cognitive health.\n\n4. [2]: This passage explores the predictive value of carotid intima-media thickness (IMT) for cardiovascular mortality in elderly individuals. While it doesn't directly address vitamin supplements, it provides information about a cardiovascular risk factor that may be influenced by overall health, including vitamin status.\n\n5. [3]: This passage discusses the increasing use of chest CT scans and the associated radiation exposure. While it mentions the importance of understanding cancer risks, it doesn't directly address the topic of vitamin supplements and their worth."
+    },
+    {
+        "query": "healthy chocolate milkshakes",
+        "sorted_docids": [
+            "MED-2223",
+            "MED-2222",
+            "MED-2224",
+            "MED-3535",
+            "MED-2274"
+        ],
+        "reason": "Based on the relevance to the search query \"healthy chocolate milkshakes,\" here is the ranking of the passages:\n\n[2] > [1] > [3] > [5] > [4]\n\nReasoning:\n\n[2] ranks first because it directly discusses the evaluation of antioxidant activity and total phenolic content in cocoa and chocolate products. This passage is highly relevant to the query as it provides information about the health properties of chocolate, which is essential for making healthy chocolate milkshakes.\n\n[1] ranks second as it discusses the effects of cocoa/chocolate ingestion on cardiovascular health. While it does not specifically mention milkshakes, it provides relevant information about the potential health benefits of cocoa/chocolate, which can be applied to the context of healthy chocolate milkshakes.\n\n[3] ranks third as it discusses the potential benefits of dark chocolate on coronary vasomotion and platelet reactivity. Although it does not directly mention milkshakes, it provides information about the positive effects of dark chocolate, which can be considered when making healthy chocolate milkshakes.\n\n[5] ranks fourth as it provides a general review of the health benefits of cherries, including their antioxidant activity and potential preventive effects on various diseases. While it does not specifically mention chocolate milkshakes, it provides some relevant information about the health benefits of cherries, which can be combined with chocolate in milkshake recipes.\n\n[4] ranks last as it discusses the relation between cherry consumption and the risk of recurrent gout attacks. This passage is less directly related to the query about healthy chocolate milkshakes, as it focuses on gout attacks rather than the healthiness of chocolate milkshakes."
+    },
+    {
+        "query": "the healthiest vegetables",
+        "sorted_docids": [
+            "MED-2098",
+            "MED-1881",
+            "MED-1880",
+            "MED-4390",
+            "MED-5159"
+        ],
+        "reason": "Based on the relevance to the query \"the healthiest vegetables,\" here is the ranking of the passages:\n\n[3] > [5] > [1] > [4] > [2]\n\nReasoning:\n\n[3] ranks first because it directly discusses the health benefits of steam cooking on various vegetables, highlighting their potential in lowering the risk of cardiovascular disease and cancer. It specifically mentions collard greens, kale, mustard greens, broccoli, green bell pepper, and cabbage, which are considered among the healthiest vegetables.\n\n[5] ranks second as it focuses on a cohort study investigating the association between dietary habits and cognitive decline in elderly Chinese individuals. It mentions the importance of vegetable and legume intake in preventing cognitive decline, which aligns with the concept of healthy vegetables.\n\n[1] ranks third as it explores the influence of cooking processes on the phenolic composition and health properties of dark beans. Although it does not directly mention vegetables, legumes like beans are often considered healthy, and the study highlights their antioxidant, neuroprotective, and anticancer abilities.\n\n[4] ranks fourth as it discusses the influence of piperine on the pharmacokinetics of curcumin, a compound obtained from turmeric. While it does not directly focus on vegetables, turmeric is often considered a healthy spice, and the study explores ways to enhance the bioavailability of curcumin.\n\n[2] ranks last as it discusses the risk of lung cancer associated with cannabis smoking. Although it mentions vegetables briefly in the context of risk factors, it does not directly address the healthiest vegetables or provide substantial information related to the query."
+    },
+    {
+        "query": "bowel movement frequency",
+        "sorted_docids": [
+            "MED-2099",
+            "MED-2997",
+            "MED-2999",
+            "MED-5177",
+            "MED-3000"
+        ],
+        "reason": "Based on the relevance to the query \"bowel movement frequency,\" here is the ranking of the passages:\n\n[4] > [1] > [3] > [2] > [5]\n\nReasoning:\n\n1. [4] discusses the binding capacities of dietary fibers and their effects on toxic elements, cholesterol, and bile acids. While it does not directly address bowel movement frequency, it provides relevant information about the impact of dietary fibers on the digestive system, which can influence bowel movement frequency.\n\n2. [1] discusses the etiological significance of related diseases and the role of fiber in the diet. Although it does not specifically mention bowel movement frequency, it highlights the importance of fiber in the diet, which is known to affect bowel movements.\n\n3. [3] talks about the emergence of Western diseases related to diet. While it does not directly address bowel movement frequency, it provides insights into the impact of diet on disease patterns, which can indirectly affect bowel movement frequency.\n\n4. [2] focuses on the pilot evaluation of flaxseed therapy for managing hot flashes. Although it does not directly relate to bowel movement frequency, it provides information about a specific therapy that may have an impact on the digestive system and bowel movements.\n\n5. [5] discusses the potential involvement of red meat consumption in colorectal cancer. While it does not directly address bowel movement frequency, it provides information about the relationship between diet and colorectal health, which can have an indirect impact on bowel movement frequency."
+    }
+]
