@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/home/yuj49/DIAYN/train.py", line 31, in <module>
+    datasets['train'] = datasets['train'].add_column('llm_label', train_llm_labels)
+  File "/home/yuj49/anaconda3/envs/llama_factory/lib/python3.10/site-packages/datasets/arrow_dataset.py", line 557, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+  File "/home/yuj49/anaconda3/envs/llama_factory/lib/python3.10/site-packages/datasets/fingerprint.py", line 511, in wrapper
+    out = func(dataset, *args, **kwargs)
+  File "/home/yuj49/anaconda3/envs/llama_factory/lib/python3.10/site-packages/datasets/arrow_dataset.py", line 5621, in add_column
+    table = concat_tables([dataset._data, column_table], axis=1)
+  File "/home/yuj49/anaconda3/envs/llama_factory/lib/python3.10/site-packages/datasets/table.py", line 1802, in concat_tables
+    return ConcatenationTable.from_tables(tables, axis=axis)
+  File "/home/yuj49/anaconda3/envs/llama_factory/lib/python3.10/site-packages/datasets/table.py", line 1507, in from_tables
+    blocks = _extend_blocks(blocks, table_blocks, axis=axis)
+  File "/home/yuj49/anaconda3/envs/llama_factory/lib/python3.10/site-packages/datasets/table.py", line 1499, in _extend_blocks
+    result, blocks = _split_both_like(result, blocks)
+  File "/home/yuj49/anaconda3/envs/llama_factory/lib/python3.10/site-packages/datasets/table.py", line 1489, in _split_both_like
+    raise ValueError("Failed to concatenate on axis=1 because tables don't have the same number of rows")
+ValueError: Failed to concatenate on axis=1 because tables don't have the same number of rows

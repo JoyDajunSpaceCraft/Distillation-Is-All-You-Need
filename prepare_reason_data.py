@@ -169,7 +169,7 @@ def check_overlap(sentence1, sentence2):
     # Find the intersection of two sets
     overlap = words1.intersection(words2)
     
-    # 如果交集非空，表示有重叠
+    # if more than 0 means have the overlap
     return len(overlap) > 0
 
 if __name__ == "__main__":
@@ -207,33 +207,37 @@ if __name__ == "__main__":
 
     csnlp = []
     # extract first 10 example
-    for idx, full_text in enumerate(train_text[:10]):
-        res = {}
-        pre_suspecious = llm_figure_specious_sentence(full_text)
-        suspecious = clean_data(full_text, pre_suspecious)
-        if  train_label[idx] ==1:
-            # if the suspecious is matched then return right predict 
-            if suspecious == "No matching sentence found." or  check_overlap(suspecious, train_wrongsen[idx]) is False:
-                suspecious = train_wrongsen[idx]    
-                print("wrong prediction of the first 10 example: {} and the suspecious is: {}".format(str(idx), suspecious))
-                print("right suspecious is: {}".format(train_wrongsen[idx]))
+    for idx, full_text in enumerate(train_text[100:900]):
+        try:
+            res = {}
+            pre_suspecious = llm_figure_specious_sentence(full_text)
+            suspecious = clean_data(full_text, pre_suspecious)
+            if train_label[idx] == 1:
+                if suspecious == "No matching sentence found." or not check_overlap(suspecious, train_wrongsen[idx]):
+                    suspecious = train_wrongsen[idx]
+                    print("wrong prediction of the first 10 example: {} and the suspecious is: {}".format(idx, suspecious))
+                    print("right suspecious is: {}".format(train_wrongsen[idx]))
+                else:
+                    right_predict_sus += 1
             else:
-                right_predict_sus+=1
-        else:
-            suspecious = None
+                suspecious = None
 
-        no_query = remove_suspious(full_text, suspecious)
-        knowledge = retrieve_documents(no_query, knowledge_base='pubmed', top_n=1) # right now only get top 1 need to fine coding
-        print("knowledge: ", knowledge)
-        reason = llm_generate_reason(full_text, suspecious,knowledge, train_label[idx]) #  train_label is 0 or 1, 0 means is wrong label 1 means right label
-        res["reason"] = reason
-        res["full_text"] = full_text
-        res["knowledge"] = knowledge
-        res["label"] = train_label[idx]
-        csnlp.append(res)
+            no_query = remove_suspious(full_text, suspecious)
+            knowledge = retrieve_documents(no_query, knowledge_base='pubmed', top_n=1)
+            print("knowledge: ", knowledge)
+            reason = llm_generate_reason(full_text, suspecious, knowledge, train_label[idx])
+            res["reason"] = reason
+            res["full_text"] = full_text
+            res["knowledge"] = knowledge
+            res["label"] = train_label[idx]
+
+            # Save each result to file immediately before appending
+            with open('data/csnlp/csnlp_train.jsonl', 'a') as f:
+                json.dump(res, f)
+                f.write('\n')
+
+            csnlp.append(res)
+        except Exception as e:
+            print(f"Error processing index {idx}: {e}")
+
         print("right_predict_sus", right_predict_sus)
-
-    with open('data/csnlp/csnlp_train.jsonl', 'w') as f:
-        for item in csnlp:
-            json.dump(item, f)
-            f.write('\n')

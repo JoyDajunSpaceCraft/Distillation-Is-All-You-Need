@@ -9,6 +9,7 @@ from transformers.trainer_utils import set_seed
 import wandb
 import argparse
 from MedDataLoader import MedicalKnowledge
+from ReRankDataLoader import ReRankDataLoader
 
 from datasets import DatasetDict, concatenate_datasets
 from transformers import AutoTokenizer
@@ -22,7 +23,7 @@ def get_config_dir(args_dict):
     return f'{args_dict["dataset"]}-{args_dict["from_pretrained"].split("/")[1]}-{["model_type"]}-{args_dict["llm"]}-{args_dict["subsample"]}-{args_dict["label_type"]}-{args_dict["alpha"]}-{args_dict["max_input_length"]}-{args_dict["grad_steps"]*args_dict["batch_size"]}-{args_dict["optimizer_name"]}-{args_dict["lr"]}'
 
 
-dataset_loader = MedicalKnowledge()
+dataset_loader = ReRankDataLoader()
 
 datasets = dataset_loader.load_from_json()
 train_llm_rationales, train_llm_labels = dataset_loader.load_llm_preds(split='train')

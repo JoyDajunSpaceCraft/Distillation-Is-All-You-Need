@@ -15,7 +15,7 @@ dataset_train = "nfcorpus/nfcorpus_100_reason.jsonl"
 dataset_valid = "nfcorpus/nfcorpus_100_reason.jsonl"
 
 # this dataset is for the data change for the binary change
-class  MedicalKnowledge(object):
+class  ReRankDataLoader(object):
     def __init__(self, dataset_name=None,  has_valid=True, split_map=None,
                  batch_size=1, train_batch_idxs=None, test_batch_idxs=None, valid_batch_idxs=None):
         # batch_size = 1000

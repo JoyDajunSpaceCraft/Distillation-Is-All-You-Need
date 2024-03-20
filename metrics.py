@@ -1,4 +1,20 @@
 import numpy as np
+# How to use the compute metrix in the prediction 
+
+# if i
+#   if args.model_type == 'standard':
+#         if args.dataset not in ['svamp', 'asdiv']:
+#             compute_metrics = compute_metrics_text_aux(tokenizer)
+#         else:
+#             compute_metrics = compute_metrics_equation_aux(tokenizer)
+
+#     else:
+#         if args.dataset not in ['svamp', 'asdiv']:
+#             compute_metrics = compute_metrics_text(tokenizer)
+#         else:
+#             compute_metrics = compute_metrics_equation(tokenizer)
+
+
 def compute_text_acc(preds, labels):
     return np.mean(np.array(preds) == np.array(labels))
 
