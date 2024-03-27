@@ -9,7 +9,7 @@ import nltk
 from nltk.tokenize import sent_tokenize
 
 nltk.download('punkt')
-openai.api_key = "sk-xx"
+openai.api_key = "sk-"
 def extract_matching_sentences(text, pattern):
     sentences = re.split(r"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s", text)
     matching_sentences = []
@@ -207,7 +207,7 @@ if __name__ == "__main__":
 
     csnlp = []
     # extract first 10 example
-    for idx, full_text in enumerate(train_text[100:900]):
+    for idx, full_text in enumerate(train_text[1500:]):
         try:
             res = {}
             pre_suspecious = llm_figure_specious_sentence(full_text)

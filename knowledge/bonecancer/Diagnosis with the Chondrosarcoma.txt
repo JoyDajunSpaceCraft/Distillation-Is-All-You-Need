@@ -1,0 +1,29 @@
+Atypical Cartilaginous Tumors
+
+Question: Which treatment guidelines should be followed for atypical cartilaginous tumors?
+Answer: The CHON-2 treatment guidelines should be followed for atypical cartilaginous tumors.
+CHON-2 Guidelines:
+Primary Treatment: Recommended treatments include intralesional excision and potential surgical adjuvant therapy, or observation.
+Surveillance: Physical exam, X-rays of the primary site and/or cross-sectional imaging every 6–12 months for 2 years, then annually early, with CT with contrast or MRI as clinically indicated.
+Recurrence: For local recurrence, perform imaging of the primary site as indicated (e.g., X-ray, MRI, CT with contrast), and if there is malignant transformation, follow the CHON-3 guidelines.
+Workup: Upon recurrence, continue with imaging studies and if there is malignant transformation, treat according to CHON-3 guidelines.
+Treatment for Specific Chondrosarcoma Types
+
+Question: How should low-grade extracompartmental appendicular tumors, grade I axial tumors, high-grade tumors, clear cell tumors, or extracompartmental tumors be treated?
+Answer: These types of tumors should be treated according to the CHON-3 treatment guidelines.
+CHON-3 Guidelines:
+Primary Treatment: Wide excision if resectable, or consider radiation therapy if borderline resectable or unresectable.
+Surveillance: Conduct physical exams and imaging (X-ray, CT, MRI) every 3–6 months for 5 years, then annually, reassess function at every visit.
+Recurrence: Wide excision is preferred for local recurrence if resectable. Consider radiation therapy if the tumor is borderline resectable or unresectable. Follow CHON-4 guidelines for systemic recurrence.
+Metastatic Disease and Dedifferentiated Tumors
+
+Question: How should metastatic disease at presentation or dedifferentiated tumors be treated?
+Answer: Treat according to the CHON-4 treatment guidelines.
+CHON-4 Guidelines for Metastatic Chondrosarcoma:
+Dedifferentiated and Mesenchymal: Treatment should be considered according to the EW-1 guidelines.
+Oligometastatic Disease: Aim for surgical excision of all metastatic sites if possible, consider radiation therapy for unresectable sites, and participation in clinical trials.
+Widespread Disease: Consider radiation therapy, surgery, and/or ablative therapies for symptomatic sites, with systemic therapy and clinical trial participation as options.
+Mesenchymal Tumors
+
+Question: How should mesenchymal tumors be treated?
+Answer: Treat in accordance with the NCCN category 2B guidelines for Ewing's sarcoma, designated as EW-1.

@@ -1,0 +1,266 @@
+
+Initial Diagnostic Question
+
+Question: What steps should be taken when a symptomatic bone lesion is present and the X-ray is abnormal?
+Answer: The next step in the diagnostic pathway depends on the patient's age.
+Age-Based Diagnostic Decision
+
+Follow-Up Question: What is the age of the patient?
+
+If the patient is under 40 years old
+
+Question: What should be done if the patient is under 40 years of age?
+Answer: The patient should be referred to an orthopedic oncologist, and a biopsy should be performed at the treating institution if indicated.
+If the patient is 40 years of age or older
+
+Question: What should be done if the patient is 40 years of age or older?
+Answer: Further tests should be conducted to determine if bone metastasis is present.
+Further Testing Question: What tests should be performed to determine if bone metastasis is present?
+Further Testing Answer: These tests include history and physical examination, bone scan or FDG-PET/CT, chest X-ray, serum protein electrophoresis (SPEP), mammogram, chest/abdominal/pelvic (C/A/P) CT with contrast, prostate-specific antigen (PSA), and other lab tests.
+Follow-Up Tests for Bone Metastasis
+
+If no other lesions are found
+Question: What should be done if no other lesions are found?
+Answer: The patient should be referred to an orthopedic oncologist for a biopsy.
+If signs of other non-bone primary lesions are found
+Question: What should be done if signs of other non-bone primary lesions are found during the examination?
+Answer: Treatment should follow the NCCN guidelines for the specific type of cancer.
+Atypical Cartilaginous Tumors
+
+Question: Which treatment guidelines should be followed for atypical cartilaginous tumors?
+Answer: The CHON-2 treatment guidelines should be followed for atypical cartilaginous tumors.
+CHON-2 Guidelines:
+Primary Treatment: Recommended treatments include intralesional excision and potential surgical adjuvant therapy, or observation.
+Surveillance: Physical exam, X-rays of the primary site and/or cross-sectional imaging every 6–12 months for 2 years, then annually early, with CT with contrast or MRI as clinically indicated.
+Recurrence: For local recurrence, perform imaging of the primary site as indicated (e.g., X-ray, MRI, CT with contrast), and if there is malignant transformation, follow the CHON-3 guidelines.
+Workup: Upon recurrence, continue with imaging studies and if there is malignant transformation, treat according to CHON-3 guidelines.
+Treatment for Specific Chondrosarcoma Types
+
+Question: How should low-grade extracompartmental appendicular tumors, grade I axial tumors, high-grade tumors, clear cell tumors, or extracompartmental tumors be treated?
+Answer: These types of tumors should be treated according to the CHON-3 treatment guidelines.
+CHON-3 Guidelines:
+Primary Treatment: Wide excision if resectable, or consider radiation therapy if borderline resectable or unresectable.
+Surveillance: Conduct physical exams and imaging (X-ray, CT, MRI) every 3–6 months for 5 years, then annually, reassess function at every visit.
+Recurrence: Wide excision is preferred for local recurrence if resectable. Consider radiation therapy if the tumor is borderline resectable or unresectable. Follow CHON-4 guidelines for systemic recurrence.
+Metastatic Disease and Dedifferentiated Tumors
+
+Question: How should metastatic disease at presentation or dedifferentiated tumors be treated?
+Answer: Treat according to the CHON-4 treatment guidelines.
+CHON-4 Guidelines for Metastatic Chondrosarcoma:
+Dedifferentiated and Mesenchymal: Treatment should be considered according to the EW-1 guidelines.
+Oligometastatic Disease: Aim for surgical excision of all metastatic sites if possible, consider radiation therapy for unresectable sites, and participation in clinical trials.
+Widespread Disease: Consider radiation therapy, surgery, and/or ablative therapies for symptomatic sites, with systemic therapy and clinical trial participation as options.
+Mesenchymal Tumors
+
+Question: How should mesenchymal tumors be treated?
+Answer: Treat in accordance with the NCCN category 2B guidelines for Ewing's sarcoma, designated as EW-1.
+Diagnostic Workup for Chordoma
+
+Question: What are the steps included in the diagnostic workup for chordoma?
+Answer: The diagnostic workup includes evaluation and treatment by a multidisciplinary team, history and physical examination, adequate cross-sectional imaging of the primary site, C/A/P CT with contrast, consideration of FDG-PET/CT scan, and bone scan if FDG-PET/CT is negative.
+Histologic Subtype
+
+Conventional or Chondroid Chordoma
+Question: Which guideline should be referred to for the presentation and initial treatment of conventional or chondroid chordoma?
+Answer: The guidelines for the presentation and primary treatment (CHOR-2) should be referred to.
+Poorly Differentiated or Dedifferentiated Chordoma
+Question: Which guidelines should be referred to for poorly differentiated or dedifferentiated chordoma?
+Answer: The NCCN guidelines for soft tissue sarcoma should be referred to.
+Chordoma Treatment Guidelines
+
+Sacrococcygeal and Mobile Spine Chordoma
+Question: Is the sacrococcygeal or mobile spine chordoma resectable?
+Answers:
+If yes: Perform wide resection and consider radiation therapy if needed.
+If no: Consider radiation therapy as the tumor is unresectable.
+Skull Base Clival Chordoma
+Question: Is the skull base or clival chordoma resectable?
+Answers:
+If yes: Perform intralesional excision and consider radiation therapy if needed.
+If no: Consider radiation therapy as the tumor is unresectable.
+Surveillance
+
+Question: How should surveillance for chordoma be conducted?
+Answer: Regular physical examinations, imaging of the primary site as clinically indicated, chest imaging every 6 months for 5 years, then annually thereafter as clinically indicated.
+Recurrence
+
+Local Recurrence
+Question: How should a local recurrence of chordoma be treated?
+Answer: Surgical excision, radiation therapy (RT), and systemic therapy may be considered.
+Metastatic Recurrence
+Question: How should a metastatic recurrence of chordoma be treated?
+Answer: Systemic therapy, surgical excision, radiation therapy (RT), and best supportive care may be considered.
+Additional Information
+
+Targeted Therapy Decision
+Question: How are targeted therapy opportunities for chordoma determined?
+Answer: Consideration should be given to comprehensive genomic profiling (CGP) with a validated and/or FDA-approved assay.
+TMB and MMR/MSI Testing
+Question: Should TMB and MMR/MSI testing be considered in the treatment of chordoma?
+Answer: Testing for TMB and MMR/MSI may be considered as determined by a validated and/or FDA-approved assay.
+Metastatic Disease at Presentation
+
+Question: Is the metastatic disease resectable or unresectable?
+Resectable Metastatic Disease
+
+Action:
+Refer to OSTEO-2 for management of the primary tumor.
+Consider chemotherapy, metastasectomy, stereotactic radiation therapy (RT), or ablation for pulmonary, visceral, and skeletal metastases.
+Surveillance:
+Follow up with surveillance according to OSTEO-4.
+Unresectable Metastatic Disease
+
+Action:
+Administer chemotherapy and radiation therapy.
+Reassess the primary site as appropriate for local control.
+Workup for Osteosarcoma
+
+Question: What are the workup steps for Osteosarcoma?
+Answers:
+History and physical examination
+Contrast-enhanced MRI and CT of the primary site, chest imaging including chest CT, FDG-PET/CT, and/or bone scan
+Lab tests including LDH and alkaline phosphatase (ALP)
+Consider fertility consultation and genetic counseling
+Primary Treatment for Osteosarcoma
+
+For low-grade osteosarcoma, assess if it is intramedullary or surface:
+If intramedullary, perform wide excision.
+If surface, consider chemotherapy.
+For high-grade osteosarcoma, refer to OSTEO-2 for treatment guidelines.
+For metastatic disease at presentation, refer to OSTEO-3 for treatment guidelines.
+For extraskeletal osteosarcoma, follow the NCCN Guidelines for Soft Tissue Sarcoma.
+Adjuvant Treatment for Osteosarcoma
+
+Question: What is the adjuvant treatment for high-grade osteosarcoma?
+Answers:
+For high-grade osteosarcoma, chemotherapy (category 1), followed by surveillance (OSTEO-4).
+For low-grade osteosarcoma, proceed to surveillance (OSTEO-4).
+Neoadjuvant Treatment for High-Grade Osteosarcoma
+
+Question: Is the high-grade osteosarcoma intramedullary or surface?
+Action: Administer preoperative chemotherapy (category 1).
+Restage: Assess if the tumor is resectable after restaging.
+If unresectable, proceed to adjuvant treatment.
+If resectable, perform wide excision.
+Postoperative Pathology: Assess if surgical margins are negative or positive.
+If margins are negative and the response is good, continue with chemotherapy.
+If margins are negative but the response is poor, continue the preoperative regimen or consider changing chemotherapy (category 3).
+If margins are positive, consider additional local therapy (surgical resection + RT).
+Workup for Ewing Sarcoma
+
+Question: What are the recommended workup procedures for Ewing Sarcoma?
+Answer:
+History and physical examination
+Contrast-enhanced MRI of the primary site
+Chest CT
+FDG-PET/CT (head-to-toe) and/or bone scan
+Consider bone marrow biopsy and/or screening MRI of spine and pelvis
+Cytogenetics and/or molecular studies
+Lactate dehydrogenase (LDH) test
+Fertility consultation
+Primary Treatment for Localized Ewing Sarcoma
+
+Question: What is the primary treatment for localized Ewing Sarcoma?
+Answer: Multiagent chemotherapy for at least 9 weeks prior to local therapy.
+Restaging Ewing Sarcoma
+
+Question: What are the procedures for restaging Ewing Sarcoma?
+Answer:
+Restage with chest CT
+Contrast-enhanced MRI plus CT (without contrast) of the primary site
+X-rays of the primary site
+Consider FDG-PET/CT (head-to-toe) or bone scan
+Repeat other abnormal studies
+Response Assessment for Ewing Sarcoma
+
+Localized Disease
+Question: How is the response to treatment assessed for localized Ewing Sarcoma?
+Answer: Refer to the EW-2 section for response evaluation criteria.
+Metastatic Disease
+Question: How is the response to treatment assessed for metastatic Ewing Sarcoma?
+Answer: Refer to the EW-3 section for response evaluation criteria.
+Progressive Disease
+Question: What are the treatment options for progressive Ewing Sarcoma?
+Answer: Refer to the EW-3 section for response evaluation criteria.
+Post-Primary Treatment Surveillance for Ewing Sarcoma
+
+Question: What are the surveillance options post-treatment?
+Answers:
+Regular physical exam, contrast-enhanced MRI & CT of the primary site
+Chest imaging every 2-3 months, CBC, and other labs as indicated
+After 24 months, increase intervals for exams and imaging indefinitely
+Consider FDG-PET/CT or bone scan as clinically indicated
+Treatment for Progressive Disease or Relapse in Ewing Sarcoma
+
+Question: What is the treatment approach for progressive disease or relapse?
+Answers:
+Chemotherapy with or without RT and surgery
+Metastatic Ewing Sarcoma Treatment
+
+Local Control Therapy
+Question: Are the surgical margins positive after tumor excision?
+Answers:
+If yes, continue chemotherapy followed by RT
+If no, definitive RT and chemotherapy
+Widely Metastatic Ewing Sarcoma
+Question: What are the treatment options for widely metastatic Ewing Sarcoma?
+Answers:
+Continue chemotherapy with palliative surgery
+Palliative RT to symptomatic areas
+Other techniques for multiple metastases
+Adjuvant and Additional Therapy for Ewing Sarcoma
+
+Question: What is the follow-up treatment after local control therapy with positive margins?
+Answers:
+If margins are positive, continue chemotherapy followed by RT
+If margins are negative, chemotherapy (category 1)
+Treatment of Metastases in Ewing Sarcoma
+
+Question: How should oligometastatic or lung-only metastatic Ewing Sarcoma be treated?
+Answers:
+Resection of metastases or RT for oligometastatic disease
+Resection plus whole lung irradiation (WLI) for lung-only partial response
+Consider whole lung irradiation for lung-only complete response
+Surveillance
+
+Description: Routine follow-up for osteosarcoma post-treatment
+Actions for Surveillance
+
+Physical Exam and Imaging
+
+Perform physical exam and imaging of the primary site and chest.
+Follow-Up Schedule
+
+Every 3 months for year 1 and 2
+Every 4 months for year 3
+Every 6 months for year 4 and 5
+Yearly thereafter, as clinically indicated
+Laboratory Studies
+
+Conduct complete blood count (CBC) and other laboratory studies as clinically indicated.
+Advanced Imaging
+
+Consider FDG-PET/CT (head-to-toe) and/or bone scan (category 2B).
+Function Assessment
+
+Reassess function at every visit.
+
+
+Relapse
+
+Description: Treatment options upon osteosarcoma relapse
+Actions for Relapse
+
+Chemotherapy and Resection
+
+Administer chemotherapy and/or resection if possible.
+Imaging to Assess Response
+
+Conduct imaging to assess response, including X-rays, contrast-enhanced CT & MRI of local sites, and Chest CT.
+Options for Relapse Progression
+
+If there is relapse or progression, consider the following:
+Resection, if possible
+Participation in a clinical trial
+Palliative radiation therapy (RT)
+Best supportive care

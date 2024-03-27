@@ -1,0 +1,33 @@
+Workup for Osteosarcoma
+
+Question: What are the workup steps for Osteosarcoma?
+Answers:
+History and physical examination
+Contrast-enhanced MRI and CT of the primary site, chest imaging including chest CT, FDG-PET/CT, and/or bone scan
+Lab tests including LDH and alkaline phosphatase (ALP)
+Consider fertility consultation and genetic counseling
+Primary Treatment for Osteosarcoma
+
+For low-grade osteosarcoma, assess if it is intramedullary or surface:
+If intramedullary, perform wide excision.
+If surface, consider chemotherapy.
+For high-grade osteosarcoma, refer to OSTEO-2 for treatment guidelines.
+For metastatic disease at presentation, refer to OSTEO-3 for treatment guidelines.
+For extraskeletal osteosarcoma, follow the NCCN Guidelines for Soft Tissue Sarcoma.
+Adjuvant Treatment for Osteosarcoma
+
+Question: What is the adjuvant treatment for high-grade osteosarcoma?
+Answers:
+For high-grade osteosarcoma, chemotherapy (category 1), followed by surveillance (OSTEO-4).
+For low-grade osteosarcoma, proceed to surveillance (OSTEO-4).
+Neoadjuvant Treatment for High-Grade Osteosarcoma
+
+Question: Is the high-grade osteosarcoma intramedullary or surface?
+Action: Administer preoperative chemotherapy (category 1).
+Restage: Assess if the tumor is resectable after restaging.
+If unresectable, proceed to adjuvant treatment.
+If resectable, perform wide excision.
+Postoperative Pathology: Assess if surgical margins are negative or positive.
+If margins are negative and the response is good, continue with chemotherapy.
+If margins are negative but the response is poor, continue the preoperative regimen or consider changing chemotherapy (category 3).
+If margins are positive, consider additional local therapy (surgical resection + RT).

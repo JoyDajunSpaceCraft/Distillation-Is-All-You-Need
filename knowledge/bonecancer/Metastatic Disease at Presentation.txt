@@ -1,0 +1,15 @@
+Metastatic Disease at Presentation
+
+Question: Is the metastatic disease resectable or unresectable?
+Resectable Metastatic Disease
+
+Action:
+Refer to OSTEO-2 for management of the primary tumor.
+Consider chemotherapy, metastasectomy, stereotactic radiation therapy (RT), or ablation for pulmonary, visceral, and skeletal metastases.
+Surveillance:
+Follow up with surveillance according to OSTEO-4.
+Unresectable Metastatic Disease
+
+Action:
+Administer chemotherapy and radiation therapy.
+Reassess the primary site as appropriate for local control.

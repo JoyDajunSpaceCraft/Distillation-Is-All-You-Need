@@ -1,0 +1,26 @@
+Initial Diagnostic Question
+
+Question: What steps should be taken when a symptomatic bone lesion is present and the X-ray is abnormal?
+Answer: The next step in the diagnostic pathway depends on the patient's age.
+Age-Based Diagnostic Decision
+
+Follow-Up Question: What is the age of the patient?
+
+If the patient is under 40 years old
+
+Question: What should be done if the patient is under 40 years of age?
+Answer: The patient should be referred to an orthopedic oncologist, and a biopsy should be performed at the treating institution if indicated.
+If the patient is 40 years of age or older
+
+Question: What should be done if the patient is 40 years of age or older?
+Answer: Further tests should be conducted to determine if bone metastasis is present.
+Further Testing Question: What tests should be performed to determine if bone metastasis is present?
+Further Testing Answer: These tests include history and physical examination, bone scan or FDG-PET/CT, chest X-ray, serum protein electrophoresis (SPEP), mammogram, chest/abdominal/pelvic (C/A/P) CT with contrast, prostate-specific antigen (PSA), and other lab tests.
+Follow-Up Tests for Bone Metastasis
+
+If no other lesions are found
+Question: What should be done if no other lesions are found?
+Answer: The patient should be referred to an orthopedic oncologist for a biopsy.
+If signs of other non-bone primary lesions are found
+Question: What should be done if signs of other non-bone primary lesions are found during the examination?
+Answer: Treatment should follow the NCCN guidelines for the specific type of cancer.

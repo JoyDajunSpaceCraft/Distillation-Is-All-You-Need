@@ -1,0 +1,75 @@
+Workup for Ewing Sarcoma
+
+Question: What are the recommended workup procedures for Ewing Sarcoma?
+Answer:
+History and physical examination
+Contrast-enhanced MRI of the primary site
+Chest CT
+FDG-PET/CT (head-to-toe) and/or bone scan
+Consider bone marrow biopsy and/or screening MRI of spine and pelvis
+Cytogenetics and/or molecular studies
+Lactate dehydrogenase (LDH) test
+Fertility consultation
+Primary Treatment for Localized Ewing Sarcoma
+
+Question: What is the primary treatment for localized Ewing Sarcoma?
+Answer: Multiagent chemotherapy for at least 9 weeks prior to local therapy.
+Restaging Ewing Sarcoma
+
+Question: What are the procedures for restaging Ewing Sarcoma?
+Answer:
+Restage with chest CT
+Contrast-enhanced MRI plus CT (without contrast) of the primary site
+X-rays of the primary site
+Consider FDG-PET/CT (head-to-toe) or bone scan
+Repeat other abnormal studies
+Response Assessment for Ewing Sarcoma
+
+Localized Disease
+Question: How is the response to treatment assessed for localized Ewing Sarcoma?
+Answer: Refer to the EW-2 section for response evaluation criteria.
+Metastatic Disease
+Question: How is the response to treatment assessed for metastatic Ewing Sarcoma?
+Answer: Refer to the EW-3 section for response evaluation criteria.
+Progressive Disease
+Question: What are the treatment options for progressive Ewing Sarcoma?
+Answer: Refer to the EW-3 section for response evaluation criteria.
+Post-Primary Treatment Surveillance for Ewing Sarcoma
+
+Question: What are the surveillance options post-treatment?
+Answers:
+Regular physical exam, contrast-enhanced MRI & CT of the primary site
+Chest imaging every 2-3 months, CBC, and other labs as indicated
+After 24 months, increase intervals for exams and imaging indefinitely
+Consider FDG-PET/CT or bone scan as clinically indicated
+Treatment for Progressive Disease or Relapse in Ewing Sarcoma
+
+Question: What is the treatment approach for progressive disease or relapse?
+Answers:
+Chemotherapy with or without RT and surgery
+Metastatic Ewing Sarcoma Treatment
+
+Local Control Therapy
+Question: Are the surgical margins positive after tumor excision?
+Answers:
+If yes, continue chemotherapy followed by RT
+If no, definitive RT and chemotherapy
+Widely Metastatic Ewing Sarcoma
+Question: What are the treatment options for widely metastatic Ewing Sarcoma?
+Answers:
+Continue chemotherapy with palliative surgery
+Palliative RT to symptomatic areas
+Other techniques for multiple metastases
+Adjuvant and Additional Therapy for Ewing Sarcoma
+
+Question: What is the follow-up treatment after local control therapy with positive margins?
+Answers:
+If margins are positive, continue chemotherapy followed by RT
+If margins are negative, chemotherapy (category 1)
+Treatment of Metastases in Ewing Sarcoma
+
+Question: How should oligometastatic or lung-only metastatic Ewing Sarcoma be treated?
+Answers:
+Resection of metastases or RT for oligometastatic disease
+Resection plus whole lung irradiation (WLI) for lung-only partial response
+Consider whole lung irradiation for lung-only complete response
